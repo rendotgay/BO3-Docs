@@ -3,9 +3,13 @@ Proning in front of a perk rewards points.
 ## Option 1: Adding spare change
 1. Open your map `.gsc` file
 2. Add the following near the top:
-	```#using scripts\zm\_zm_perks;```
+	```c
+	#using scripts\zm\_zm_perks;
+	```
 3. In the function `main()` add:
-	```level zm_perks::spare_change();```
+	```c
+	level zm_perks::spare_change();
+	```
 ## Option 2: Custom spare change
 1. Open your map `.gsc` file
 2. Add the following near the top:

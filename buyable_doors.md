@@ -1,4 +1,4 @@
-# Adding doors:
+# Adding doors
 ## Models
 1. Make model script_model
 2. Set `targetname`

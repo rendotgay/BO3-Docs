@@ -8,7 +8,7 @@
 ## Option 2: Custom spare change
 1. Open your map `.gsc` file
 2. Add the following near the top:
-	```
+	```c
 	#using scripts\zm\_zm_score;
 	```
 3. In the function `main()` add:

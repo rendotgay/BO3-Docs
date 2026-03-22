@@ -7,9 +7,15 @@
 	```level zm_perks::spare_change();```
 ## Option 2: Custom spare change
 1. Open your map `.gsc` file
-2. In the function `main()` add:
-	```level spare_change();```
-3. Under the `main()` function, outside of any other functions, add the following, replacing `5000` with your choice of points:
+2. Add the following near the top:
+	```
+	#using scripts\zm\_zm_score;
+	```
+3. In the function `main()` add:
+	```c#
+	level spare_change();
+	```
+4. Under the `main()` function, outside of any other functions, add the following, replacing `5000` with your choice of points:
 	```c#
 	function spare_change( str_trigger = "audio_bump_trigger", str_sound = "zmb_perks_bump_bottle" )
 	{

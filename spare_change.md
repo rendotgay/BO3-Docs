@@ -1,4 +1,5 @@
 # Spare change
+Proning in front of a perk rewards points.
 ## Option 1: Adding spare change
 1. Open your map `.gsc` file
 2. Add the following near the top:

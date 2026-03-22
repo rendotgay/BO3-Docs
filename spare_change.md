@@ -33,7 +33,7 @@
 
 			if ( player GetStance() == "prone" )
 			{
-				player zm_score::add_to_player_score( 50 );
+				player zm_score::add_to_player_score( 5000 );
 				zm_utility::play_sound_at_pos( "purchase", player.origin );
 				break;
 			}

@@ -8,4 +8,6 @@
 1. Add [buyable door](buyable_doors.md)
 2. Open your map `.gsc` file
 3. At the top of function `usermap_test_zone_init()` add:
-	```zm_zonemgr::add_adjacent_zone("zone1", "zone2", "zone1_zone2");```
+	```c#
+	zm_zonemgr::add_adjacent_zone("zone1", "zone2", "zone1_zone2");
+	```

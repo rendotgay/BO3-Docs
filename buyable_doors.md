@@ -65,13 +65,29 @@ These doors can rotate AND move at the set zombie_cost
 	    		model delete();
 	    	} else 
 	    	{
-			    target_angles = model.script_angles;
-			    target_offset = model.script_vector;
-			    target_origin = model GetOrigin();
-			    target_position = (target_origin[0] + target_offset[0], 
+			    target_angles = model GetAngles();
+	            if(IsDefined(model.script_angles))
+	            {
+	                target_angles = model.script_angles;
+	            }
+
+	            if(IsDefined(model.script_vector))
+	            {
+	                target_offset = model.script_vector;
+	                target_origin = model GetOrigin();
+			    	target_position = (target_origin[0] + target_offset[0], 
 	                   target_origin[1] + target_offset[1], 
 	                   target_origin[2] + target_offset[2]);
-			    transition_time = model getFloat("script_transition_time", 1.5);
+	            } else
+	            {
+	            	target_position = model GetOrigin();
+	            }
+			    
+			    transition_time = 1.5;
+	            if(IsDefined(model.script_transition_time))
+	            {
+	                transition_time = model.script_transition_time;
+	            }
 
 			    model MoveTo(target_position, transition_time, 0.5, 0.5);
 			    model RotateTo(target_angles, transition_time, 0.5, 0.5);

@@ -3,6 +3,7 @@
 1. Create an info_volume
 2. Set `targetname`
 3. Add KVP `script_noteworthy` and set to `player_volume`
+4. Add KVP `target` and set to zone spawner `targetname`
 
 ## Linking zones
 1. Add [buyable door](buyable_doors.md)

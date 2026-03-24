@@ -36,14 +36,21 @@ These doors can rotate AND move at the set zombie_cost
 	custom_doors = GetEntArray("custom_zombie_door", "targetname");
 	foreach(trigger in custom_doors)
 	{
-		trigger SetHintString("Hold ^3&&1 ^7to open Door [Cost: " + trigger.zombie_cost + "]");
-		trigger SetCursorHint("HINT_NOICON");
-		trigger waittill("trigger", door_action);
-		door_action custom_zombie_door(trigger);
+	    trigger SetHintString("Hold ^3&&1 ^7to open Door [Cost: " + trigger.zombie_cost + "]");
+	    trigger SetCursorHint("HINT_NOICON");
+	    trigger thread door_trigger_wait();
 	}
 	```
 4. Under the `main()` function, outside of any other functions, add the following:
 	```c
+	function door_trigger_wait()
+	{
+	    while(true)
+	    {
+	        self waittill("trigger", player);
+	        player custom_zombie_door(self);
+	    }
+	}
 	function custom_zombie_door(trigger)
 	{
 		if(!zm_score::can_player_purchase(trigger.zombie_cost))
@@ -56,6 +63,10 @@ These doors can rotate AND move at the set zombie_cost
 		
 		zm_utility::play_sound_at_pos("purchase", self.origin);
 		models = GetEntArray(trigger.target, "targetname");
+		if(IsDefined(trigger.script_flag))
+		{
+			level flag::set(trigger.script_flag);
+		}
 		trigger delete();
 
 	    foreach(model in models)
@@ -88,9 +99,19 @@ These doors can rotate AND move at the set zombie_cost
 	            {
 	                transition_time = model.script_transition_time;
 	            }
+	            transition_in_time = transition_time / 3;
+	            if(IsDefined(model.script_transition_in_time))
+	            {
+	                transition_in_time = model.script_transition_in_time;
+	            }
+	            transition_out_time = transition_time / 3;
+	            if(IsDefined(model.script_transition_out_time))
+	            {
+	                transition_out_time = model.script_transition_out_time;
+	            }
 
-			    model MoveTo(target_position, transition_time, 0.5, 0.5);
-			    model RotateTo(target_angles, transition_time, 0.5, 0.5);
+			    model MoveTo(target_position, transition_time, transition_in_time, transition_out_time);
+			    model RotateTo(target_angles, transition_time, transition_in_time, transition_out_time);
 	    	}
 	    }
 	}
@@ -103,6 +124,8 @@ These doors can rotate AND move at the set zombie_cost
 5. `script_vector`: offset position to be moved
 6. Optionally, you can add the following KVP's:
 	- `script_transition_time` - Time in seconds it takes the model to move
+	- `script_transition_in_time` - How long the beginning of the transition should take
+	- `script_transition_out_time` - How long the end of the transition should take
 ### Clip
 1. Add script_brushmodel
 2. Set `targetname`

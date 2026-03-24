@@ -5,9 +5,9 @@ These doors can rotate or move at the set zombie_cost
 1. Make model script_model
 2. Set `targetname`
 3. Add KVP(s)
-4. `script_angles`: rotation to be set to
-5. `script_vector`: offset position to be moved
-6. Optionally, you can add the following KVP's:
+	- `script_angles`: rotation to be set to
+	- `script_vector`: offset position to be moved
+4. Optionally, you can add the following KVP's:
 	- `script_firefx` - Effect to play on move
 	- `script_fxid` - Effect to play on deletion of model
 	- `script_noteworthy` - Set to jiggle if the model should "jiggle" before the move
@@ -110,9 +110,9 @@ These doors can rotate AND move at the set zombie_cost
 1. Make model script_model
 2. Set `targetname`
 3. Add KVP(s)
-4. `script_angles`: rotation to be set to
-5. `script_vector`: offset position to be moved
-6. Optionally, you can add the following KVP's:
+	- `script_angles`: rotation to be set to
+	- `script_vector`: offset position to be moved
+4. Optionally, you can add the following KVP's:
 	- `script_transition_time` - Time in seconds it takes the model to move
 ### Clip
 1. Add script_brushmodel

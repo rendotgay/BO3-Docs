@@ -99,19 +99,9 @@ These doors can rotate AND move at the set zombie_cost
 	            {
 	                transition_time = model.script_transition_time;
 	            }
-	            transition_in_time = transition_time / 3;
-	            if(IsDefined(model.script_transition_in_time))
-	            {
-	                transition_in_time = model.script_transition_in_time;
-	            }
-	            transition_out_time = transition_time / 3;
-	            if(IsDefined(model.script_transition_out_time))
-	            {
-	                transition_out_time = model.script_transition_out_time;
-	            }
 
-			    model MoveTo(target_position, transition_time, transition_in_time, transition_out_time);
-			    model RotateTo(target_angles, transition_time, transition_in_time, transition_out_time);
+			    model MoveTo(target_position, transition_time, 0.5, 0.5);
+			    model RotateTo(target_angles, transition_time, 0.5, 0.5);
 	    	}
 	    }
 	}
@@ -124,8 +114,6 @@ These doors can rotate AND move at the set zombie_cost
 5. `script_vector`: offset position to be moved
 6. Optionally, you can add the following KVP's:
 	- `script_transition_time` - Time in seconds it takes the model to move
-	- `script_transition_in_time` - How long the beginning of the transition should take
-	- `script_transition_out_time` - How long the end of the transition should take
 ### Clip
 1. Add script_brushmodel
 2. Set `targetname`

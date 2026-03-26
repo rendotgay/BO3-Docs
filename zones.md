@@ -1,4 +1,11 @@
 # Adding zones
+## TLDR
+```
+targetname <zone>
+script_noteworthy player_volume
+target <zone>_spawners
+```
+
 ## Adding a new zone
 1. Create an info_volume
 2. Set `targetname`

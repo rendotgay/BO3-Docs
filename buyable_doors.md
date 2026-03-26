@@ -1,8 +1,27 @@
 # Adding doors
 ## Option 1: Standard Doors
 These doors can rotate or move at the set zombie_cost
+### TLDR
+script_model
+```
+targetname <door>
+script_angles 0 0 0
+script_vector 0 0 0
+```
+script_brushmodel
+```
+targetname <door>
+script_noteworthy clip
+```
+trigger_use
+```
+targetname zombie_door
+script_flag <zone flag>
+target <door>
+zombie_cost 1000
+```
 ### Models
-1. Make model script_model
+1. Make model `script_model`
 2. Set `targetname`
 3. Add KVP(s)
 	- `script_angles`: rotation to be set to
@@ -13,7 +32,7 @@ These doors can rotate or move at the set zombie_cost
 	- `script_noteworthy` - Set to jiggle if the model should "jiggle" before the move
 	- `script_transition_time` - Time in seconds it takes the model to move
 ### Clip
-1. Add script_brushmodel
+1. Add `script_brushmodel`
 2. Set `targetname`
 3. Add KVP `script_noteworthy` and set to `clip`
 ### Buy
@@ -25,6 +44,25 @@ These doors can rotate or move at the set zombie_cost
 	- `zombie_cost`: point cost
 ## Option 2: Scripted doors
 These doors can rotate AND move at the set zombie_cost
+### TLDR
+script_model
+```
+targetname <door>
+script_angles 0 0 0
+script_vector 0 0 0
+```
+script_brushmodel
+```
+targetname <door>
+script_noteworthy clip
+```
+trigger_use
+```
+targetname custom_zombie_door
+script_flag <zone flag>
+target <door>
+zombie_cost 1000
+```
 ### Script
 1. Open your map `.gsc` file
 2. Add the following near the top:

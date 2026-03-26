@@ -15,6 +15,9 @@ A compilation of useful information for beginners to Black Ops III Radiant
 ### Movement
 - [Zombie Traversals](traversal.md)
 
+### Lighting
+- [Power Lighting](power_lighting.md)
+
 ### Weapons
 - [Box Weapons](box_weapons.md)
 

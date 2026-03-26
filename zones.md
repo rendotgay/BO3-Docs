@@ -1,5 +1,6 @@
 # Adding zones
 ## TLDR
+info_volume
 ```
 targetname <zone>
 script_noteworthy player_volume
@@ -7,7 +8,7 @@ target <zone>_spawners
 ```
 
 ## Adding a new zone
-1. Create an info_volume
+1. Create an `info_volume`
 2. Set `targetname`
 3. Add KVP `script_noteworthy` and set to `player_volume`
 4. Add KVP `target` and set to zone spawner `targetname`

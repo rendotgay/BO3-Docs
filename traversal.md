@@ -12,7 +12,7 @@ node_negotiation_end
 ```
 targetname auto2
 target auto1
-script_noteworthy custom traversal
+script_noteworthy custom_traversal
 ```
 ## Instructions
 1. Place a `node_negotiation_begin` and rotate it to face the direction you want

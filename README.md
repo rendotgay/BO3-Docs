@@ -15,6 +15,9 @@ A compilation of useful information for beginners to Black Ops III Radiant
 ### Movement
 - [Zombie Traversals](traversal.md)
 
+### Weapons
+- [Box Weapons](box_weapons.md)
+
 ### Perks
 - [Spare Change](spare_change.md)
 - [Modern Max Ammo](modern_max_ammo.md)

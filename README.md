@@ -13,7 +13,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Zones](zones.md)
 
 ### Movement
-- [Zombie Traversals](traversals.md)
+- [Zombie Traversals](traversal.md)
 
 ### Perks
 - [Spare Change](spare_change.md)

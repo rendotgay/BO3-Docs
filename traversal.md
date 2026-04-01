@@ -6,7 +6,7 @@ animscript <animation>
 previewanim1 <animation>
 targetname auto1
 target auto2
-script_noteworthy custom traversal
+script_noteworthy custom_traversal
 ```
 node_negotiation_end
 ```

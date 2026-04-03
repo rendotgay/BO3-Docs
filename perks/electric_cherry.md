@@ -5,13 +5,14 @@ How to add Electric Cherry to your custom map
 	Call of Duty Black Ops III/map_source/_prefabs/zm/
 	```
 	in either zm_core or your maps folder
+2. Extract the model with Wraith and import it into APE
 ## Option 1 (Download premade GSC):
-2. Download [`_zm_perk_electric_cherry.gsc`](files/_zm_perk_electric_cherry.gsc) and save it:
+3. Download [`_zm_perk_electric_cherry.gsc`](files/_zm_perk_electric_cherry.gsc) and save it:
 	```
 	Call of Duty Black Ops III/share/raw/scripts/zm
 	```
-3. Open your map `.gsc` file in your maps `scripts/zm` folder
-4. At the bottom of your perk imports, under
+4. Open your map `.gsc` file in your maps `scripts/zm` folder
+5. At the bottom of your perk imports, under
 	```cpp
 	#using scripts\zm\_zm_perk_staminup;
 	```
@@ -19,10 +20,10 @@ How to add Electric Cherry to your custom map
 	```cpp
 	#using scripts\zm\_zm_perk_electric_cherry;
 	```
-5. Open your map `.csc` file in your maps `scripts/zm` folder
-6. Repeat step 4 for your `.csc file`
-7. In your maps folder in `Call of Duty Black Ops III/usermaps`, open your `.zone` file in `zone_source`, or open it from the Mod Tools Launcher by right clicking your map
-8. Add the following lines:
+6. Open your map `.csc` file in your maps `scripts/zm` folder
+7. Repeat step 4 for your `.csc file`
+8. In your maps folder in `Call of Duty Black Ops III/usermaps`, open your `.zone` file in `zone_source`, or open it from the Mod Tools Launcher by right clicking your map
+9. Add the following lines:
 	```zone
 	xmodel,p6_zm_vending_electric_cherry_off
 	xmodel,p6_zm_vending_electric_cherry_on
@@ -30,11 +31,11 @@ How to add Electric Cherry to your custom map
 	scriptparsetree,scripts/zm/_zm_perk_electric_cherry.csc
 	```
 ## Option 2 (Create GSC Manually):
-2. Open `_zm_perk_electric_cherry.gsc` in:
+3. Open `_zm_perk_electric_cherry.gsc` in:
 	```
 	Call of Duty Black Ops III/share/raw/scripts/zm
 	```
-3. Find the line:
+4. Find the line:
 	```
 	//TODO update these to proper settings
 	```
@@ -48,7 +49,7 @@ How to add Electric Cherry to your custom map
 	#define ELECTRIC_CHERRY_RADIANT_MACHINE_NAME        "vending_electriccherry"
 	#define ELECTRIC_CHERRY_MACHINE_LIGHT_FX            "electric_cherry_light"
 	```
-4. Find:
+5. Find:
 	```CPP
 	function enable_electric_cherry_perk_for_level()
 	{
@@ -75,7 +76,7 @@ How to add Electric Cherry to your custom map
 		init_electric_cherry();
 	}
 	```
-5. Find:
+6. Find:
 	```CPP
 	function electric_cherry_perk_machine_setup()
 	{
@@ -98,9 +99,9 @@ How to add Electric Cherry to your custom map
 		}
 	}
 	```
-6. Save and close the file
-7. Open your map `.gsc` file in your maps `scripts/zm` folder
-8. At the bottom of your perk imports, under
+7. Save and close the file
+8. Open your map `.gsc` file in your maps `scripts/zm` folder
+9. At the bottom of your perk imports, under
 	```cpp
 	#using scripts\zm\_zm_perk_staminup;
 	```
@@ -108,10 +109,10 @@ How to add Electric Cherry to your custom map
 	```cpp
 	#using scripts\zm\_zm_perk_electric_cherry;
 	```
-9. Open your map `.csc` file in your maps `scripts/zm` folder
-10. Repeat step 8 for your `.csc file`
-11. In your maps folder in `Call of Duty Black Ops III/usermaps`, open your `.zone` file in `zone_source`, or open it from the Mod Tools Launcher by right clicking your map
-12. Add the following lines:
+10. Open your map `.csc` file in your maps `scripts/zm` folder
+11. Repeat step 8 for your `.csc file`
+12. In your maps folder in `Call of Duty Black Ops III/usermaps`, open your `.zone` file in `zone_source`, or open it from the Mod Tools Launcher by right clicking your map
+13. Add the following lines:
 	```zone
 	xmodel,p6_zm_vending_electric_cherry_off
 	xmodel,p6_zm_vending_electric_cherry_on

@@ -1,7 +1,7 @@
 # Adding zones
 ## TLDR
 info_volume
-```
+```kvp
 targetname <zone>
 script_noteworthy player_volume
 target <zone>_spawners

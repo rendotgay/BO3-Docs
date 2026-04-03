@@ -23,5 +23,8 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Box Weapons](box_weapons.md)
 
 ### Perks
-- [Spare Change](spare_change.md)
 - [Modern Max Ammo](modern_max_ammo.md)
+- [Spare Change](perks/spare_change.md)
+- [Perk Cost](perks/perk_cost.md)
+- [Widows Wine](perks/widows_wine.md)
+- [Electric Cherry](perks/electric_cherry.md)

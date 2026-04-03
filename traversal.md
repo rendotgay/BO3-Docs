@@ -1,7 +1,7 @@
 # Custom Zombie Traversals
 ## TLDR
 node_negotiation_begin
-```
+```kvp
 animscript <animation>
 previewanim1 <animation>
 targetname auto1
@@ -9,7 +9,7 @@ target auto2
 script_noteworthy custom_traversal
 ```
 node_negotiation_end
-```
+```kvp
 targetname auto2
 target auto1
 script_noteworthy custom_traversal

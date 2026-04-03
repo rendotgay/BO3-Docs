@@ -1,4 +1,4 @@
-# Black Ops III Radiant Documentation
+# Black Ops III Mod Tools Documentation
 
 A compilation of useful information for beginners to Black Ops III Radiant
 

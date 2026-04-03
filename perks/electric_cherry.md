@@ -1,5 +1,6 @@
 # Electric Cherry
 How to add Electric Cherry to your custom map
+
 <sub>Just a heads up, this is a long and tedious process!</sub>
 
 ## Step 1: Exporting the model (Skip if using a different model!)

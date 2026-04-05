@@ -10,4 +10,8 @@ Remove any chosen drop(s) from dropping from your map
 	```
 	zm_powerups::powerup_remove_from_regular_drops( "minigun" );
 	```
-	and replace `minigun` with whatever drop you'd like removed
+	and replace `minigun` with whatever drop you'd like removed:
+	- `insta_kill`
+	- `full_ammo`
+	- `double_points`
+	- `nuke`

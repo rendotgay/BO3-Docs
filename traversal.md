@@ -1,5 +1,5 @@
 # Custom Zombie Traversals
-## TLDR
+## TL;DR
 node_negotiation_begin
 ```kvp
 animscript <animation>

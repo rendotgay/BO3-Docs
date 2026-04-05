@@ -1,7 +1,7 @@
 # Adding doors
 ## Option 1: Standard Doors
 These doors can rotate or move at the set zombie_cost
-### TLDR
+### TL;DR
 script_model
 ```kvp
 targetname <door>
@@ -45,7 +45,7 @@ zombie_cost 1000
 	- `zombie_cost`: point cost
 ## Option 2: Scripted doors
 These doors can rotate AND move at the set zombie_cost
-### TLDR
+### TL;DR
 script_model
 ```kvp
 targetname <door>

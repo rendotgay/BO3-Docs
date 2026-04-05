@@ -4,6 +4,9 @@ A compilation of useful information for beginners to Black Ops III Radiant
 
 ## Table of Contents
 
+### Generic
+- [Custom Sounds](sounds.md)
+
 ### Fixes
 - [Fix Sounds](fix_sounds.md)
 - [Fix Power Lag](fix_power_lag.md)

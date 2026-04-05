@@ -10,6 +10,7 @@ script_vector 0 0 0
 ```
 script_brushmodel
 ```kvp
+DYNAMICPATH ❎ True
 targetname <door>
 script_noteworthy clip
 ```

@@ -11,6 +11,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 ### Zones
 - [Buyable Doors](buyable_doors.md)
 - [Zones](zones.md)
+- [Spawners](spawners.md)
 
 ### Movement
 - [Zombie Traversals](traversal.md)

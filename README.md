@@ -24,8 +24,9 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Box Weapons](box_weapons.md)
 
 ### Drops
-- [Modern Max Ammo](modern_max_ammo.md)
 - [Remove Drops](remove_drops.md)
+- [Modern Max Ammo](modern_max_ammo.md)
+- [Buffed Nuke](buffed_nuke.md)
 
 ### Perks
 - [Spare Change](perks/spare_change.md)

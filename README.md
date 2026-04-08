@@ -4,9 +4,6 @@ A compilation of useful information for beginners to Black Ops III Radiant
 
 ## Table of Contents
 
-### Generic
-- [Custom Sounds](sounds.md)
-
 ### Fixes
 - [Fix Sounds](fix_sounds.md)
 - [Fix Power Lag](fix_power_lag.md)
@@ -36,3 +33,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Perk Cost](perks/perk_cost.md)
 - [Widows Wine](perks/widows_wine.md)
 - [Electric Cherry](perks/electric_cherry.md)
+
+### Sounds
+- [Adding Sounds](sounds.md)
+- [Chatter](chatter.md)

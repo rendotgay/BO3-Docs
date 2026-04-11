@@ -7,7 +7,7 @@ Add a single starting weapon for everybody
 	```cpp
 	level.start_weapon = (getWeapon("GUN_NAME"));
 	```
-3. Replace `GUN_NAME` with the developer name for the weapon
+3. Replace `GUN_NAME` with the [internal name for the weapon](weapon_names.md)
 ## Scripted
 Add a scripted event to decide the starting weapon
 1. If you haven't already, copy `zm_usermap.gsc` from `Call of Duty Black Ops III/share/raw/scripts/zm`

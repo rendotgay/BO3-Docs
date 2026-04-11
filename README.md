@@ -10,7 +10,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 ### Fixes
 - [Fix Sounds](fix_sounds.md)
 - [Fix Power Lag](fix_power_lag.md)
-- [Ladder Fix](ladders.md)
+- [Fix Ladders](ladders.md)
 
 ### Zones
 - [Buyable Doors](buyable_doors.md)

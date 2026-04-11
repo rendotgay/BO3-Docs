@@ -1,5 +1,6 @@
 # Custom Starting Weapon
 Change the starting weapon on your map
+
 ## Basic
 Add a single starting weapon for everybody
 1. Open your map's GSC file in `usermaps/scripts/zm`
@@ -8,10 +9,12 @@ Add a single starting weapon for everybody
 	level.start_weapon = (getWeapon("GUN_NAME"));
 	```
 3. Replace `GUN_NAME` with the [internal name for the weapon](weapon_names.md)
+
 ## Scripted
 Add a scripted event to decide the starting weapon
 1. If you haven't already, copy `zm_usermap.gsc` from `Call of Duty Black Ops III/share/raw/scripts/zm`
 2. In your maps folder in usermaps, paste `zm_usermap.gsc` into `scripts/zm`
+
 ### Randomized from list
 1. Inside the `main()` function under `load::main();` in the pasted `zm_usermap.gsc`, add:
 	```cpp
@@ -41,6 +44,7 @@ Add a scripted event to decide the starting weapon
 	    self SwitchToWeapon( start_wep );  // Auto-switch
 	}
 	```
+	
 ### Set Weapon Per Character
 1. Inside the `main()` function under `load::main();` in the pasted `zm_usermap.gsc`, add:
 	```cpp

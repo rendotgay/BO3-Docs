@@ -1,5 +1,5 @@
 # Chatter
-Make the character talk to the player
+GSC code to make the character talk to the player
 
 ## Self Audio
 Plays audio only the player who triggers it can hear:

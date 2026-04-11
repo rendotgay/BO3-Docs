@@ -7,20 +7,22 @@ A compilation of useful information for beginners to Black Ops III Radiant
 ### Fixes
 - [Fix Sounds](fix_sounds.md)
 - [Fix Power Lag](fix_power_lag.md)
+- [Ladder Fix](ladders.md)
 
 ### Zones
 - [Buyable Doors](buyable_doors.md)
 - [Zones](zones.md)
 - [Spawners](spawners.md)
 
-### Movement
+### Zombies
+- [Disable Dog Rounds](disable_dogs.md)
 - [Zombie Traversals](traversal.md)
-- [Ladder Fix](ladders.md)
 
 ### Lighting
 - [Power Lighting](power_lighting.md)
 
 ### Weapons
+- [Starting Weapon](start_weapon.md)
 - [Box Weapons](box_weapons.md)
 
 ### Drops

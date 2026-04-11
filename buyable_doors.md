@@ -75,7 +75,7 @@ zombie_cost 1000
 	custom_doors = GetEntArray("custom_zombie_door", "targetname");
 	foreach(trigger in custom_doors)
 	{
-	    trigger SetHintString("Hold ^3&&1 ^7to open Door [Cost: " + trigger.zombie_cost + "]");
+	    trigger SetHintString("Hold ^3[{+activate}]^7 to open Door [Cost: " + trigger.zombie_cost + "]");
 	    trigger SetCursorHint("HINT_NOICON");
 	    trigger thread door_trigger_wait();
 	}

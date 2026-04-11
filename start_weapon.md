@@ -41,3 +41,30 @@ Add a scripted event to decide the starting weapon
 	    self SwitchToWeapon( start_wep );  // Auto-switch
 	}
 	```
+### Set Weapon Per Character
+1. Inside the `main()` function under `load::main();` in the pasted `zm_usermap.gsc`, add:
+	```cpp
+	level.start_weapons = [];
+	level.start_weapons[level.start_weapons.size] = "GUN_ONE";
+	level.start_weapons[level.start_weapons.size] = "GUN_TWO";
+	level.start_weapons[level.start_weapons.size] = "GUN_THREE";
+	```
+2. Find the `giveCustomLoadout()` function and replace it with this:
+	```cpp
+	function giveCustomLoadout( takeAllWeapons, alreadySpawned )
+	{
+		self GiveWeapon( level.weaponBaseMelee );
+		if( !IsDefined( level.start_weapons ) || level.start_weapons.size == 0 )
+	    {
+	        self zm_utility::give_start_weapon( true );  // Fallback
+	        return;
+	    }
+
+		start_wep_str = level.start_weapons[ random_index ];
+	    start_wep = GetWeapon( self.characterIndex );
+
+	    self GiveWeapon( start_wep );
+	    //self GiveMaxAmmo( start_wep );  // Full ammo
+	    self SwitchToWeapon( start_wep );  // Auto-switch
+	}
+	```

@@ -18,8 +18,9 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Spawners](spawners.md)
 
 ### Zombies
+- [Health](zombie_health.md)
 - [Disable Dog Rounds](disable_dogs.md)
-- [Zombie Traversals](traversal.md)
+- [Traversals](traversal.md)
 
 ### Lighting
 - [Power Lighting](power_lighting.md)

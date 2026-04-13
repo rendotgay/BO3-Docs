@@ -1,7 +1,7 @@
 # Weapon Names
 Internal names for weapons
 ## Pistols
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 L-CAR |pistol_fullauto
 MR6|pistol_standard
@@ -12,7 +12,7 @@ Rift E9|pistol_energy
 Bloodhound|pistol_revolver38
 
 ## SMGs
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 Kuda|smg_standard
 Pharo|smg_burst
@@ -30,7 +30,7 @@ DIY 11 Renovator|smg_nailgun
 Bootlegger|smg_sten
 
 ## Shotguns
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 205 Brecci|shotgun_semiauto
 Argus|shotgun_precision
@@ -40,7 +40,7 @@ Banshii|shotgun_energy
 Olympia|shotgun_olympia
 
 ## ARs
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 HVK-30|ar_cqb
 ICR-1|ar_accurate
@@ -57,7 +57,7 @@ Peacekeeper MK2|ar_peacekeeper
 LV8 Basilisk|ar_pulse
 
 ## LMGs
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 48 Dredge|lmg_heavy
 BRM|lmg_light
@@ -67,7 +67,7 @@ RPK|lmg_rpk
 R70|lmg_infinite
 
 ## Snipers
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 Drakon|sniper_fastsemi
 Locus|sniper_fastbolt
@@ -78,7 +78,7 @@ RSA Interdiction|sniper_quickscope
 XPR-50|sniper_xpr50
 
 ## Specials
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 XM-53|launcher_standard
 Black Cell|launcher_lockonly
@@ -91,7 +91,7 @@ Default Weapon|defaultweapon
 Base Weapon|baseweapon
 
 ## Wonder Weapons
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 Ray Gun|ray_gun
 Ray Gun Mark II|raygun_mark2
@@ -107,7 +107,7 @@ Fire Bow|elemental_bow_rune_prison
 Wolf Bow|elemental_bow_wolf_howl
 
 ## Melees
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 Ace of Spades|melee_shovel
 Bowie Knife|bowie_knife
@@ -133,14 +133,14 @@ Slash n' Burn|melee_fireaxe
 Wrench|melee_wrench
 
 ## Specialists
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 Ragnarok DG-4|hero_ragnarok_dg4
 Skull of Nan Sapwe|hero_skull_nan_sapwe
 Apothicon Sword|hero_sword_apothicon
 
 ## Grenades
-**Display Name**|**Internal Name**
+Display Name|Internal Name
 | -------- | -------- |
 Frag|frag_grenade
 Semtex|sticky_grenade

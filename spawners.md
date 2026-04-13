@@ -3,11 +3,12 @@ How to add zombie spawners
 ## Option 1: Ground Spawners
 ### TL;DR
 script_struct
-```kvp
-targetname <zone>_spawners
-script_noteworthy riser_location
-script_string find_flesh
-```
+Key|Value
+| - | - |
+targetname|Your Zone Spawners Name
+script_noteworthy|riser_location
+script_string|find_flesh
+
 1. Add a `script_struct` where you want the zombies to spawn
 2. Set the `targetname` KVP to the name of your zone the target set in your [zone](zones.md)
 3. Add KVP `script_noteworthy` and set it to `riser_location`

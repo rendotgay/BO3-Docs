@@ -126,133 +126,134 @@ function get_random_other_player()
 ```
 
 ## Examples
-- No ammo dialog that repeats every 30 seconds until the player swaps to a weapon with ammo
-	```cpp
-	function watch_no_ammo()
-	{
-	    self endon( "death" );
-	    self endon( "disconnect" );
+### No ammo dialog that repeats every 30 seconds until the player swaps to a weapon with ammo
+```cpp
+function watch_no_ammo()
+{
+    self endon( "death" );
+    self endon( "disconnect" );
 
-	    while( true )
-	    {
-	        self waittill( "weapon_fired" );
+    while( true )
+    {
+        self waittill( "weapon_fired" );
 
-	        currentWeapon = self GetCurrentWeapon();
-	        if( !IsDefined( currentWeapon ) )
-	            continue;
+        currentWeapon = self GetCurrentWeapon();
+        if( !IsDefined( currentWeapon ) )
+            continue;
 
-	        if( currentWeapon.clipsize <= 0 )
-	            continue;
+        if( currentWeapon.clipsize <= 0 )
+            continue;
 
-	        ammoInClip  = self GetWeaponAmmoClip( currentWeapon );
-	        ammoInStock = self GetWeaponAmmoStock( currentWeapon );
+        ammoInClip  = self GetWeaponAmmoClip( currentWeapon );
+        ammoInStock = self GetWeaponAmmoStock( currentWeapon );
 
-	        if( ammoInClip == 0 && ammoInStock == 0 )
-	        {
-	            self play_dialog_positional( "ammo" );
-	            while( true )
-	            {
-	                wait 30.0;
+        if( ammoInClip == 0 && ammoInStock == 0 )
+        {
+            self play_dialog_positional( "ammo" );
+            while( true )
+            {
+                wait 30.0;
 
-	                currentWeapon = self GetCurrentWeapon();
-	                if( !IsDefined( currentWeapon ) )
-	                    break;
+                currentWeapon = self GetCurrentWeapon();
+                if( !IsDefined( currentWeapon ) )
+                    break;
 
-	                ammoInClip  = self GetWeaponAmmoClip( currentWeapon );
-	                ammoInStock = self GetWeaponAmmoStock( currentWeapon );
+                ammoInClip  = self GetWeaponAmmoClip( currentWeapon );
+                ammoInStock = self GetWeaponAmmoStock( currentWeapon );
 
-	                if( ammoInClip > 0 || ammoInStock > 0 )
-	                    break; // they got ammo, exit inner loop
+                if( ammoInClip > 0 || ammoInStock > 0 )
+                    break; // they got ammo, exit inner loop
 
-	                self play_dialog_positional( "ammo" );
-	            }
-	        }
-	    }
-	}
-	```
-- Close call dialog triggers when player drops below 25% health and then recovers
-	```cpp
-	function watch_close_call()
-	{
-	    self endon( "death" );
-	    self endon( "disconnect" );
+                self play_dialog_positional( "ammo" );
+            }
+        }
+    }
+}
+```
+### Close call dialog triggers when player drops below 25% health and then recovers
+```cpp
+function watch_close_call()
+{
+    self endon( "death" );
+    self endon( "disconnect" );
 
-	    min_threshold = int( self.maxhealth * 0.25 );
-	    max_threshold = int( self.maxhealth * 0.9 );
-	    was_low = false;
+    min_threshold = int( self.maxhealth * 0.25 );
+    max_threshold = int( self.maxhealth * 0.9 );
+    was_low = false;
 
-	    while( true )
-	    {
-	        wait 0.2;
+    while( true )
+    {
+        wait 0.2;
 
-	        if( !IsDefined( self.health ) )
-	            continue;
+        if( !IsDefined( self.health ) )
+            continue;
 
-	        if( self.health <= min_threshold )
-	        {
-	            was_low = true;
-	        }
-	        else if( was_low && self.health >= max_threshold )
-	        {
-	            was_low = false;
+        if( self.health <= min_threshold )
+        {
+            was_low = true;
+        }
+        else if( was_low && self.health >= max_threshold )
+        {
+            was_low = false;
 
-	            if( !self laststand::player_is_in_laststand() )
-	                self play_dialog( "close_call" );
-	        }
-	    }
-	}
-	```
-- Grenade throw dialog (can be expanded for any grenade, not just frags)
-	```cpp
-	function watch_grenade()
-	{
-	    self endon( "death" );
-	    self endon( "disconnect" );
+            if( !self laststand::player_is_in_laststand() )
+                self play_dialog( "close_call" );
+        }
+    }
+}
+```
+### Grenade throw dialog (can be expanded for any grenade, not just frags)
+```cpp
+function watch_grenade()
+{
+    self endon( "death" );
+    self endon( "disconnect" );
 
-	    while( true )
-	    {
-	        self waittill( "grenade_fire", grenade, weapon );
-	        if( weapon.name == "frag_grenade" )
-	            self play_dialog_positional( "frag" );
-	    }
-	}
-	```
-- Player downed dialog that has other players react to dialog if not solo, else downed player reacts
-	```cpp
-	function watch_downed()
-	{
-	    self endon( "death" );
-	    self endon( "disconnect" );
+    while( true )
+    {
+        self waittill( "grenade_fire", grenade, weapon );
+        if( weapon.name == "frag_grenade" )
+            self play_dialog_positional( "frag" );
+    }
+}
+```
+### Player downed dialog that has other players react to dialog if not solo, else downed player reacts
+```cpp
+function watch_downed()
+{
+    self endon( "death" );
+    self endon( "disconnect" );
 
-	    while( true )
-	    {
-	        self waittill( "player_downed" );
+    while( true )
+    {
+        self waittill( "player_downed" );
 
-	        // Pick a random player
-	        players = GetPlayers();
+        // Pick a random player
+        players = GetPlayers();
 
-	        if( players.size > 1 )
-	        {
-	            speaker = self get_random_other_player();
-	            speaker play_dialog_global( "downed_other" );
-	        }
-	        else {
-	            self play_dialog_global( "downed_self" );
-	        }
-	    }
-	}
-	```
-- Player revived dialog
-	```cpp
-	function watch_revived()
-	{
-	    self endon( "death" );
-	    self endon( "disconnect" );
+        if( players.size > 1 )
+        {
+            speaker = self get_random_other_player();
+            speaker play_dialog_global( "downed_other" );
+        }
+        else {
+            self play_dialog_global( "downed_self" );
+        }
+    }
+}
+```
+*I'm working on a 'call for help' button, but it still needs some polishing before I share it*
+### Player revived dialog
+```cpp
+function watch_revived()
+{
+    self endon( "death" );
+    self endon( "disconnect" );
 
-	    while( true )
-	    {
-	        self waittill( "player_revived" );
-	        self play_dialog_positional( "thankful" );
-	    }
-	}
-	```
+    while( true )
+    {
+        self waittill( "player_revived" );
+        self play_dialog_positional( "thankful" );
+    }
+}
+```

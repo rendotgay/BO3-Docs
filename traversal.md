@@ -1,19 +1,21 @@
 # Custom Zombie Traversals
 ## TL;DR
 node_negotiation_begin
-```kvp
-animscript <animation>
-previewanim1 <animation>
-targetname auto1
-target auto2
-script_noteworthy custom_traversal
-```
+Key|Value
+| - | - |
+animscript|Animation Name
+previewanim1|Animation Name
+targetname|auto1
+target|auto2
+script_noteworthy|custom_traversal
+
 node_negotiation_end
-```kvp
-targetname auto2
-target auto1
-script_noteworthy custom_traversal
-```
+Key|Value
+| - | - |
+targetname|auto2
+target|auto1
+script_noteworthy|custom_traversal
+
 ## Instructions
 1. Place a `node_negotiation_begin` and rotate it to face the direction you want
 2. Set `animscript` to an animation, which can be found in your Black Ops III directory `/xanim_export/ai/zombie`

@@ -5,7 +5,7 @@ How to add Electric Cherry to your custom map
 
 ## Step 1: Exporting the model (Skip if using a different model!)
 **Sharing the following model would be distributing copyrighted assets which is a crime!**
-1. [Download Wraith](https://github.com/Scobalula/Greyhound) and run `Greyhound.exe`
+1. [Download Greyhound](https://github.com/Scobalula/Greyhound) and run `Greyhound.exe`
 2. Open Settings and ensure the following settings are checked:
 ### In-Game Settings
 - ☑️ Load "XModels" from the game
@@ -27,47 +27,52 @@ Copy your `.tiff`'s' in `/_images` and it's subfolders to `Call of Duty Black Op
 
 ## Step 3: p6_zm_vending_electric_cherry_off (Skip if using a different model!)
 1. Create a new asset
-```
-Asset Name: p6_zm_vending_electric_cherry_off
-Asset Type: xmodel
-GDT File: <your gdt>
-```
+Key|Value
+| - | - |
+Asset Name|p6_zm_vending_electric_cherry_off
+Asset Type|xmodel
+GDT File|Your GDT
+
 2. Scroll down to LOD 0 and add your `p6_zm_vending_electric_cherry_off.XMODEL_BIN` file
 3. Under `Materials` create a new Material for `mtl_p6_zm_al_glass_frosted_clear_center` and set it up like so:
-```
-Material Type: glass_transparent
-Surface Type: glass
-Gloss Range: glass
-Usage: tools
-```
+Key|Value
+| - | - |
+Material Type|glass_transparent
+Surface Type|glass
+Gloss Range|glass
+Usage|tools
+
 4. Under `Color` create a new image for `Color Map` and set the `Texture` to `~-gzombie_vending_electric_cherry_c.tiff`
 5. Under `Specular and Gloss` create a new image for `Gloss Map` and set the `Texture` to `~~-gglass_frosted_panel_spc-r~568cfc3f.tiff`
 6. Back to the model, create a new Material for `mtl_p6_zm_vending_electric_cherry_off` and set it up like so:
-```
-Material Type: lit
-Surface Type: metal
-Gloss Range: metal
-Usage: tools
-```
+Key|Value
+| - | - |
+Material Type|lit
+Surface Type|metal
+Gloss Range|metal
+Usage|tools
+
 7. Under `Color` create a new image for `Color Map` and set the `Texture` to `~-gzombie_vending_electric_cherry_c.tiff`
 8. Under `Normal` create a new image for `Normal Map` and set the `Texture` to `zombie_vending_electric_cherry_n.tiff`
 9. Back to the model, create a new Material for `zm_al_blood_drips_run_medium` and set it up like so:
-```
-Material Type: lit_alphatest
-Surface Type: metal
-Gloss Range: metal
-Usage: tools
-```
+Key|Value
+| - | - |
+Material Type|lit_alphatest
+Surface Type|metal
+Gloss Range|metal
+Usage|tools
+
 10. Under `Color` create a new image for `Color Map` and set the `Texture` to `~-gglo_dec_mature_blood_splt_~c028c2d0.tiff`
 11. Under `Normal` create a new image for `Normal Map` and set the `Texture` to `glo_dec_blood_splat_drip_run_medium_n.tiff`
 
 ## Step 4: p6_zm_vending_electric_cherry_on (Skip if using a different model!)
 1. Create a new asset
-```
-Asset Name: p6_zm_vending_electric_cherry_on
-Asset Type: xmodel
-GDT File: <your gdt>
-```
+Key|Value
+| - | - |
+Asset Name|p6_zm_vending_electric_cherry_on
+Asset Type|xmodel
+GDT File|Your GDT
+
 2. Scroll down to LOD 0 and add your `p6_zm_vending_electric_cherry_on.XMODEL_BIN` file
 3. Under `Materials` enter `mtl_p6_zm_vending_electric_cherry_off` in the text box to the right of `mtl_p6_zm_vending_electric_cherry_on`
 

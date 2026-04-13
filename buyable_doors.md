@@ -3,24 +3,26 @@
 These doors can rotate or move at the set zombie_cost
 ### TL;DR
 script_model
-```kvp
-targetname <door>
-script_angles 0 0 0
-script_vector 0 0 0
-```
+Key|Value
+| - | - |
+targetname|Your Door Name
+script_angles|0 0 0
+script_vector|0 0 0
+
 script_brushmodel
-```kvp
-DYNAMICPATH ❎ True
-targetname <door>
-script_noteworthy clip
-```
+Key|Value
+| - | - |
+DYNAMICPATH|❎ True
+targetname|Your Door Name
+script_noteworthy|clip
+
 trigger_use
-```kvp
-targetname zombie_door
-script_flag <zone flag>
-target <door>
-zombie_cost 1000
-```
+Key|Value
+| - | - |
+targetname|zombie_door
+script_flag|Your Zone Flag
+target|Your Door Name
+zombie_cost|1000
 ### Models
 1. Make model `script_model`
 2. Set `targetname`
@@ -47,23 +49,26 @@ zombie_cost 1000
 These doors can rotate AND move at the set zombie_cost
 ### TL;DR
 script_model
-```kvp
-targetname <door>
-script_angles 0 0 0
-script_vector 0 0 0
-```
+Key|Value
+| - | - |
+targetname|Your Door Name
+script_angles|0 0 0
+script_vector|0 0 0
+
 script_brushmodel
-```kvp
-targetname <door>
-script_noteworthy clip
-```
+Key|Value
+| - | - |
+DYNAMICPATH|❎ True
+targetname|Your Door Name
+script_noteworthy|clip
+
 trigger_use
-```kvp
-targetname custom_zombie_door
-script_flag <zone flag>
-target <door>
-zombie_cost 1000
-```
+Key|Value
+| - | - |
+targetname|custom_zombie_door
+script_flag|Your Zone Flag
+target|Your Door Name
+zombie_cost|1000
 ### Script
 1. Open your map `.gsc` file
 2. Add the following near the top:

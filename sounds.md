@@ -1,6 +1,10 @@
 # Custom Sounds
 How to add custom sounds to your map
 1. Export your audio as 48000 Hz WAV. If you don't know how to do that, I recommend [Audacity](https://www.audacityteam.org/download/). Drag your audio in, crop it if you'd like, select `File > Export Audio` and set `Format: WAV (Microsoft)`, `Encoding: Signed 16-bit PCM` and `Sample Rate: 48000 Hz`
+	- Or if you have `ffmpeg`, use:
+	```bash
+	ffmpeg -i input_file -c:a pcm_s16le -ar 48000 output.wav
+	```
 2. Save it in your `Call of Duty Black Ops III\sound_assets`, into a new folder if you'd like
 3. Open `Call of Duty Black Ops III\share\raw\sound\aliases\user_aliases.csv`
 	*you can put this in any `.csv` if you know how to edit your maps `.szc`*

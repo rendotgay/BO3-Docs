@@ -1,11 +1,11 @@
 # Adding zones
 ## TL;DR
 info_volume
-```kvp
-targetname <zone>
-script_noteworthy player_volume
-target <zone>_spawners
-```
+Key|Value
+| - | - |
+targetname|Your Zone Name
+script_noteworthy|player_volume
+target|Your Zone Spawners Name
 
 ## Adding a new zone
 1. Create an `info_volume`

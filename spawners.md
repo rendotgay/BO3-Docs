@@ -19,15 +19,17 @@ script_string|find_flesh
 ### Note: one spawner can only target one barricade
 ### TL;DR
 misc_prefab
-```kvp
-script_string <zone>_b<number>
-```
+Key|Value
+| - | - |
+script_string|Barricade Unique Identifier
+
 script_struct
-```kvp
-targetname <zone>_spawners
-script_noteworthy riser_location
-script_string <zone>_b<number>
-```
+Key|Value
+| - | - |
+targetname|Your Zone Spawners Name
+script_noteworthy|riser_location
+script_string|Barricade Unique Identifier
+
 1. Add a barricade prefab from `_prefabs/zm/zm_core/` and position it
 2. Add the KVP `script_string` and set it to your zone name followed by `_b` followed by a unique number, for example: `start_zone_b1`
 3. Add a `script_struct` where you want the zombies to spawn

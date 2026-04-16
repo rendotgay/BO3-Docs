@@ -46,10 +46,10 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Chatter](chatter.md)
 
 ## Resources
-[Program115](https://www.youtube.com/playlist?list=PL1rMfOFuHfbNymLALGLkZlqdbWHGiKD_K)
-[VerK0](https://www.youtube.com/playlist?list=PLYAF4YwatlpU47HOddWaEPJlQt3yjoNtY)
-[Modme Forum Archive](https://forum.modme.co)
-[IceGrenade](https://icegrenade.co.uk/tutorials)
-[DEVRAW](https://www.devraw.net/resources#comp-m3ytuuew)
-[Skye's Weapon Ports](https://www.ugx-mods.com/forum/full-weapons/84/skyes-weapon-ports-to-bo3-master-hub/16874/)
-[Corvid](https://youtu.be/izALMNZjgkA)
+- [Program115](https://www.youtube.com/playlist?list=PL1rMfOFuHfbNymLALGLkZlqdbWHGiKD_K)
+- [VerK0](https://www.youtube.com/playlist?list=PLYAF4YwatlpU47HOddWaEPJlQt3yjoNtY)
+- [Modme Forum Archive](https://forum.modme.co)
+- [IceGrenade](https://icegrenade.co.uk/tutorials)
+- [DEVRAW](https://www.devraw.net/resources#comp-m3ytuuew)
+- [Skye's Weapon Ports](https://www.ugx-mods.com/forum/full-weapons/84/skyes-weapon-ports-to-bo3-master-hub/16874/)
+- [Corvid](https://youtu.be/izALMNZjgkA)

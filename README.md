@@ -25,6 +25,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 
 ### Lighting
 - [Power Lighting](power_lighting.md)
+- [Reflection Probes](reflection_probes.md)
 
 ### Weapons
 - [Starting Weapon](start_weapon.md)

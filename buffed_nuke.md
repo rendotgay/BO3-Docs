@@ -2,7 +2,7 @@
 Makes nukes award 100 points per zombie killed, with a minumum of 400 points. The amount of points can be customized
 1. Open your map folder in `usermaps` and open `/scripts/zm`
 2. Download [`zm_powerup_nuke_custom.gsc`](files/zm_powerup_nuke_custom.gsc) and [`zm_powerup_nuke_custom.csc`](files/zm_powerup_nuke_custom.csc) and save them to your `/scripts/zm` folder.
-- If you want to modify the amount of points awarded, find:
+	- If you want to modify the amount of points awarded, find:
 	```cpp
 	#define POINTS_PER 100
 	```

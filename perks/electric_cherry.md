@@ -22,7 +22,7 @@ How to add Electric Cherry to your custom map
 ## Step 2: Porting the model (Skip if using a different model!)
 1. From your Greyhound folder, open `exported_files\black_ops_2\xmodels`
 2. Copy your `.XMODEL_BIN`'s to `Call of Duty Black Ops III\model_export\electric_cherry\` `p6_zm_vending_electric_cherry_off` and `p6_zm_vending_electric_cherry_on` respectively:
-Copy your `.tiff`'s' in `/_images` and it's subfolders to `Call of Duty Black Ops III\texture_assets\electric_cherry\` `p6_zm_vending_electric_cherry_off` and `p6_zm_vending_electric_cherry_on` respectively
+Copy your `.tiff`'s in `/_images` and it's subfolders to `Call of Duty Black Ops III\texture_assets\electric_cherry\` `p6_zm_vending_electric_cherry_off` and `p6_zm_vending_electric_cherry_on` respectively
 3. Open Asset Property Editor (APE) and create a new GDT if you don't already have one and save it to `Call of Duty Black Ops III\source_data`
 
 ## Step 3: p6_zm_vending_electric_cherry_off (Skip if using a different model!)

@@ -1,6 +1,7 @@
 # Black Ops III Mod Tools Documentation
 
 A compilation of useful information for beginners to Black Ops III Radiant
+<sub>Disclaimer, I did not write the majority of the scripts used. This is merely a collection of them that are useful to users. It is quite difficult to track down the original creators over a decade later.</sub>
 
 ## Table of Contents
 
@@ -43,3 +44,12 @@ A compilation of useful information for beginners to Black Ops III Radiant
 ### Sounds
 - [Adding Sounds](sounds.md)
 - [Chatter](chatter.md)
+
+## Resources
+[Program115](https://www.youtube.com/playlist?list=PL1rMfOFuHfbNymLALGLkZlqdbWHGiKD_K)
+[VerK0](https://www.youtube.com/playlist?list=PLYAF4YwatlpU47HOddWaEPJlQt3yjoNtY)
+[Modme Forum Archive](https://forum.modme.co)
+[IceGrenade](https://icegrenade.co.uk/tutorials)
+[DEVRAW](https://www.devraw.net/resources#comp-m3ytuuew)
+[Skye's Weapon Ports](https://www.ugx-mods.com/forum/full-weapons/84/skyes-weapon-ports-to-bo3-master-hub/16874/)
+[Corvid](https://youtu.be/izALMNZjgkA)

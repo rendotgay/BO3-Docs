@@ -27,3 +27,6 @@ script_noteworthy|custom_traversal
 8. Set `targetname` to the unique name set in the `node_negotiation_begin`
 9. Set `target` to the `targetname` of the `node_negotiation_begin`
 10. Set `script_noteworthy` to `custom_traversal`
+
+## Restricting Entities
+If you want to limit what AI can use the traversal, use `movementtype_ignore` or `movementtype_require` and check the boxes you want to ignore or include

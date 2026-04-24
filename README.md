@@ -26,7 +26,10 @@ A compilation of useful information for beginners to Black Ops III Radiant
 
 ### Lighting
 - [Power Lighting](power_lighting.md)
+- [Sun Scene Information](ssi.md)
 - [Reflection Probes](reflection_probes.md)
+- [Color Correction](cc.md)
+- [Bloom](bloom.md)
 
 ### Weapons
 - [Starting Weapon](start_weapon.md)

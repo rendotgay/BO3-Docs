@@ -162,4 +162,5 @@ Display Name|Internal Name
 Frag|frag_grenade
 Semtex|sticky_grenade
 Monkey Bombs|cymbal_monkey
+Widows Wine|sticky_grenade_widows_wine
 Li'l Arnies|octobomb

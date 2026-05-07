@@ -15,6 +15,9 @@ Stops|Brightness
 Bounce Count|How many times probes will bounce light around (for naturally lit rooms)
 Specular Comp|Increases material shine / reflection
 Penumbra Inches|Shadow softening (keep below 5)
+Ev Comp|Adds compensation to the exposure
+Ev Min|The minimum amount of light to display
+Ev Max|The maximum amount of light to display
 
 - If you're having trouble lining up the sun, try adding a lens flare! Just make sure lens flare offsets are 0!
 

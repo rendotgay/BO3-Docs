@@ -6,6 +6,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 ## Table of Contents
 
 ### Information
+- [BO3 Syntax Highlighting](sublime_gsc.md)
 - [Internal Weapon Names](weapon_names.md)
 
 ### Fixes

@@ -52,6 +52,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 
 ### Sounds
 - [Adding Sounds](sounds.md)
+- [Sound Aliases](sound_alias.md)
 - [Chatter](chatter.md)
 
 ## Resources

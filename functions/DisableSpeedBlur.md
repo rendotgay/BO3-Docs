@@ -7,6 +7,7 @@ Example:
 DisableSpeedBlur( &lt;localClientNum&gt; )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

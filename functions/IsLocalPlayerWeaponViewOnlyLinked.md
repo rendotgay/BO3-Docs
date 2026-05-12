@@ -7,3 +7,4 @@ Example:
 weaponviewonlylinked = self IsLocalPlayerWeaponViewOnlyLinked()
 ```
 
+

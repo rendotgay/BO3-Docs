@@ -7,6 +7,7 @@ Example:
 huey PathFixedOffset( (0, -200, 0) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

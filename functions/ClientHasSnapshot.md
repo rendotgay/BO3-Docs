@@ -2,10 +2,7 @@
 
 Returns true if client has recieved a snapshot from the server
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,6 +7,7 @@ Example:
 endpos = BulletSpread( self.origin, target.origin, 1.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

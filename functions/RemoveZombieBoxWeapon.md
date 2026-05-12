@@ -7,6 +7,7 @@ Example:
 RemoveZombieBoxWeapon( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

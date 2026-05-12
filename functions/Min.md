@@ -7,6 +7,7 @@ Example:
 smallest = Min( val1, val2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

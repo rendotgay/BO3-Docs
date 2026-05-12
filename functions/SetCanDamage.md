@@ -7,6 +7,7 @@ Example:
 self SetCanDamage( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

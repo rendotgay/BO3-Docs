@@ -7,6 +7,7 @@ Example:
 self incrementSpecificWeaponPickedUpCount( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

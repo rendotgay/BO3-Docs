@@ -7,6 +7,7 @@ Example:
 self Detach( "explosivepack", "tag_weapon_right" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

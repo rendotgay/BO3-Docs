@@ -7,6 +7,7 @@ Example:
 array = GeneratePointsAroundCenter( enemy.origin, 500, 80, 100, 40, (-0.3,0,0) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

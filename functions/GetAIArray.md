@@ -7,6 +7,7 @@ Example:
 aiarray = GetAIArray( "my_ai", "targetname" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

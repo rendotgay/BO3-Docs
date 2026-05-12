@@ -7,6 +7,7 @@ Example:
 if ( IsFloat( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

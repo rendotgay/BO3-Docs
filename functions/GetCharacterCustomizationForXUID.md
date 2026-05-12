@@ -7,6 +7,7 @@ Example:
 GetCharacterCustomizationForXUID( &lt;xuid&gt;)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

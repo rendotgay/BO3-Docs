@@ -7,6 +7,7 @@ Example:
 origin = ServerObjective_GetObjectiveOrigin( localClientNum, objective_num )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

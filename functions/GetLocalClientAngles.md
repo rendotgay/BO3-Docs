@@ -7,6 +7,7 @@ Example:
 client_angles = GetLocalClientAngles()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

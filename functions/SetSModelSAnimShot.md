@@ -7,6 +7,7 @@ Example:
 SetSModelSAnimShot("tiny_bot_blend", "", -1, true, false, true, 5*30)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

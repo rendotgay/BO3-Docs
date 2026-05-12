@@ -7,6 +7,7 @@ Example:
 elem SetTypewriterFX( 100, 600, 3000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

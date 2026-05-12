@@ -2,10 +2,7 @@
 
 Finds a path to a point that can see the enemy without leaving goal. Call ReacquireMove to use the path.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,6 +7,7 @@ Example:
 ForceStreamWeaponRenderOptions( localClientNum, weapon, weaponOptions )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

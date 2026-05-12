@@ -7,6 +7,7 @@ Example:
 CreateLUIMenu( localClientNum, "ScriptDebugMenu")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

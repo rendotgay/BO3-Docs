@@ -2,10 +2,7 @@
 
 returns if the client is in killcam or not.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,3 +7,4 @@ Example:
 absMaxs = wallModel GetAbsMaxs()
 ```
 
+

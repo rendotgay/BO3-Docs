@@ -7,6 +7,7 @@ Example:
 player UpdateWeaponOptions( "m1garand", player calcWeaponOptions() )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

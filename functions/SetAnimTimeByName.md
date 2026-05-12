@@ -7,6 +7,7 @@ Example:
 self SetAnimTimeByName( "ai_anim_walk",  0.5)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

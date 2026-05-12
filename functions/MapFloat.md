@@ -7,6 +7,7 @@ Example:
 val = MapFloat( 1, 2, 0, 10, 1.5); // would return 5.0
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

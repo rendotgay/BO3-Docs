@@ -7,6 +7,7 @@ Example:
 waypoint SetShader( "playbook_objective_stop", 15, 15 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

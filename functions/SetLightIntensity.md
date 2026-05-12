@@ -7,6 +7,7 @@ Example:
 self SetLightIntensity( 1.5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

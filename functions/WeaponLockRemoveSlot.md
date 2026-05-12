@@ -7,6 +7,7 @@ Example:
 player WeaponLockGetFlags()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

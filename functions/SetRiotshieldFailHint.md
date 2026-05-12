@@ -7,6 +7,7 @@ Example:
 self SetRiotshieldFailHint()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self SpawnNapalmGroundFlame( bot_pos , weapon, forward)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

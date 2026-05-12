@@ -7,6 +7,7 @@ Example:
 SoundRattleSetup(rattles[i].script_sound, rattles[i].origin)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

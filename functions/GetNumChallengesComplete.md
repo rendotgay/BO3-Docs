@@ -7,6 +7,7 @@ Example:
 is_default = self GetNumChallengesComplete( "angola" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

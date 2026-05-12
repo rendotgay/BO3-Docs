@@ -7,6 +7,7 @@ Example:
 ClearSpawnPoints()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

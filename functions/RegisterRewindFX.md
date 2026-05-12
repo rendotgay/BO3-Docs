@@ -7,6 +7,7 @@ Example:
 RegisterRewindFX(local_client_num, "fxName")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

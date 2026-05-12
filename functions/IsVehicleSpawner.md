@@ -7,6 +7,7 @@ Example:
 if ( IsVehicleSpawner( ent ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

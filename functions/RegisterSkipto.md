@@ -7,6 +7,7 @@ Example:
 struct.code_index = RegisterSkipto( msg )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

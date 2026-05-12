@@ -7,6 +7,7 @@ Example:
 attachmentName = player GetWeaponOptic( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

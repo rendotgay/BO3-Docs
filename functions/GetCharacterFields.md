@@ -7,6 +7,7 @@ Example:
 heroFields = GetCharacterFields( characterIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

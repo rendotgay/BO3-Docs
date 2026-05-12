@@ -7,6 +7,7 @@ Example:
 SetPlayerCurrentObjective( "flag_a", 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

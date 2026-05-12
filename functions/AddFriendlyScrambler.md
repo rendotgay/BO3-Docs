@@ -7,6 +7,7 @@ Example:
 player AddFriendlyScrambler( scrambler.origin[0], scrambler.origin[1], scrambler.handle )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

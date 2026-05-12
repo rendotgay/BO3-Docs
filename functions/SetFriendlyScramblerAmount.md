@@ -7,6 +7,7 @@ Example:
 player SetFriendlyScramblerAmount( 1.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

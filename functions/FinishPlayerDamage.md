@@ -7,6 +7,7 @@ Example:
 self FinishPlayerDamage( eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, vDir, sHitLoc, iBone, vDamageOrigin, psOffsetTime, vSurfaceNormal )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

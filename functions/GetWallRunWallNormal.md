@@ -7,3 +7,4 @@ Example:
 wall_normal = player GetWallRunWallNormal()
 ```
 
+

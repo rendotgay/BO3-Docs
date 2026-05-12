@@ -7,6 +7,7 @@ Example:
 pieceState = ent GetZBarrierPieceState(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

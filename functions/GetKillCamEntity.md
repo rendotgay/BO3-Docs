@@ -3,7 +3,6 @@
 returns the killcamentity.
 
 
-
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

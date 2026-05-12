@@ -7,6 +7,7 @@ Example:
 power = GetVisionPulseRadius( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

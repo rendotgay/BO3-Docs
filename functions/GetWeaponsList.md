@@ -7,6 +7,7 @@ Example:
 weapList = player GetWeaponsList()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

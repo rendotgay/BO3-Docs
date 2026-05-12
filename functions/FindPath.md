@@ -7,6 +7,7 @@ Example:
 if ( self FindPath( self.origin, potentialpos ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 player AllowAds( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

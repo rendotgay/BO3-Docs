@@ -7,6 +7,7 @@ Example:
 if(PlayerPositionValidIgnoreEnt(spawnpoints[i].origin))...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

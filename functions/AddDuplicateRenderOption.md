@@ -7,6 +7,7 @@ Example:
 myEnt AddDuplicateRenderOption( DR_TYPE_FRAMEBUFFER, DR_METHOD_THERMAL_MATERIAL, DR_CULL_ALWAYS )myEnt AddDuplicateRenderOption( DR_TYPE_OFFSCREEN, DR_METHOD_CUSTOM_MATERIAL, DR_CULL_NEVER, mapped_material_id(player,"gfx_my_material_2") )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

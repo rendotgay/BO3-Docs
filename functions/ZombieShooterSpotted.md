@@ -7,6 +7,7 @@ Example:
 ZombieShooterSpotted(1, 1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

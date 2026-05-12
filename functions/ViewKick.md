@@ -7,6 +7,7 @@ Example:
 entity ViewKick( 25, self.origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

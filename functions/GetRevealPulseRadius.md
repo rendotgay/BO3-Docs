@@ -7,6 +7,7 @@ Example:
 power = GetRevealPulseRadius( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 val = CodeGetWorldClientField("my_field")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 cycleTime = GetAnimLength( climbAnim )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

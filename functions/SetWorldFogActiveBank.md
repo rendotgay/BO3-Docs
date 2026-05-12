@@ -7,6 +7,7 @@ Example:
 self setworldfogactivebank(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

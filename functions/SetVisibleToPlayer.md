@@ -7,6 +7,7 @@ Example:
 trigger SetVisibleToPlayer( self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

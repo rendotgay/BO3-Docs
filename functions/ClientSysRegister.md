@@ -7,6 +7,7 @@ Example:
 index = ClientSysRegister("FakeFire")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

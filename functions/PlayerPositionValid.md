@@ -7,6 +7,7 @@ Example:
 if(playerpositionvalid(spawnpoints[i].origin))...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

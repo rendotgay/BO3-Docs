@@ -7,6 +7,7 @@ Example:
 power = GetGadgetPower( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

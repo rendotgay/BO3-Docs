@@ -7,6 +7,7 @@ Example:
 cam_angles = GetCamAnglesByLocalClientNum( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

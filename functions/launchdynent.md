@@ -7,6 +7,7 @@ Example:
 launchdynent( brick, (0,0,200) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

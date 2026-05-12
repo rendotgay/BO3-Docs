@@ -7,6 +7,7 @@ Example:
 heroName = GetCharacterAssetName( characterIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

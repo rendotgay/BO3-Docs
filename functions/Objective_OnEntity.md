@@ -2,10 +2,7 @@
 
 Sets the objective to get its position from an entity.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

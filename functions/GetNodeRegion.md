@@ -7,6 +7,7 @@ Example:
 if ( GetNodeRegion( myNode ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 if ( IsActorCorpse( corpse ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

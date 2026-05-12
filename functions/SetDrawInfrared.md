@@ -7,6 +7,7 @@ Example:
 helicopter SetDrawInfrared( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

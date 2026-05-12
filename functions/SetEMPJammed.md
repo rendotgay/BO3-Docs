@@ -7,6 +7,7 @@ Example:
 player SetEMPJammed( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

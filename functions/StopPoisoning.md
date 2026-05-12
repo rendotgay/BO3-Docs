@@ -7,6 +7,7 @@ Example:
 player StopPoisoning()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

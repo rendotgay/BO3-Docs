@@ -7,6 +7,7 @@ Example:
 self SetCharacterBodyType( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

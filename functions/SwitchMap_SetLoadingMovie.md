@@ -7,6 +7,7 @@ Example:
 SwitchMap_SetLoadingMovie( str_intro_movie )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

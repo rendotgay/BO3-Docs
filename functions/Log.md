@@ -7,6 +7,7 @@ Example:
 y = Log( x )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

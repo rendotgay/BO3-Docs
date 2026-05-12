@@ -7,6 +7,7 @@ Example:
 IsCamAnimLooping( "proto_melee_cam" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

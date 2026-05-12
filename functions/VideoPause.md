@@ -7,6 +7,7 @@ Example:
 VideoPause( "MyAwesomeMovie" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

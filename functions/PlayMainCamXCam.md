@@ -7,6 +7,7 @@ Example:
 PlayMainCamXCam( localClientNum, "ui_cam_ar_standard" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,3 +7,4 @@ Example:
 Umbra_SetDistanceScale( localClientNum, 2.0 )
 ```
 
+

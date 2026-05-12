@@ -7,6 +7,7 @@ Example:
 ent = ArrayGetFarthest( player.origin, a_enemies )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 if ( (self GetAnimTime( %walk_and_run_loops ) ) &lt; 0.5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

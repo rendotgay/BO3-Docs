@@ -7,6 +7,7 @@ Example:
 umbra_clearpersistenttometrigger( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

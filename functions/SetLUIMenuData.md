@@ -7,6 +7,7 @@ Example:
 SetLUIMenuData( localClientNum, menuIndex, "title", "Some Title" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

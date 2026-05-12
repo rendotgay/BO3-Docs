@@ -7,6 +7,7 @@ Example:
 fraction = GetFirstTouchFraction( player, trigger, old_origin, current_origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

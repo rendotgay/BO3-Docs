@@ -7,6 +7,7 @@ Example:
 if ( IsVec( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

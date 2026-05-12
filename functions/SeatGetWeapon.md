@@ -7,6 +7,7 @@ Example:
 weaponname = vehicle SeatGetWeapon( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

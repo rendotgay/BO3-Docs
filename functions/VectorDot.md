@@ -2,10 +2,7 @@
 
 Returns the dot product of two vectors
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,6 +7,7 @@ Example:
 GetTeamSatellite( "allies" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

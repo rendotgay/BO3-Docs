@@ -7,6 +7,7 @@ Example:
 endpt = GetTurretTargetVec( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

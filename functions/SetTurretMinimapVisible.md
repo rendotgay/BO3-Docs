@@ -7,6 +7,7 @@ Example:
 sentry SetTurretMinimapVisible( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

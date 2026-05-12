@@ -7,6 +7,7 @@ Example:
 wall_weapon_model UseWeaponModel("m16_zm")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

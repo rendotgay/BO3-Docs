@@ -7,6 +7,7 @@ Example:
 trace = TracePoint( p0, p1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

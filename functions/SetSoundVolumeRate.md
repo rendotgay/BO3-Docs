@@ -2,10 +2,7 @@
 
 Set the sound volume rate
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

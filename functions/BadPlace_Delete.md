@@ -7,6 +7,7 @@ Example:
 BadPlace_Delete( "bpFlak1" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

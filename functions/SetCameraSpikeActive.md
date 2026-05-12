@@ -7,6 +7,7 @@ Example:
 player SetCameraSpikeActive( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

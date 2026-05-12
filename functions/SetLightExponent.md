@@ -7,6 +7,7 @@ Example:
 self SetLightExponent( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

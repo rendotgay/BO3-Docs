@@ -7,6 +7,7 @@ Example:
 player SetVehicleWeaponWaitEndTime( weaponReloadEndTime )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

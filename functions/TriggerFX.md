@@ -7,6 +7,7 @@ Example:
 triggerFx( domFlag.enemyBaseEffect, 0.001 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

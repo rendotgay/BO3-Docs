@@ -7,6 +7,7 @@ Example:
 self SetPersonalIgnore( self.enemy, 5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

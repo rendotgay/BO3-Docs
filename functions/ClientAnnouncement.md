@@ -2,10 +2,7 @@
 
 Sends an announcement to a single client.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

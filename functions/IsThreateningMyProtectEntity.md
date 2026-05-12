@@ -7,6 +7,7 @@ Example:
 if ( self IsThreateningMyProtectEntity( self.enemy ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

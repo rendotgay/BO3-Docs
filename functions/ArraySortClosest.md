@@ -2,10 +2,7 @@
 
 Returns a sorted array of entities by closest from &lt;origin&gt
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,6 +7,7 @@ Example:
 level.introstring1 FadeOverTime( 1.2 );  level.introstring1.alpha = 0.3;  // This will transition the alpha from whatever it was before to the new value of 0.3 over 1.2 seconds.
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

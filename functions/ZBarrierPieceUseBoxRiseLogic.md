@@ -7,6 +7,7 @@ Example:
 ent ZBarrierPieceUseBoxRiseLogic(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

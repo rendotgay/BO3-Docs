@@ -7,6 +7,7 @@ Example:
 MisdirectionEnable( localclientnum, newVal )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

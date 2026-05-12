@@ -7,6 +7,7 @@ Example:
 length = GetKnownLength( level.mySnd )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

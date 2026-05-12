@@ -7,6 +7,7 @@ Example:
 if ( NodesVisible( cover, guy.node ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

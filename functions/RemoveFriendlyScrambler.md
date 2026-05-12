@@ -7,6 +7,7 @@ Example:
 player RemoveFriendlyScrambler( scrambler.handle )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

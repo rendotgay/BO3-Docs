@@ -7,6 +7,7 @@ Example:
 ent SetIgnorePauseWorld( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

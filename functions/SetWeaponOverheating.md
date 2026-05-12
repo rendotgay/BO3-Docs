@@ -7,6 +7,7 @@ Example:
 self SetWeaponOverheating( weapondata["overheat"], weapondata["heat"], weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self Detonate( attacker )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

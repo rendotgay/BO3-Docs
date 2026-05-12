@@ -7,6 +7,7 @@ Example:
 GetCyberComWeapon(  flag, type, upgraded )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

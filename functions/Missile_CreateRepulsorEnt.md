@@ -7,6 +7,7 @@ Example:
 repulsor = Missile_CreateRepulsorEnt( enemy_chopper, 10000, 6000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,10 +2,7 @@
 
 Loads a new map
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

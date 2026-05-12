@@ -7,6 +7,7 @@ Example:
 IPrintLnBold( "Mitchell!" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

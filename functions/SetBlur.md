@@ -7,6 +7,7 @@ Example:
 setblur( 10.3, 3.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

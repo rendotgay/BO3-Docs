@@ -7,6 +7,7 @@ Example:
 SetLitFogBank( 0, 1, 5.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

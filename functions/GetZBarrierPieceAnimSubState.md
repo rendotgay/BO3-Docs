@@ -7,6 +7,7 @@ Example:
 anim_state = ent GetZBarrierPieceAnimSubState(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

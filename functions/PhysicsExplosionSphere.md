@@ -7,6 +7,7 @@ Example:
 PhysicsExplosionSphere( origin, radius, radius, 5, max_damage, min_damage )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

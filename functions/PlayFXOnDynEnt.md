@@ -7,6 +7,7 @@ Example:
 handle = PlayFXOnDynEnt( spark, lamp )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 helmetRenderOptions = GetCharacterHelmetRenderOptions( 0, 1, 1, 2, 3 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

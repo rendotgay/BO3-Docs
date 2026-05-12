@@ -7,6 +7,7 @@ Example:
 self SetStowedWeapon( "mp40_mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

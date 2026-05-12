@@ -7,6 +7,7 @@ Example:
 SoundPlayAutoFX( "fx_fire_barrel", "amb_fire_small", 5, -10, 5, false, 20, 5, "amb_fire_large" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

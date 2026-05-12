@@ -7,6 +7,7 @@ Example:
 if ( IsAlive( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self SetEntityAnimRate( 1.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 player SetPlacementHint( turret.canBePlaced )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

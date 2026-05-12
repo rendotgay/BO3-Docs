@@ -2,10 +2,7 @@
 
 Show the entity to a given client
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

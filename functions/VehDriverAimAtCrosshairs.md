@@ -7,6 +7,7 @@ Example:
 vehicle VehDriverAimAtCrosshairs( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

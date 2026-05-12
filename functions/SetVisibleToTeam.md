@@ -7,6 +7,7 @@ Example:
 plane SetVisibleToSquad( self.team )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

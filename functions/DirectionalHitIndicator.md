@@ -7,6 +7,7 @@ Example:
 attacker DirectionalHitIndicator( victimArray0, victimArray1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

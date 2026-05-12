@@ -7,6 +7,7 @@ Example:
 IsADS( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

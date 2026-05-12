@@ -7,6 +7,7 @@ Example:
 SetVolFog(0.0001144, 0.01, 131/255, 116/255, 71/255, 0)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

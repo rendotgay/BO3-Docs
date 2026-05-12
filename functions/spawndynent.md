@@ -7,6 +7,7 @@ Example:
 twig = spawndynent( "trashcan", origin, angles )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

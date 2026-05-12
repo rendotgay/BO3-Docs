@@ -7,6 +7,7 @@ Example:
 enemies = GetVehicleTeamArray( "axis", "neutral" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

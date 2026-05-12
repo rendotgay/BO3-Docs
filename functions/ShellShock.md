@@ -7,6 +7,7 @@ Example:
 self shellShock( "frag_grenade_mp", 0.2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 player SetParagonRank( 1, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

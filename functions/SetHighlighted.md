@@ -7,6 +7,7 @@ Example:
 self SetHighlighted( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

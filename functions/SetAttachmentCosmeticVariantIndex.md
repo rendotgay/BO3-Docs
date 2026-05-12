@@ -7,6 +7,7 @@ Example:
 level.weapon_clientscript_cac_model[type] SetAttachmentCosmeticVariantIndex( weaponFullName, level.attachment_names[i], 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

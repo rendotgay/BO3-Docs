@@ -2,10 +2,7 @@
 
 Returns the nearest point on the navmesh for the given origin and radius or undefined if no point can be found.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

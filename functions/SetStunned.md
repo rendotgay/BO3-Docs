@@ -7,6 +7,7 @@ Example:
 vehicle SetStunned( 0, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 player SetOffhandSecondaryClass( "concussion_grenade_mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

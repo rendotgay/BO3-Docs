@@ -7,6 +7,7 @@ Example:
 active = LocalClientActive( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

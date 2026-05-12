@@ -7,6 +7,7 @@ Example:
 eye_pos = GetLocalClientEyePos( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 AssertMsg( "Unhandled enemy type." )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

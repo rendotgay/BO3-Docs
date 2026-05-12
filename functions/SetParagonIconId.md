@@ -7,6 +7,7 @@ Example:
 player SetParagonIconId( 1, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

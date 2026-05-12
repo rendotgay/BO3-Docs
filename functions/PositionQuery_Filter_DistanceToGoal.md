@@ -7,6 +7,7 @@ Example:
 PositionQuery_Filter_DistanceToGoal( queryResult, self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

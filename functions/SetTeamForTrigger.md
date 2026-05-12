@@ -7,6 +7,7 @@ Example:
 self SetTeamForTrigger( game["attackers"] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

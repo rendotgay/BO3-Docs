@@ -7,3 +7,4 @@ Example:
 accel = self GetDefaultAcceleration()
 ```
 
+

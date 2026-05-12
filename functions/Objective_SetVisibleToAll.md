@@ -2,10 +2,7 @@
 
 Sets the objective to be visible to all players.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

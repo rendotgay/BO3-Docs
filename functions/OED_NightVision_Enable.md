@@ -7,6 +7,7 @@ Example:
 entity oed_nightvision_enable( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 if( IsInHelicopter( 0 ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

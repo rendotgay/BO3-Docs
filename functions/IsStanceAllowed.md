@@ -7,6 +7,7 @@ Example:
 if ( self IsStanceAllowed( "stand" ) )...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 GetDefaultClassSlot( "cqb", "primary" ); // Returns primary weapon reference
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 fuel = self GetWeaponAmmoFuel( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

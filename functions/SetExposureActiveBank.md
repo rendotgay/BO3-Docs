@@ -7,6 +7,7 @@ Example:
 SetExposureActiveBank( localClientNum, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

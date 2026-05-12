@@ -7,6 +7,7 @@ Example:
 guy LookAtEntity( otherguy )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

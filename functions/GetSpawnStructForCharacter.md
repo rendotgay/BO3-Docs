@@ -7,6 +7,7 @@ Example:
 frontendVignetteAnim = GetSpawnStructForCharacter( characterIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

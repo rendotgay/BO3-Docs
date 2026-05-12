@@ -7,6 +7,7 @@ Example:
 setDemoIntermissionPoint( spawnpoint.origin, spawnpoint.angles )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

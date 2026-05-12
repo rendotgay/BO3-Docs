@@ -7,6 +7,7 @@ Example:
 influencer_id = AddEntityInfluencer( name, player, allies_mask )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

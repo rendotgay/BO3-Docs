@@ -7,6 +7,7 @@ Example:
 self SetFlashBanged( true, 0.8 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

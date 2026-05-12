@@ -7,6 +7,7 @@ Example:
 SetHealthSnapshot( sn_name, sn_amount )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

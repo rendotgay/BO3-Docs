@@ -7,6 +7,7 @@ Example:
 repulsor = Missile_CreateRepulsorOrigin( (100, 350, 10), 10000, 6000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

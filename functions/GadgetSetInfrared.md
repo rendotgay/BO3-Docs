@@ -7,6 +7,7 @@ Example:
 GadgetSetInfrared( localclientnum, newVal )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 ResetWeaponCosts( &lt;local client num&gt;  )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

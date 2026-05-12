@@ -7,6 +7,7 @@ Example:
 driver AnimScripted( "germantruck_driver_closedoor", org , angles, driver.closedooranim )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

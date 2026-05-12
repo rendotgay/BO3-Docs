@@ -7,6 +7,7 @@ Example:
 SetGametypeSetting( "timeLimit", 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

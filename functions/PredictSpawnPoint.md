@@ -7,6 +7,7 @@ Example:
 player predictSpawnPoint( origin, angles )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

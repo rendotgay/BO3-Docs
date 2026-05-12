@@ -7,6 +7,7 @@ Example:
 c = pow( 2, 4 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

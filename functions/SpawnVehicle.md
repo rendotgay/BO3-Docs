@@ -3,7 +3,6 @@
 Spawns a new vehicle and returns a reference to it
 
 
-
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

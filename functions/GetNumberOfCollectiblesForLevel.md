@@ -7,3 +7,4 @@ Example:
 collectibleCount = GetNumberOfCollectiblesForLevel( GetRootMapName() )
 ```
 
+

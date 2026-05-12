@@ -7,6 +7,7 @@ Example:
 self RemoveSentientEventListener("bulletwhizby")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

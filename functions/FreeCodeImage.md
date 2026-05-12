@@ -7,6 +7,7 @@ Example:
 FreeCodeImage( self.localClientNum, "freezeFrame" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

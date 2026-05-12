@@ -7,6 +7,7 @@ Example:
 viewAspect = ViewAspect( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

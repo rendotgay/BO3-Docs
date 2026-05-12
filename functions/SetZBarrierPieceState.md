@@ -7,6 +7,7 @@ Example:
 ent SetZBarrierPieceState(1, "open", 0.8)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

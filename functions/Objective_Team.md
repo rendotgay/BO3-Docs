@@ -7,6 +7,7 @@ Example:
 Objective_Team( 0, "allies" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

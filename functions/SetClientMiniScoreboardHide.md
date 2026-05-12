@@ -7,6 +7,7 @@ Example:
 players[i] SetClientMiniScoreboardHide( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

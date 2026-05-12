@@ -7,6 +7,7 @@ Example:
 GetItemAttachmentAllocationCost( 10, 1 ); // returns allocation cost of attachment 1 for item 10
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

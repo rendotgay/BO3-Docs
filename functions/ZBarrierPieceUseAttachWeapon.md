@@ -7,6 +7,7 @@ Example:
 ent ZBarrierPieceUseAttachWeapon( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

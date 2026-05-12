@@ -7,6 +7,7 @@ Example:
 trace = WorldTrace( start_pos, end_pos )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 CodeSetPlayerStateClientField(ent, "my_field", 1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

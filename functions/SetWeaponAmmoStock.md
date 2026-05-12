@@ -7,6 +7,7 @@ Example:
 reviver SetWeaponAmmoStock( level.weaponReviveTool, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

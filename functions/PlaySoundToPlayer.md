@@ -7,6 +7,7 @@ Example:
 self PlaySoundToPlayer( "frag_out", self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 volumeID = AddBoltedFXExclusionVolume( 0, entity, tag_origin, (10, 10, 10) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

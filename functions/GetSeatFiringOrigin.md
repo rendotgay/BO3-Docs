@@ -7,6 +7,7 @@ Example:
 turretBarrelOrigin = tank GetSeatFiringOrigin( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

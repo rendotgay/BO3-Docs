@@ -7,3 +7,4 @@ Example:
 GetArchetypeFromClassname("spawner_enemy_54i_human_sniper_sniperrifle")
 ```
 
+

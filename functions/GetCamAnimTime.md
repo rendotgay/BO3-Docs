@@ -7,6 +7,7 @@ Example:
 GetCamAnimTime( "proto_melee_cam" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

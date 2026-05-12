@@ -7,6 +7,7 @@ Example:
 t_door SetHintString( "Press and Hold ^3[{+activate}]^7 to transmit unlock code" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

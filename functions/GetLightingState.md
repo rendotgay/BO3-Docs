@@ -7,3 +7,4 @@ Example:
 ls = player GetLightingState()
 ```
 
+

@@ -7,3 +7,4 @@ Example:
 use_trigger SetInvisibleToAll()
 ```
 
+

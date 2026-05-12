@@ -7,6 +7,7 @@ Example:
 SetFilterPassQuads( self.localClientNum, 1, 12, 200)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

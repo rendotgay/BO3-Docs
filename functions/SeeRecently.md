@@ -7,6 +7,7 @@ Example:
 if( self SeeRecently( player ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 frontendVignetteAnim = GetAnimForCharacter( characterIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

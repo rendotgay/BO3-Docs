@@ -7,6 +7,7 @@ Example:
 elem SetCOD7DecodeFX( 2000, 600 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

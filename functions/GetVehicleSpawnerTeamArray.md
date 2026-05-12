@@ -7,6 +7,7 @@ Example:
 enemies = GetVehicleSpawnerTeamArray( "axis", "neutral" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

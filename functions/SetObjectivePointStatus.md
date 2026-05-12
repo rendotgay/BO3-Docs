@@ -7,6 +7,7 @@ Example:
 SetObjectivePointStatus( 1, "allies", 80 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

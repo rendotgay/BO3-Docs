@@ -7,6 +7,7 @@ Example:
 if ( IsWeapon( current_weapon ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

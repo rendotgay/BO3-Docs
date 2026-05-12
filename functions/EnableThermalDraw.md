@@ -7,6 +7,7 @@ Example:
 EnableThermalDraw( player.localClientNum, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

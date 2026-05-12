@@ -7,6 +7,7 @@ Example:
 SetFriendlyNameDraw( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self finishMeleeHit( eAttacker, sWeapon, vPoint, vDir, iBoneIndex, bHit )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 LUINotifyEventToSpectators( &"update_objectives", 1, &"LEVEL_GOTO_NEXT_PLACE" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

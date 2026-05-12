@@ -7,6 +7,7 @@ Example:
 RopePulse(sRopePulse.origin, 10, 150, 100, 1); // 150 damage applied at 10 units or less, 1 damage applied at 150 units distance.
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

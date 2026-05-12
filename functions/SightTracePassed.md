@@ -7,6 +7,7 @@ Example:
 passed = SightTracePassed( player.origin + ( 0, 0, 64 ), self.origin + ( 0, 0, 64 ), false, undefined )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

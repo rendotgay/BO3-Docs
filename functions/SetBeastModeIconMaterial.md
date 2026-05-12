@@ -7,6 +7,7 @@ Example:
 SetBeastModeIconMaterial( 1, "cool_icon_1" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 Obituary( self, attacker, sWeapon, sMeansOfDeath )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

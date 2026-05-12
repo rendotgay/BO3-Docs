@@ -2,10 +2,7 @@
 
 Sets a player to be the winner
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

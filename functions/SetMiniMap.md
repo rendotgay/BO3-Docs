@@ -7,6 +7,7 @@ Example:
 setMiniMap(material, northwest[0], northwest[1], southeast[0], southeast[1])
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

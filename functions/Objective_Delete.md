@@ -7,6 +7,7 @@ Example:
 Objective_Delete( objective_number )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

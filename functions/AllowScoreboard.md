@@ -7,6 +7,7 @@ Example:
 AllowScoreboard(localclientnum)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

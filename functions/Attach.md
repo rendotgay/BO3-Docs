@@ -7,6 +7,7 @@ Example:
 self Attach( "panzerflak_ammo", "tag_weapon_left" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

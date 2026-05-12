@@ -7,6 +7,7 @@ Example:
 if( self IsVehicleTurretOverheating( 1 ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

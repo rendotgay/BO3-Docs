@@ -7,6 +7,7 @@ Example:
 tank DisableGunnerFiring( 1, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

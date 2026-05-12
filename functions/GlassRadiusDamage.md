@@ -7,6 +7,7 @@ Example:
 GlassRadiusDamage( origin, range, max_damage, min_damage, means_of_damage )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

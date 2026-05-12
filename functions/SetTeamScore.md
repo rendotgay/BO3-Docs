@@ -7,6 +7,7 @@ Example:
 SetTeamScore( "allies", 100 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

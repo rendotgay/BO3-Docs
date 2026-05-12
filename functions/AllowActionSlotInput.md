@@ -7,6 +7,7 @@ Example:
 AllowActionSlotInput(localclientnum)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

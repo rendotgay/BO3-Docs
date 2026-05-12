@@ -7,6 +7,7 @@ Example:
 ent ZBarrierPieceUseDefaultModel(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

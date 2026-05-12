@@ -7,6 +7,7 @@ Example:
 entity MotionPulse_SetFadeOut( fadeout )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

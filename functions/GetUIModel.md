@@ -7,6 +7,7 @@ Example:
 GetUIModel( gameScoreModel, "enemeyScore" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

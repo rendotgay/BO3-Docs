@@ -7,6 +7,7 @@ Example:
 modelName = GetEquippedHelmetForHero( localClientNum, SESSIONMODE_MULTIPLAYER, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

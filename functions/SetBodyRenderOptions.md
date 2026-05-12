@@ -7,6 +7,7 @@ Example:
 heroModel SetBodyRenderOptions( bodyRenderOptions, helmetRenderOptions, headRenderOptions )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

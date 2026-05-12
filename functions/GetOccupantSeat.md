@@ -7,6 +7,7 @@ Example:
 isDriver = 0 == vehicle GetOccupantSeat( player )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

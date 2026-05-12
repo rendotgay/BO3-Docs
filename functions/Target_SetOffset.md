@@ -7,6 +7,7 @@ Example:
 Target_SetOffset( enemy_chopper, ( 0, 0, -100 ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

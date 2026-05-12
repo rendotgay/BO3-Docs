@@ -7,6 +7,7 @@ Example:
 aiarray = GetActorArray( "ralph", "targetname" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

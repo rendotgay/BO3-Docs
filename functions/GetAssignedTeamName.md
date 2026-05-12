@@ -7,6 +7,7 @@ Example:
 team = GetAssignedTeam( player )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

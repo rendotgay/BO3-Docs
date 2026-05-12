@@ -7,6 +7,7 @@ Example:
 IGCActive( 1, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self RotateVelocity( (x,y,z), 12 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

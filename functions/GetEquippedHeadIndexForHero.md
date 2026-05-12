@@ -7,6 +7,7 @@ Example:
 helmetIndex = GetEquippedHeadIndexForHero( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

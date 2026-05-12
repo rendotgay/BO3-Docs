@@ -7,6 +7,7 @@ Example:
 currentWeapon = GetCurrentWeapon( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

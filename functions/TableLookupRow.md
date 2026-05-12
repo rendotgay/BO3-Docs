@@ -2,10 +2,7 @@
 
 Return an array of strings for the columns in that row
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

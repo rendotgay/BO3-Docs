@@ -7,6 +7,7 @@ Example:
 points = NavPointSightFilter( points, nearest )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

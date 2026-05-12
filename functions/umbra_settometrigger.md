@@ -7,6 +7,7 @@ Example:
 Umbra_SetTomeTrigger( localClientNum, "my_really_cool_tome_trigger" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

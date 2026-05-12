@@ -7,6 +7,7 @@ Example:
 self SetMaxHealth( required_amount )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

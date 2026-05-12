@@ -7,6 +7,7 @@ Example:
 menuIndex = GetLUIMenu( localClientNum, "HudElementImage" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

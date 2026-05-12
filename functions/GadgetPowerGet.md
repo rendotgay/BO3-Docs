@@ -7,6 +7,7 @@ Example:
 power = self GadgetPowerGet( slot )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

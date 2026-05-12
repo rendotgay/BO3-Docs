@@ -7,6 +7,7 @@ Example:
 self SetJitterParams( (0,0,20), 0.5, 1.5 ); // Jitter up or down randomly within 20 units, switching every 0.5 to 1.5 seconds
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

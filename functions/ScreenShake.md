@@ -7,6 +7,7 @@ Example:
 ScreenShake( jolt.origin, 0.3, 0.3, 0.3, 3, 0.2, 3, 850, 0.5, 0.25, 0.25 ); // locationalScreenShake( (0,0,0), 0.3, 0.3, 0.3, 3, 0.2, 3, 0, 0.5, 0.25, 0.25, player ); // non locational for one player only
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

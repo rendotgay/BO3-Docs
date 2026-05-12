@@ -7,3 +7,4 @@ Example:
 if ( vehicle GetHeliHeightLock( ) )
 ```
 
+

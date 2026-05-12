@@ -7,6 +7,7 @@ Example:
 frac = players[i] GetFractionMaxAmmo( lethal_grenade )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

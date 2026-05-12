@@ -7,6 +7,7 @@ Example:
 ref = GetItemGroupForWeapon( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 player ApplyKnockBack( 10, dir )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

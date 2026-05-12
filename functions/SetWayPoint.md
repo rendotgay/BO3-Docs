@@ -7,6 +7,7 @@ Example:
 newdeathicon SetWayPoint( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

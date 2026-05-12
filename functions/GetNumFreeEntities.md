@@ -7,6 +7,7 @@ Example:
 numfree = GetNumFreeEntities( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

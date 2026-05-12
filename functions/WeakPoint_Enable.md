@@ -7,6 +7,7 @@ Example:
 entity weakpoint_enable( 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

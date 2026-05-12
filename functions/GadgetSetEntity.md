@@ -7,6 +7,7 @@ Example:
 self GadgetSetEntity( slot, ent )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

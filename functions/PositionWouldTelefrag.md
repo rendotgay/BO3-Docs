@@ -7,6 +7,7 @@ Example:
 if ( PositionWouldTelefrag( spawnpoints[i].origin ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

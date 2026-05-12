@@ -7,6 +7,7 @@ Example:
 EnableNavMeshTrigger( "some_trigger", true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

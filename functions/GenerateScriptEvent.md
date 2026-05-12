@@ -7,6 +7,7 @@ Example:
 self GenerateScriptEvent()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

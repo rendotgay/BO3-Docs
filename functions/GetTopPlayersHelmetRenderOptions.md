@@ -7,6 +7,7 @@ Example:
 renderOptions = GetTopPlayersHelmetRenderOptions( localClientNum, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 if ( Target_IsTarget( foundEnt ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

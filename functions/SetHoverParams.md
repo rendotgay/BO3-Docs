@@ -7,6 +7,7 @@ Example:
 self SetHoverParams( 50, 1, 0.5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

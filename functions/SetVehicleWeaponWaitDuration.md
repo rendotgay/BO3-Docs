@@ -7,6 +7,7 @@ Example:
 player SetVehicleWeaponWaitDuration( reloadDuration )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

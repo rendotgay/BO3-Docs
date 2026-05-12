@@ -7,6 +7,7 @@ Example:
 self SetVehVelocity( (45, 0, 0) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

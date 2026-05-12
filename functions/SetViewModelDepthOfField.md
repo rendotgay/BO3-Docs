@@ -7,6 +7,7 @@ Example:
 self SetViewModelDepthOfField(0,1000)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self CalcLookaheadPos( self.origin, 3 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

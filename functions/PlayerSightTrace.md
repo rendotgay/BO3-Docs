@@ -7,6 +7,7 @@ Example:
 if (0 == (self Playersighttrace(positionOfFlare, 200, lastHit))
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

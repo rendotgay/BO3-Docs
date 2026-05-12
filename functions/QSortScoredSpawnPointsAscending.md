@@ -7,6 +7,7 @@ Example:
 sorted_spawn_points = QSortScoredSpawnPointsAscending( scored_spawn_points )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

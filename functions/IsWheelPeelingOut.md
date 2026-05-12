@@ -7,6 +7,7 @@ Example:
 peeling = self IsWheelPeelingOut( front_left )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

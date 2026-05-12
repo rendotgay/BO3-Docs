@@ -7,3 +7,4 @@ Example:
 platform SetGrapplableType( 1 )
 ```
 
+

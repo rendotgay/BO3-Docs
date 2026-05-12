@@ -7,6 +7,7 @@ Example:
 volumeID = AddFXExclusionVolume( 0, (0,0,0), (0, 45, 0), (10, 10, 10) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

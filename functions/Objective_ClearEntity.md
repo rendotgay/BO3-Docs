@@ -2,10 +2,7 @@
 
 Clears the entity previous set on the objective
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

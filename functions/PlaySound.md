@@ -7,6 +7,7 @@ Example:
 bomb PlaySound( "zmb_bomb_explode" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

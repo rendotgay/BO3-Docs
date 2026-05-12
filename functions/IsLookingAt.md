@@ -7,6 +7,7 @@ Example:
 if( isplayer( self.enemy ) && self.enemy islookingat( self ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

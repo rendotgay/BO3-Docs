@@ -7,6 +7,7 @@ Example:
 heroBodyModelCount = GetCharacterBodyModelCount( characterIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

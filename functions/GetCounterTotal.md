@@ -7,6 +7,7 @@ Example:
 count = GetCounterTotal( "global_comebacks" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

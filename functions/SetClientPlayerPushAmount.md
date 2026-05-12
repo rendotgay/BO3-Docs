@@ -7,6 +7,7 @@ Example:
 self SetClientPlayerPushAmount( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

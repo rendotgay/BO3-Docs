@@ -7,6 +7,7 @@ Example:
 getweaponaccuracy( self, "ak47" ), getweaponaccuracy( ai, ai.primaryweapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

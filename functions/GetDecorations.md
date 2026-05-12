@@ -7,6 +7,7 @@ Example:
 medals = e_player GetDecorationsEarned()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

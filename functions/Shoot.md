@@ -7,6 +7,7 @@ Example:
 guy shoot()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

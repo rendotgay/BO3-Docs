@@ -7,6 +7,7 @@ Example:
 maxheight = GetHeliHeightLockHeight( point )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

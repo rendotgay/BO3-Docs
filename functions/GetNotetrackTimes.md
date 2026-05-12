@@ -7,6 +7,7 @@ Example:
 exitAlignTimes = GetNotetrackTimes( exitAnim, "exit_align" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

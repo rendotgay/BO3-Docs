@@ -7,6 +7,7 @@ Example:
 path_metric = level.ai_for_pathing GetPathMetric( dropPos )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

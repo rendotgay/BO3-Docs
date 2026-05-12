@@ -7,6 +7,7 @@ Example:
 acvi = self GetPlayerAttachmentCosmeticVariantIndexes( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

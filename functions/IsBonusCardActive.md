@@ -7,6 +7,7 @@ Example:
 primary = self IsBonusCardActive( BONUSCARD_PRIMARY_GUNFIGHTER_INDEX, self.class_num )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

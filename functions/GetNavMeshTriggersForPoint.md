@@ -7,6 +7,7 @@ Example:
 targetNames = GetNavMeshTriggersForPoint( pos )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

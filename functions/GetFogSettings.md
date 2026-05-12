@@ -7,3 +7,4 @@ Example:
 fogsettings = getfogsettings()
 ```
 
+

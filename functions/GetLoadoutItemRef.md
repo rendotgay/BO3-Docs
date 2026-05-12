@@ -7,6 +7,7 @@ Example:
 primary = self GetLoadoutItemRef( 0, primary )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

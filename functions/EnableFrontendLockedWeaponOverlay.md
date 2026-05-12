@@ -7,6 +7,7 @@ Example:
 entity EnableFrontendLockedWeaponOverlay( 0, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

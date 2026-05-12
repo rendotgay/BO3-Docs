@@ -7,6 +7,7 @@ Example:
 if ( isclass(self)) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

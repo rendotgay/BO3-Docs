@@ -7,6 +7,7 @@ Example:
 self Teleport( org, angles )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

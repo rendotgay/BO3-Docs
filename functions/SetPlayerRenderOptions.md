@@ -7,6 +7,7 @@ Example:
 self SetPlayerRenderOptions( playerRenderOptions );
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

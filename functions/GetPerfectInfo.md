@@ -7,6 +7,7 @@ Example:
 self GetPerfectInfo( get_players()[0] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

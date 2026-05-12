@@ -7,6 +7,7 @@ Example:
 if ( IsSpawnPointVisible( point_position, point_angles, "axis", player ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

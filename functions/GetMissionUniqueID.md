@@ -7,6 +7,7 @@ Example:
 level.unique_id = GetMissionUniqueID( "cp_mi_cairo_ramses2" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

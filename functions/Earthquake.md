@@ -7,6 +7,7 @@ Example:
 Earthquake( 0.22, 7, player.origin, 150 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

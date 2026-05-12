@@ -7,6 +7,7 @@ Example:
 taunt_anim = GetTopPlayersTaunt( localClientNum, 2, 0 );	// TAUNT_TYPE_FIRST_PLACE = 0
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

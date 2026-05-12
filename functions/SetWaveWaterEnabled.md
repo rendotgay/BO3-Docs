@@ -7,6 +7,7 @@ Example:
 SetWaveWaterEnabled( "huge_lake", true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 modeRenderOptions = GetCharacterModeRenderOptions( SESSIONMODE_MULTIPLAYER )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

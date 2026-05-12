@@ -2,10 +2,7 @@
 
 Set the sound pitch rate
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,6 +7,7 @@ Example:
 if ( player IsEntityLinkedToTag( grenade, "j_head" ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

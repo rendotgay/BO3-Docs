@@ -7,6 +7,7 @@ Example:
 self SetWeaponFriendlyTargeting( weapon, 0.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 if ( node IsDangerous( team ) ) { //do something }
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 level.has_collectibles = MissionHasCollectibles( "cp_mi_cairo_ramses2" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

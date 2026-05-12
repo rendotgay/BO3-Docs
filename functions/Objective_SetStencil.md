@@ -7,6 +7,7 @@ Example:
 Objective_SetStencil( localClientNum, clientObjID, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

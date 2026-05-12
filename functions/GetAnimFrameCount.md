@@ -7,6 +7,7 @@ Example:
 FrameNum = GetAnimFrameCount(climbAnim)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

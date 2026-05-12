@@ -7,6 +7,7 @@ Example:
 world.nextIntroMovie = GetMapIntroMovie( GetNextMap("cp_mi_sing_blackstation") )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

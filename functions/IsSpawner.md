@@ -7,6 +7,7 @@ Example:
 if ( IsSpawner( ent ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

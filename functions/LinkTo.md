@@ -7,6 +7,7 @@ Example:
 self.rightturret LinkTo( self, "tag_gunRight", (0,0,0), (0,0,0) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

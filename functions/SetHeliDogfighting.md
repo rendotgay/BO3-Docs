@@ -7,6 +7,7 @@ Example:
 vehicle SetHeliDogfighting( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

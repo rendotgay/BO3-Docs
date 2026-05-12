@@ -7,6 +7,7 @@ Example:
 player AllowStand( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

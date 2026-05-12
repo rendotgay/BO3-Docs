@@ -7,6 +7,7 @@ Example:
 SetExposureInstantSnap( localClientNum, newVal )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 if (ent IsLinkedTo( other )) { // dostuff }
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

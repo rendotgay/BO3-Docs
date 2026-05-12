@@ -2,10 +2,7 @@
 
 Only works if the player is currently linked to another entity and angles aren't locked. Lerps the current view angle constraints to the provided ones over the specified time.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

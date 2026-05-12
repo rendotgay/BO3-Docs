@@ -7,6 +7,7 @@ Example:
 self SetExcludeTeamForTrigger( game["attackers"] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

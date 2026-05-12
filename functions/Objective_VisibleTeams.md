@@ -7,6 +7,7 @@ Example:
 Objective_VisibleTeams( 0, 01101101 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

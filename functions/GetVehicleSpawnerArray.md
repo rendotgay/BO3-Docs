@@ -7,6 +7,7 @@ Example:
 enemies = GetVehicleSpawnerArray( "bob", "targetname" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

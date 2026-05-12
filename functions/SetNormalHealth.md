@@ -7,6 +7,7 @@ Example:
 self SetNormalHealth( 0.8 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

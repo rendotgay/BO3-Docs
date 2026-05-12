@@ -7,6 +7,7 @@ Example:
 if ( entity IsFriendly( &lt;localClientNum&gt;, [predicted] ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

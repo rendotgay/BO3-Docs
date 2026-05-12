@@ -7,6 +7,7 @@ Example:
 baseWeaponName = GetBaseWeaponItemIndex( "m16_acog_mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

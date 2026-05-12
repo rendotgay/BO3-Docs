@@ -7,6 +7,7 @@ Example:
 plane SetVisibleToAllExceptTeam( self.team )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

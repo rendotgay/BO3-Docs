@@ -7,6 +7,7 @@ Example:
 self SetClientNumLives( level.numLives )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

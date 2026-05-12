@@ -7,6 +7,7 @@ Example:
 objective_position( self.objectiveID, self.curOrigin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

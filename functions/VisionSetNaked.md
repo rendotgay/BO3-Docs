@@ -7,6 +7,7 @@ Example:
 VisionSetNaked( "cp_igc_chinatown_intro", 0.05 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

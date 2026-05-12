@@ -7,6 +7,7 @@ Example:
 renderOptions = GetTopPlayersBodyRenderOptions( localClientNum, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

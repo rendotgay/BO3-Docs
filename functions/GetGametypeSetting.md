@@ -7,6 +7,7 @@ Example:
 GetGametypeSetting( "scoreLimit" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

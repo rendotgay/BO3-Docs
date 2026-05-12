@@ -7,3 +7,4 @@ Example:
 Umbra_SetAccurateOcclusionThreshold( localClientNum, 8 )
 ```
 
+

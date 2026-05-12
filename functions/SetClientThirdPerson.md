@@ -7,6 +7,7 @@ Example:
 self SetClientThirdPerson( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 v=ForwardRotateByAngles( player_angles, frustum_edge_angle )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

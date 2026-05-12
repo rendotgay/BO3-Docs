@@ -7,6 +7,7 @@ Example:
 TestSpawnPoint( self.origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

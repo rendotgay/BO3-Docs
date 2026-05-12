@@ -7,6 +7,7 @@ Example:
 ends_with = StrEndsWith( "my_string", "_string" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

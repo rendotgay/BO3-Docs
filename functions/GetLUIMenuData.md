@@ -7,6 +7,7 @@ Example:
 modelValue = GetLUIMenuData( localClientNum, menuIndex, "title" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

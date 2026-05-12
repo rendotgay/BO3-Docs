@@ -7,6 +7,7 @@ Example:
 player AllowMelee(false)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

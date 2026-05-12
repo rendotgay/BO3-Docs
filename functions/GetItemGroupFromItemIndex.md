@@ -7,6 +7,7 @@ Example:
 ref = GetItemGroupFromItemIndex( itemIndex )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

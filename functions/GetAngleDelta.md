@@ -7,6 +7,7 @@ Example:
 angleDelta = getAngleDelta( arrivalAnim, 0, normalizedLength )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

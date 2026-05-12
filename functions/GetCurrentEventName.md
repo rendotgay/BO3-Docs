@@ -7,3 +7,4 @@ Example:
 eventId = self GetCurrentEventName()
 ```
 
+

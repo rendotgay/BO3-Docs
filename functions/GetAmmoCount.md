@@ -7,6 +7,7 @@ Example:
 n_ammo = self GetAmmoCount( w_weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

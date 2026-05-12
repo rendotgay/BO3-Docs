@@ -7,6 +7,7 @@ Example:
 self setdamagestage( 3 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

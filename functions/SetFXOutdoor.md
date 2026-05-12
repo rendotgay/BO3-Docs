@@ -7,6 +7,7 @@ Example:
 SetFXOutdoor( fxId )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

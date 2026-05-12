@@ -7,6 +7,7 @@ Example:
 influencer_id = AddOrientedInfluencer( name, origin, angles, allies_mask )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

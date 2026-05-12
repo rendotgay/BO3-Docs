@@ -7,6 +7,7 @@ Example:
 if( self IsCoverValid( pathnode ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

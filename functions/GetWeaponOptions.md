@@ -7,6 +7,7 @@ Example:
 weaponOptions = self GetWeaponOptions( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

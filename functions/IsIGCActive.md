@@ -7,6 +7,7 @@ Example:
 status = IsIGCActive( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

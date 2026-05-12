@@ -7,6 +7,7 @@ Example:
 IsMature( player )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 thing SetDedicatedShadow( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

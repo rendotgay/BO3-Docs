@@ -7,6 +7,7 @@ Example:
 node = GetVisibleNode( guy.origin, enemy.origin, guy )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

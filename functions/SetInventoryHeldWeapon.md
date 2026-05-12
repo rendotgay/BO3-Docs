@@ -7,6 +7,7 @@ Example:
 player SetInventoryHeldWeapon( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

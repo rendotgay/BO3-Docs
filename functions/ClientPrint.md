@@ -2,10 +2,7 @@
 
 Print a localized version of this string for a given client
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

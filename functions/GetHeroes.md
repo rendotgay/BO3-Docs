@@ -7,6 +7,7 @@ Example:
 heroIndices = GetHeroes()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

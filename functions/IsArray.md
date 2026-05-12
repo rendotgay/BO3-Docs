@@ -7,6 +7,7 @@ Example:
 if ( isarray ( gun_owner )) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

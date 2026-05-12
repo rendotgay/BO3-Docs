@@ -7,6 +7,7 @@ Example:
 self ClearPotentialThreat( 90 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

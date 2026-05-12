@@ -7,6 +7,7 @@ Example:
 if ( GetTeamScore( "allies" ) &gt; getTeamScore("axis") ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

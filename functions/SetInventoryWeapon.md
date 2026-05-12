@@ -7,6 +7,7 @@ Example:
 self SetInventoryWeapon( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

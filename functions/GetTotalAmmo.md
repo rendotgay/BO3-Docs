@@ -7,6 +7,7 @@ Example:
 ammoCount = GetTotalAmmo( localClientNum, "ak47_mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

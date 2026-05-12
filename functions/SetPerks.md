@@ -7,6 +7,7 @@ Example:
 hudelement SetPerks( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

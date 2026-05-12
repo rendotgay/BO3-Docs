@@ -7,3 +7,4 @@ Example:
 v_stick = player GetNormalizedCameraMovement()
 ```
 
+

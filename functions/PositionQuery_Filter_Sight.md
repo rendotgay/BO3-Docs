@@ -7,6 +7,7 @@ Example:
 PositionQuery_Filter_Sight( queryResult, self.enemy.origin, self GetEye() - self.origin, self, 30, self.enemy );
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

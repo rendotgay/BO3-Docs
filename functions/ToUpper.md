@@ -7,6 +7,7 @@ Example:
 my_string = ToUpper( "lower" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

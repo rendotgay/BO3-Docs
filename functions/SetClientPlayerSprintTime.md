@@ -7,6 +7,7 @@ Example:
 self SetClientPlayerSprintTime( level.playerSprintTime )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

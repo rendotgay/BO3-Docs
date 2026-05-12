@@ -7,6 +7,7 @@ Example:
 modelName = GetTopPlayersWeaponModel( localClientNum, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

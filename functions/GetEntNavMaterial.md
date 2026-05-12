@@ -7,6 +7,7 @@ Example:
 material = GetEntNavMaterial( ai_actor )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

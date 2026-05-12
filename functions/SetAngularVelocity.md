@@ -7,6 +7,7 @@ Example:
 self SetAngularVelocity( (0, 90, 0) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

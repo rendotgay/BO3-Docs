@@ -2,10 +2,7 @@
 
 Sets the start time for a vote
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

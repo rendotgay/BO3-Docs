@@ -7,3 +7,4 @@ Example:
 currentweapon = player GetCurrentWeapon()
 ```
 
+

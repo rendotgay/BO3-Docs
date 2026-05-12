@@ -7,6 +7,7 @@ Example:
 self BeginLocationAirstrikeSelection( LOCATION_SELECTOR )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

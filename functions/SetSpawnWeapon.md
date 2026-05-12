@@ -7,6 +7,7 @@ Example:
 self SetSpawnWeapon( "ak47" )during prematch period or grace period in mp)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

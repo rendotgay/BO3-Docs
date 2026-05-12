@@ -7,6 +7,7 @@ Example:
 player AllowWallRun( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

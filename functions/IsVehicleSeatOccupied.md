@@ -7,6 +7,7 @@ Example:
 lvt IsVehicleSeatOccupied( 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

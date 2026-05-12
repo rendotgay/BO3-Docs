@@ -7,6 +7,7 @@ Example:
 vehicle SetVehicleAvoidance( true, 50 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

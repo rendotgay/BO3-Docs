@@ -7,6 +7,7 @@ Example:
 resetConditions = GetContractResetConditions( contractIndex )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

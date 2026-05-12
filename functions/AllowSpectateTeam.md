@@ -7,6 +7,7 @@ Example:
 self AllowSpectateTeam( "axis", true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

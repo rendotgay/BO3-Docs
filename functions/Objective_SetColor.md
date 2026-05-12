@@ -7,6 +7,7 @@ Example:
 Objective_SetColor( myObjNumber, 1.0, 0.0, 0.0, 1.0 )Objective_SetColor( myObjNumber, "FriendlyBlue" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

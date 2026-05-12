@@ -7,6 +7,7 @@ Example:
 self OpenMenuNoMouse( game[ "menu_changeclass" ] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

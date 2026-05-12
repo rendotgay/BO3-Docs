@@ -7,6 +7,7 @@ Example:
 SetFilterPassEnabled( self.localClientNum, 1, 12, false)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

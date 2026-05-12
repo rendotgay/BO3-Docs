@@ -7,6 +7,7 @@ Example:
 playerRenderOptions = self CalcPlayerOptions( class_num )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

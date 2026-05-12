@@ -7,6 +7,7 @@ Example:
 AddSpawnPoints( "allies", "mp_tdm_spawn" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

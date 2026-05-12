@@ -2,10 +2,7 @@
 
 Returns true if the string is a valid game type
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

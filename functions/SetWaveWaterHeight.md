@@ -7,6 +7,7 @@ Example:
 SetWaveWaterHeight( "huge_lake", 15.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,10 +2,7 @@
 
 Set the client volumetric fog properties
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

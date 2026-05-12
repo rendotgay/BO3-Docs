@@ -7,6 +7,7 @@ Example:
 entity oed_nightvision_reset()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

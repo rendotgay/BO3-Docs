@@ -7,6 +7,7 @@ Example:
 SetLevelFadeSnapshot( sn_name, sn_amount )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

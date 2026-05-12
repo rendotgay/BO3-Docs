@@ -7,6 +7,7 @@ Example:
 has_part = self HasPart( "tag_weapon", "weapon_saw" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

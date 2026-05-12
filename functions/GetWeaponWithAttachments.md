@@ -7,6 +7,7 @@ Example:
 GetWeapon( "mp7_mp+acog" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

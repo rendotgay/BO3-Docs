@@ -7,6 +7,7 @@ Example:
 self GadgetGetSlot( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

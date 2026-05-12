@@ -7,6 +7,7 @@ Example:
 IsAssetLoaded( "weapon", "rpg" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 team = GetLocalPlayerTeam( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

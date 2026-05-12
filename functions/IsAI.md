@@ -7,6 +7,7 @@ Example:
 if ( IsAI( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

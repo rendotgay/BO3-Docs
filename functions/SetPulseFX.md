@@ -7,6 +7,7 @@ Example:
 elem SetPulseFX( 40, 2000, 600 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

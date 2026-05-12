@@ -7,6 +7,7 @@ Example:
 topPlayerIndex = self GetTopPlayersIndex( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

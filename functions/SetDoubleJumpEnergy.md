@@ -7,6 +7,7 @@ Example:
 player SetDoubleJumpEnergy( &lt;energy&gt; )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

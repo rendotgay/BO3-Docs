@@ -7,6 +7,7 @@ Example:
 self SetActionSlot( 4, "weapon", level.DEAD_CONTROL_WEAPON )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

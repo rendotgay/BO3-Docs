@@ -7,6 +7,7 @@ Example:
 ErrorMsg( "Unhandled enemy type." )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

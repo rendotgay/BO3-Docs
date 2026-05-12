@@ -7,6 +7,7 @@ Example:
 throwvel = self CanThrowGrenade( armOffset, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

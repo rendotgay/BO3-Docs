@@ -7,6 +7,7 @@ Example:
 model_ignore_collision = self GetAttachIgnoreCollision( index )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,3 +7,4 @@ Example:
 isBehaviorTreeInRunningState = behaviorTreeEntity GetBehaviortreeStatus() == BHTN_RUNNING
 ```
 
+

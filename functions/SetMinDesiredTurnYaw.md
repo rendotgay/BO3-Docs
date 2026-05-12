@@ -7,6 +7,7 @@ Example:
 quadtank SetMinDesiredTurnYaw( 45 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

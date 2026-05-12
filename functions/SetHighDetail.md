@@ -7,6 +7,7 @@ Example:
 thing SetHighDetail( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

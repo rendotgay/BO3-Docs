@@ -7,6 +7,7 @@ Example:
 hideHead = GetCharacterHelmetHidesHead( 0, 0, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

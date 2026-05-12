@@ -7,6 +7,7 @@ Example:
 if ( IsSentient( vehicle.riders[j] ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 entity motionpulse_enable( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

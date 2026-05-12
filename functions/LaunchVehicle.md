@@ -7,6 +7,7 @@ Example:
 panzer LaunchVehicle( (0,0,100) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

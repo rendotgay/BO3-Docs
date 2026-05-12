@@ -7,3 +7,4 @@ Example:
 mins = wallModel GetMins()
 ```
 
+

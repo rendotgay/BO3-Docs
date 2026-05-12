@@ -7,6 +7,7 @@ Example:
 SoundTimeScale( 1.1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

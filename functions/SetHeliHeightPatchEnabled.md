@@ -7,6 +7,7 @@ Example:
 SetHeliHeightPatchEnabled( "area51", 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

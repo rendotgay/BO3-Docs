@@ -7,6 +7,7 @@ Example:
 self SetWeaponAmmoClip( weapon, weapon.clipSize )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

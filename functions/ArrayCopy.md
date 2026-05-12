@@ -2,10 +2,7 @@
 
 returns a copy of an array
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,6 +7,7 @@ Example:
 level.player FreezeControlsAllowLook( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

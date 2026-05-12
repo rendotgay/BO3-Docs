@@ -7,6 +7,7 @@ Example:
 team = GetTopPlayersTeam( localClientNum, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self.rightturret LinkToUpdateOffset( originsOffset, anglesOffset )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

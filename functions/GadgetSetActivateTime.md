@@ -7,6 +7,7 @@ Example:
 self GadgetSetActivateTime( slot, time )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

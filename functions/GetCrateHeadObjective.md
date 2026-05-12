@@ -7,6 +7,7 @@ Example:
 crateObjective = GetCrateHeadObjective( uav )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

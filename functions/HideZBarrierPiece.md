@@ -7,6 +7,7 @@ Example:
 ent HideZBarrierPiece(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

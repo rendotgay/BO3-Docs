@@ -7,6 +7,7 @@ Example:
 get_players()[0] CameraActivate( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

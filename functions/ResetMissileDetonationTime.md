@@ -7,6 +7,7 @@ Example:
 grenadeEnt ResetMissileDetonationTime()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

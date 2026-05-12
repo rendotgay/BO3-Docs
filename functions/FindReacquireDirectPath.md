@@ -2,10 +2,7 @@
 
 Finds a path directly to the enemy. Call ReacquireMove to use the path.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

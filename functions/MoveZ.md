@@ -2,10 +2,7 @@
 
 Move this entity to the given world z value
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

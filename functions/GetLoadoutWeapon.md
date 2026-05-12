@@ -7,6 +7,7 @@ Example:
 primary = self GetLoadoutWeapon( 0, primary )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

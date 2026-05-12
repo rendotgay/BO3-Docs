@@ -7,6 +7,7 @@ Example:
 randEnemy SetAvoidanceMask("avoid none")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

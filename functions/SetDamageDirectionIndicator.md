@@ -2,10 +2,7 @@
 
 Use the armor version of the hit indicator
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

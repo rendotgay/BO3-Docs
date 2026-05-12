@@ -7,6 +7,7 @@ Example:
 nearbyOthersCount = GetActorTeamCountRadius( self.origin, 500, "axis", "neutral" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

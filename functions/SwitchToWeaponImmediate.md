@@ -7,6 +7,7 @@ Example:
 level.player SwitchToWeaponImmediate( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

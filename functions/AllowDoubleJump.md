@@ -7,6 +7,7 @@ Example:
 player AllowDoubleJump( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

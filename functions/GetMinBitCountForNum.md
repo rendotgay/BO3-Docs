@@ -7,6 +7,7 @@ Example:
 GetMinBitCountForNum( 15 ) returns 4
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

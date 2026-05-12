@@ -7,6 +7,7 @@ Example:
 self SetDepthOfField( 0, 0, 512, 4000, 4, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

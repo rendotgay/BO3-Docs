@@ -7,6 +7,7 @@ Example:
 self RotateRoll( (2 * 1500 + 3 * Randomfloat( 2500 )) * -1, 5, 0, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 aiGuy SetStealthSightAwareness( "unaware", true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

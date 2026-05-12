@@ -7,6 +7,7 @@ Example:
 dist2 = DistanceSquared(models[j].origin, center)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

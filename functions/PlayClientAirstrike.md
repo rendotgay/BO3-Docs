@@ -7,6 +7,7 @@ Example:
 PlayClientAirstrike( pos, yaw, "marines", "axis", owner, "left", height )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

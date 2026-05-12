@@ -7,6 +7,7 @@ Example:
 SetHideonClientWhenScriptedAnimCompleted( ent )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

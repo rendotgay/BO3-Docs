@@ -7,6 +7,7 @@ Example:
 player StartFadingBlur( 3, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

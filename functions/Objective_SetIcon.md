@@ -7,6 +7,7 @@ Example:
 Objective_SetIcon( localClientNum, clientObjID, "remotemissile_target" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

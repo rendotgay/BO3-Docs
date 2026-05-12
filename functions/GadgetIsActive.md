@@ -7,6 +7,7 @@ Example:
 self GadgetIsActive( slot )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

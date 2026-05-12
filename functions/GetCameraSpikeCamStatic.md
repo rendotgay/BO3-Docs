@@ -7,6 +7,7 @@ Example:
 GetCameraSpikeCamStatic( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 frac = Sin( degrees )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

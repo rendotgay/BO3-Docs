@@ -7,6 +7,7 @@ Example:
 StrStrip( "    hq_cleared   " ); // 'hq_cleared'
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 enemies = GetVehicleArray( "drones", "targetname" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

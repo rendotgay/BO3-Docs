@@ -7,6 +7,7 @@ Example:
 boat SetDrivePathPhysicsScale( 3.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

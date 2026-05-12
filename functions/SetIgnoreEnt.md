@@ -7,6 +7,7 @@ Example:
 aiGuy SetIgnoreEnt( player, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

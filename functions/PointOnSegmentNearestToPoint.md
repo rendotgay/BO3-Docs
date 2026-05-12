@@ -7,6 +7,7 @@ Example:
 nearestPoint = PointOnSegmentNearestToPoint( A, B, P )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

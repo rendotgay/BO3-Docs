@@ -7,6 +7,7 @@ Example:
 player SetVisionSetForPlayer( "mortar_thermal", 1.5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

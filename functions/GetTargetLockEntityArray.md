@@ -7,3 +7,4 @@ Example:
 target = self GetTargetLockEntityArray(&lt;localclientnum&gt;)
 ```
 
+

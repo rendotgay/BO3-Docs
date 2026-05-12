@@ -7,6 +7,7 @@ Example:
 name = GetCustomTeamName( teamid )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

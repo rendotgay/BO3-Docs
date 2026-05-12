@@ -7,6 +7,7 @@ Example:
 primary = self GetLoadoutPerks( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

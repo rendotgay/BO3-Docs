@@ -2,10 +2,7 @@
 
 Sets the objective to be not being used by the specified player.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

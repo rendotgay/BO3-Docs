@@ -7,6 +7,7 @@ Example:
 self AttachWeapon( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

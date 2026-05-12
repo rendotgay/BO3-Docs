@@ -7,6 +7,7 @@ Example:
 self SetClientDrawTalk( 3 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

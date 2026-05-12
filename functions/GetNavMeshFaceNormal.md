@@ -7,6 +7,7 @@ Example:
 navmeshNormal = GetNavMeshFaceNormal( (10,20,30), 25 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

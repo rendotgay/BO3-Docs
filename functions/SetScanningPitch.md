@@ -7,6 +7,7 @@ Example:
 turret SetScanningPitch( -45 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

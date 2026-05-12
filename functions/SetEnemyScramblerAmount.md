@@ -7,6 +7,7 @@ Example:
 player SetEnemyScramblerAmount( 1.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

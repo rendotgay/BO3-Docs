@@ -7,6 +7,7 @@ Example:
 queryResult = PositionQuery_Source_Navigation( goalpos, self.radius, self.radius * 8, heightRadius, AI_GOAL_POINT_STEP, self, AI_GOAL_POINT_STEP * 0.2 )if ( queryResult.centerOnNav ){foreach( pointStruct in queryResult.data ){position = pointStruct.origindist = pointStruct.distToOrigin2D...}}
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

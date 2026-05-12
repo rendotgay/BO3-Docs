@@ -7,6 +7,7 @@ Example:
 AddDemoBookmark( bookmark_string, gettime(), self GetEntityNumber(), 255, 0, inflictorEntNum, inflictorEntType, inflictorBirthTime, false, self.grenade_multiattack_ent GetEntityNumber() )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

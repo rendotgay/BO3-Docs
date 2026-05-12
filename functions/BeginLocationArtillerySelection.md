@@ -7,6 +7,7 @@ Example:
 self BeginLocationArtillerySelection( LOCATION_SELECTOR )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

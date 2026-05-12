@@ -7,6 +7,7 @@ Example:
 localDeltaVector = GetMoveDelta( animation, 0, 1, entity )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 ent SetEntityWeapon( "kniferang_mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 plane SetVehicleType("f35_vtol")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

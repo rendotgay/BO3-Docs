@@ -7,6 +7,7 @@ Example:
 SetMapCenter( level.mapCenter )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

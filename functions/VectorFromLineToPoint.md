@@ -7,6 +7,7 @@ Example:
 myvector = VectorFromLineToPoint( A, B, P )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

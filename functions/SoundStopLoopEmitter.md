@@ -7,6 +7,7 @@ Example:
 SoundStopLoopEmitter("evt_beacon_loop_green", self.origin)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

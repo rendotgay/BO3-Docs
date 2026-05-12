@@ -7,6 +7,7 @@ Example:
 shutter RotateTo( (shutter.angles[0], newYaw, shutter.angles[2]), newTime )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

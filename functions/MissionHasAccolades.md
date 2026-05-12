@@ -7,6 +7,7 @@ Example:
 level.has_accolades = MissionHasAccolades( "cp_mi_cairo_ramses2" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

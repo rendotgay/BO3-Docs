@@ -7,6 +7,7 @@ Example:
 points = GetNodeEdge( myNode )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

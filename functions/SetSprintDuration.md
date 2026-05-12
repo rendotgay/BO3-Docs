@@ -7,6 +7,7 @@ Example:
 self SetSprintDuration( 4 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

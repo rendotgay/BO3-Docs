@@ -7,6 +7,7 @@ Example:
 if ( IsPlayer( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 PositionQuery_Filter_InClaimedLocation( queryResult, self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

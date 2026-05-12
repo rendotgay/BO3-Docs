@@ -7,6 +7,7 @@ Example:
 SoundUpdateLineEmitter( "wpn_micro_turret_loop", previousStart, previousEnd, start, end )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

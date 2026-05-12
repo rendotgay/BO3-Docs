@@ -7,6 +7,7 @@ Example:
 self SetAirResistance( 60 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

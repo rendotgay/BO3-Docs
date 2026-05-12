@@ -7,6 +7,7 @@ Example:
 self SetClientHUDHardcore( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 Target_StartReticleLockOn( enemy_chopper, 4 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

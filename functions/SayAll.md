@@ -7,6 +7,7 @@ Example:
 self SayAll( saytext )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 entity motionpulse_setsolid( level )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

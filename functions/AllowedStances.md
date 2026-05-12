@@ -7,6 +7,7 @@ Example:
 self AllowedStances( "crouch", "prone" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

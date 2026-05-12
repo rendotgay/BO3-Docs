@@ -7,6 +7,7 @@ Example:
 DeactivateClientRadiantExploder( "light_switch" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

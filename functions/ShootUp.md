@@ -7,6 +7,7 @@ Example:
 betty ShootUp( 350 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

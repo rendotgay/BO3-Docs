@@ -7,6 +7,7 @@ Example:
 smodelIndex = FindStaticModelIndex()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

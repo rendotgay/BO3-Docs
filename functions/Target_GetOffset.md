@@ -7,6 +7,7 @@ Example:
 offset = Target_GetOffset( entity )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

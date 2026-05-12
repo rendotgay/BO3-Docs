@@ -7,6 +7,7 @@ Example:
 self AddBonusCardStat( BONUSCARD_OVERKILL, "kills", 1, self.class_num )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 ent mapshaderconstant( 0, "shaderColor" ); ent mapshaderconstant( 0, "shaderColor", 1, 0, 1, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

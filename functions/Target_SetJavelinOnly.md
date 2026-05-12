@@ -7,6 +7,7 @@ Example:
 Target_SetJavelinOnly( enemy_tank, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

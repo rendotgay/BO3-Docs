@@ -7,3 +7,4 @@ Example:
 category = GetAnimStateCategory( )
 ```
 
+

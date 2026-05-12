@@ -7,6 +7,7 @@ Example:
 elem SetRedactFX( 2000, 600, 3000, 400 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self BeginLocationNapalmSelection( LOCATION_SELECTOR )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

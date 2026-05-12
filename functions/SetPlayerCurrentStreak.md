@@ -7,6 +7,7 @@ Example:
 SetPlayerCurrentStreak( 3 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

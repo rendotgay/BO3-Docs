@@ -7,6 +7,7 @@ Example:
 entity randomfade( level )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

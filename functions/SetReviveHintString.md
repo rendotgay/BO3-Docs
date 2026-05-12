@@ -7,6 +7,7 @@ Example:
 self.revivetrigger setReviveHintString( &"GAME_BUTTON_TO_REVIVE_PLAYER", self.team )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 flag SetFlagAsAway( localClientNum, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

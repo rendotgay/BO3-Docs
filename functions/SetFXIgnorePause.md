@@ -7,6 +7,7 @@ Example:
 SetFXIgnorePause( localClientNum, fxId, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

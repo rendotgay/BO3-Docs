@@ -7,6 +7,7 @@ Example:
 self MakeLight(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

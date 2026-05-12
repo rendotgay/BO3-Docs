@@ -7,6 +7,7 @@ Example:
 self playlocalsound( "evt_squad_activate" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

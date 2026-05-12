@@ -7,6 +7,7 @@ Example:
 SetInfluenceAt(influenceMapIndex, origin, influence)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 time = GetTimeFromVehicleNodeToNode( start_node, end_node )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

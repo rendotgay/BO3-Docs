@@ -7,6 +7,7 @@ Example:
 if ( IsNodeOccupied( node ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

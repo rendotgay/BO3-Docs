@@ -7,6 +7,7 @@ Example:
 objective_SetIconSize( localClientNum, clientObjID, 50 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,10 +2,7 @@
 
 current active .fsi fog volumes script identity value -1 = global volume.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

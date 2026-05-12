@@ -7,6 +7,7 @@ Example:
 player RemoveSensorGrenadeArea( sensor.handle )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

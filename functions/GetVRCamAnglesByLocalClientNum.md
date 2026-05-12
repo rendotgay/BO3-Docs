@@ -7,6 +7,7 @@ Example:
 cam_angles = GetVRCamAnglesByLocalClientNum( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

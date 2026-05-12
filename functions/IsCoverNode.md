@@ -7,6 +7,7 @@ Example:
 IsCoverNode( node )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

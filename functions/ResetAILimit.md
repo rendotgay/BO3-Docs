@@ -2,8 +2,5 @@
 
 Clears any previous restrictions on the max number of AI.
 
-Example:
-```c++
 
-```
 

@@ -7,6 +7,7 @@ Example:
 CaptureFrame( self.localClientNum, "freezeFrame" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 BadPlace_Box( "moody", -1, level.moodyfall_mn, level.moodyfall_halfSize, "neutral" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

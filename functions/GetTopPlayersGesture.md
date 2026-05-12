@@ -7,6 +7,7 @@ Example:
 gesture_anim = GetTopPlayersGesture( localClientNum, 2, 2 );	// GESTURE_TYPE_BOAST = 2
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

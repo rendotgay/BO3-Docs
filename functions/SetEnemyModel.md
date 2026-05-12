@@ -7,6 +7,7 @@ Example:
 dog SetEnemyModel( "german_shepard_black" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

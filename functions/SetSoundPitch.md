@@ -2,10 +2,7 @@
 
 Set the sound pitch
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,3 +7,4 @@ Example:
 alpha = player GetEnemyScramblerAmount( )
 ```
 
+

@@ -7,6 +7,7 @@ Example:
 if ( DoesWeaponReplaceSpawnWeapon( self.spawnWeapon, newWeapon ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

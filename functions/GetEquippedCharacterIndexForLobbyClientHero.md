@@ -7,6 +7,7 @@ Example:
 colorArray = GetEquippedHelmetAccentColorForHero( localClientNum, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

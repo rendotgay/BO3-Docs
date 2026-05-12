@@ -7,6 +7,7 @@ Example:
 CScr_SetCameraSpikeCamEntity( localClientNum, cameraSpike )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 weap ItemWeaponSetAmmo( clip, extra, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

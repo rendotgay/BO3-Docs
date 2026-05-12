@@ -7,6 +7,7 @@ Example:
 weapon_options = self GetBuildKitWeaponOptions( ar_standard, packapunch_camo_index )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

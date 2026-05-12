@@ -7,6 +7,7 @@ Example:
 SetScoreboardColumns( "score", "kills", "deaths", "kdratio", "assists" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

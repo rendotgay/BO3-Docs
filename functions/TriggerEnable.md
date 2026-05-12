@@ -7,6 +7,7 @@ Example:
 trig TriggerEnable( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

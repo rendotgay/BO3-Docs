@@ -7,6 +7,7 @@ Example:
 boneName = GetPartName( model, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 GetWeaponHackRatio(localClientNum, 1, "hotgun_zm")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

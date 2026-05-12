@@ -7,6 +7,7 @@ Example:
 entity motionpulse_setlinewidth( linewidth )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

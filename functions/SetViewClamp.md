@@ -7,3 +7,4 @@ Example:
 player SetViewClamp( 50, 50, 30, 30 )
 ```
 
+

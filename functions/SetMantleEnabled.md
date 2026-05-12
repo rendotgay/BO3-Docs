@@ -7,6 +7,7 @@ Example:
 vehicle SetMantleEnabled( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

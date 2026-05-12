@@ -7,6 +7,7 @@ Example:
 self SetCarryingObject( true );  // disables doublejump and juke
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

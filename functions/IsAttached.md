@@ -7,6 +7,7 @@ Example:
 self IsAttached( "somemodel", "tag_origin" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

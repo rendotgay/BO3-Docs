@@ -2,10 +2,7 @@
 
 combine two arrays into and returns one new array
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

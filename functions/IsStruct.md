@@ -7,6 +7,7 @@ Example:
 if ( isstruct(self)) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

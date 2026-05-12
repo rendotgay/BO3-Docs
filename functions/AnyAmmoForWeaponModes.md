@@ -7,6 +7,7 @@ Example:
 if ( !(self AnyAmmoForWeaponModes( weapon )) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

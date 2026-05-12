@@ -7,6 +7,7 @@ Example:
 player MurderLine( origin, endpos, "kniferang_mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

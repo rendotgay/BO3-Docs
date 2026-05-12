@@ -7,6 +7,7 @@ Example:
 self SetEverHadWeaponAll( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

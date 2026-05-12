@@ -2,10 +2,7 @@
 
 Shows this hint string to the player if the player has the specified perk
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

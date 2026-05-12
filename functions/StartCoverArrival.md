@@ -7,6 +7,7 @@ Example:
 soldier StartCoverArrival( pos, 45 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

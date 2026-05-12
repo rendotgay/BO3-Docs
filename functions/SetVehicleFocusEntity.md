@@ -7,6 +7,7 @@ Example:
 player SetVehicleFocusEntity( focusEntity )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 self InitialWeaponRaise( "ak47" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

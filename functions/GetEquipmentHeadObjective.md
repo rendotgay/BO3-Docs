@@ -7,6 +7,7 @@ Example:
 headObjective = GetEquipmentHeadObjective( bouncingbettty )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

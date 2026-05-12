@@ -7,6 +7,7 @@ Example:
 Assert( enemyInSight == true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

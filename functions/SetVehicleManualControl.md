@@ -7,6 +7,7 @@ Example:
 vehicle SetVehicleManualControl( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 model = GetWeaponWorldModel("lmg")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

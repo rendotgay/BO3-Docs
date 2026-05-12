@@ -7,6 +7,7 @@ Example:
 self SetLightRadius( 200 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

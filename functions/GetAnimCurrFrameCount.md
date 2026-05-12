@@ -7,6 +7,7 @@ Example:
 CurrFrameNum = GetAnimCurrFrameCount(climbAnim)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

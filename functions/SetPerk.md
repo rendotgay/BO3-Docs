@@ -7,6 +7,7 @@ Example:
 player SetPerk( "specialty_gpsjammer" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

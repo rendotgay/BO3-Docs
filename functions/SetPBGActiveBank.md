@@ -7,6 +7,7 @@ Example:
 SetPBGActiveBank( lcn, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

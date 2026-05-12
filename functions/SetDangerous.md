@@ -7,6 +7,7 @@ Example:
 self SetDangerous( self.team, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

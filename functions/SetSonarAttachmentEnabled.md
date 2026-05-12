@@ -7,6 +7,7 @@ Example:
 entity SetSonarAttachmentEnabled(false)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

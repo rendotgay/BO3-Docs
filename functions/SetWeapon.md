@@ -7,6 +7,7 @@ Example:
 killcamEnt SetWeapon( self.weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

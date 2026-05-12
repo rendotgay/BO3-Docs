@@ -7,6 +7,7 @@ Example:
 VideoStop( "MyAwesomeMovie" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 GScr_GetClassIndexFromName( "CLASS_SMG" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

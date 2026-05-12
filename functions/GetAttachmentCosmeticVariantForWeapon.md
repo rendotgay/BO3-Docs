@@ -7,6 +7,7 @@ Example:
 acvi = self GetAttachmentCosmeticVariantForWeapon( class_num, "primary" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

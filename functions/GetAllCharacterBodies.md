@@ -7,6 +7,7 @@ Example:
 heroIndices = GetAllCharacterBodies()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

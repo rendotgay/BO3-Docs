@@ -7,6 +7,7 @@ Example:
 if( SoundExists( soundAlias )) { //do something }
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

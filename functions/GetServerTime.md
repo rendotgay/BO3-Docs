@@ -7,6 +7,7 @@ Example:
 GetServerTime(localClientNum)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

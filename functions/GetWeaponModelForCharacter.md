@@ -7,6 +7,7 @@ Example:
 modelName = GetWeaponModelForCharacter( 0, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

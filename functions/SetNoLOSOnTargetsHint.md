@@ -7,6 +7,7 @@ Example:
 self SetNoLOSOnTargetsHint()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

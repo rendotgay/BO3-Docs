@@ -7,6 +7,7 @@ Example:
 tankVisibilityFraction = tank SightConeTrace( player.origin, player, player.angles, 65)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

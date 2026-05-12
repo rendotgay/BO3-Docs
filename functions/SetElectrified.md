@@ -7,6 +7,7 @@ Example:
 self SetElectrified( 3.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 weapon GetWeaponXCam( GetWeapon( weaponName ), "cam_cac_weapon" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

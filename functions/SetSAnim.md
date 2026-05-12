@@ -7,6 +7,7 @@ Example:
 thing SetSAnim( anim, shot, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

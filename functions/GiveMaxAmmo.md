@@ -7,6 +7,7 @@ Example:
 self GiveMaxAmmo( primary )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

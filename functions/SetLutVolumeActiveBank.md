@@ -7,6 +7,7 @@ Example:
 SetLutVolumeActiveBank( localClientNum, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 canShootEnemy = self CanShootEnemy()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

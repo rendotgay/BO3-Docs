@@ -7,3 +7,4 @@ Example:
 distance = player GetSunShadowSplitDistance()
 ```
 
+

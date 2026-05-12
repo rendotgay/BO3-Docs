@@ -2,10 +2,7 @@
 
 cylinder_dir_vector should contains the direction and the length of the cylinder relative to the base origin
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

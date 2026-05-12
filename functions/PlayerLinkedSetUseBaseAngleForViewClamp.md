@@ -7,6 +7,7 @@ Example:
 player PlayerLinkedSetUseBaseAngleForViewClamp( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 SModelAnimCmd("targetName","pause")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

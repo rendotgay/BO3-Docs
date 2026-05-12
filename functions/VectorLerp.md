@@ -7,6 +7,7 @@ Example:
 color = VectorLerp(oldColor, newColor, timeElapsed / timeTotal)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

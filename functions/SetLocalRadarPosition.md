@@ -7,6 +7,7 @@ Example:
 SetLocalRadarPosition( localClientNum, self.origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

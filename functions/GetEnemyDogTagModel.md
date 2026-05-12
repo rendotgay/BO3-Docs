@@ -7,3 +7,4 @@ Example:
 friendly_model = player GetEnemyDogTagModel( )
 ```
 
+

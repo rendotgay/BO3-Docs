@@ -7,6 +7,7 @@ Example:
 self ReloadWeaponAmmo( &lt;weapon&gt; )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

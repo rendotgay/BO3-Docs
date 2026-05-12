@@ -2,10 +2,7 @@
 
 create an array
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

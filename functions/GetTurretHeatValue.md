@@ -7,6 +7,7 @@ Example:
 heat = self GetTurretHeatValue( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

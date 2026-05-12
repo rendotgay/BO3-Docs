@@ -7,6 +7,7 @@ Example:
 SetBlurByLocalClientNum( localClientNum, curr_info.magnitude, curr_info.transition_in )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

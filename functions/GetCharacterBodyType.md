@@ -7,3 +7,4 @@ Example:
 bodyIndex = self GetCharacterBodyType( )
 ```
 
+

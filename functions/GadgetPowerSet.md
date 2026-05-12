@@ -7,6 +7,7 @@ Example:
 self GadgetPowerSet( slot, 100 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

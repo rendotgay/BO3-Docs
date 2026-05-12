@@ -7,6 +7,7 @@ Example:
 PlayRumbleOnPosition( "grenade_rumble", origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,10 +2,7 @@
 
 Rotate this entity to the given yaw
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

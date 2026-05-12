@@ -7,6 +7,7 @@ Example:
 handle = BeamLaunch(0, launcher, launcherTag, target, targetTag, beam)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

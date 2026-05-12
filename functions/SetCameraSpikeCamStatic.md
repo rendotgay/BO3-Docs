@@ -7,6 +7,7 @@ Example:
 SetCameraSpikeCamStatic( localClientNum, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 player CloseMenu( game[ "menu_changeclass" ] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

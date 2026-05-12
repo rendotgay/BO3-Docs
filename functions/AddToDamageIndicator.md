@@ -7,6 +7,7 @@ Example:
 self AddToDamageIndicator( int( armor_damage ), vDir)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

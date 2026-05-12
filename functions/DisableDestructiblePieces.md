@@ -7,6 +7,7 @@ Example:
 DisableDestructiblePieces( "heavy_armor" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

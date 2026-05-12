@@ -7,6 +7,7 @@ Example:
 upAngle = ATan( height/distance )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

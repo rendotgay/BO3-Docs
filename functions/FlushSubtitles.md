@@ -7,6 +7,7 @@ Example:
 FlushSubtitles(0)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

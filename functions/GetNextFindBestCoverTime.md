@@ -7,6 +7,7 @@ Example:
 behaviorTreeEntity.nextFindBestCoverTime = GetActorNextFindBestCoverTime( behaviorTreeEntity.engageMinDist, behaviorTreeEntity.engagemaxdist, behaviorTreeEntity.coversearchinterval )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

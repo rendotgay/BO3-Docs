@@ -7,6 +7,7 @@ Example:
 accentColorCount = GetHelmetAccentColorCountForHero( localClientNum, 0, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

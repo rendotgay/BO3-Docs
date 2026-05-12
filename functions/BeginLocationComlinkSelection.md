@@ -7,6 +7,7 @@ Example:
 self BeginLocationComlinkSelection( LOCATION_SELECTOR, 1000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

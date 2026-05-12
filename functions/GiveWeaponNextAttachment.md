@@ -7,6 +7,7 @@ Example:
 self giveweaponnextattachment( "muzzle" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

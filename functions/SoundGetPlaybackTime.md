@@ -7,6 +7,7 @@ Example:
 playbackTime = SoundGetPlaybackTime( "evt_infection_record_oneshot" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

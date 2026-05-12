@@ -7,6 +7,7 @@ Example:
 VisionSetLastStand( "armada", 1.5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

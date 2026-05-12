@@ -7,6 +7,7 @@ Example:
 EnableSpeedBlur( localClientNum, .02, .5, .75, true, 300.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

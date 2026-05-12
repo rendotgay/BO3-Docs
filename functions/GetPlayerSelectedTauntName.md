@@ -7,6 +7,7 @@ Example:
 taunt = player GetPlayerSelectedTauntName( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

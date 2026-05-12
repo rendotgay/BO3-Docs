@@ -7,6 +7,7 @@ Example:
 self Vibrate( directionVir, 0.3, 0.4, 1.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

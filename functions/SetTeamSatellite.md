@@ -7,6 +7,7 @@ Example:
 SetTeamSatellite( "allies", true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

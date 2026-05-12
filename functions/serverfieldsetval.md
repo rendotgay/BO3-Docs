@@ -7,6 +7,7 @@ Example:
 RegisterServerField("my_field", VERSION_SHIP, 2, "int", ::my_cb_func); // registers a world int field with 2 bits of resolution, that can hold the values 0,1,2,3.
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

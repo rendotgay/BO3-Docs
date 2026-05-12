@@ -7,6 +7,7 @@ Example:
 if ( vehicle IsVehicleImmuneToDamage( flags, mod, weapon ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

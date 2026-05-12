@@ -7,6 +7,7 @@ Example:
 org1 = GetStartOrigin( climborg, climbang, buddyanim1, [0.5] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

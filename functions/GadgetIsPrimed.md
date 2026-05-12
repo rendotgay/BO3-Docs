@@ -7,6 +7,7 @@ Example:
 self GadgetIsPrimed( slot )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

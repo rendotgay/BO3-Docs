@@ -7,6 +7,7 @@ Example:
 huey PathMove( node, origin, angles )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

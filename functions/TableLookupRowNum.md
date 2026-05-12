@@ -7,6 +7,7 @@ Example:
 TableLookupRowNum( "mp/statstable.csv", 0, "INDEX_KILLS" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

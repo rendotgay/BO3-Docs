@@ -7,6 +7,7 @@ Example:
 if ( crate_ent IsTouchingVolume( origin + (0,0,40), mins, maxs ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

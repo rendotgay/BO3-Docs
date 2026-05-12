@@ -7,6 +7,7 @@ Example:
 decoy FakeFire( player, position, "turret_mp", 20 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

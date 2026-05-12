@@ -7,6 +7,7 @@ Example:
 SetRimIntensity(0, 20)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,3 +7,4 @@ Example:
 e_trig_mobile_armory UseTriggerIgnoreUseHoldTime()
 ```
 
+

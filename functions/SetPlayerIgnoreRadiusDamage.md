@@ -7,6 +7,7 @@ Example:
 SetPlayerIgnoreRadiusDamage( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

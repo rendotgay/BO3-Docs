@@ -7,6 +7,7 @@ Example:
 SetCameraSpikeCamOrigin( localClientNum, origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

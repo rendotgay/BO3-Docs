@@ -7,6 +7,7 @@ Example:
 self SetBurn( 3.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

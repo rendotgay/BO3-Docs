@@ -7,6 +7,7 @@ Example:
 hudelement SetWarGameData( 0, 1, 30 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

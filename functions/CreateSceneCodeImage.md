@@ -7,6 +7,7 @@ Example:
 CreateSceneCodeImage( self.localClientNum, "freezeFrame" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

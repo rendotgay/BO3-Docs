@@ -7,6 +7,7 @@ Example:
 player CameraSetUpdateCallback( &function )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

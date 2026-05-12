@@ -7,6 +7,7 @@ Example:
 client_fov = GetLocalClientFOV()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

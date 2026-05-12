@@ -7,6 +7,7 @@ Example:
 if ( CanClaimNode( cover, team ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

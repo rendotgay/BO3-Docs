@@ -7,6 +7,7 @@ Example:
 player AllowLean( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,10 +2,7 @@
 
 Returns the vector projection of vector a onto vector b
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

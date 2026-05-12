@@ -7,6 +7,7 @@ Example:
 angles = self GetTargetScreenAngles( targetpos )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

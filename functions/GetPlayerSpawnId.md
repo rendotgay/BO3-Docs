@@ -7,6 +7,7 @@ Example:
 spawnId = GetPlayerSpawnId( player )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

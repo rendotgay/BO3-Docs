@@ -7,6 +7,7 @@ Example:
 ammo = self GetWeaponAmmoClip( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 waypoint SetTargetEnt( level.axis.bombcarrier )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

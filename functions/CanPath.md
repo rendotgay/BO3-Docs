@@ -7,6 +7,7 @@ Example:
 if ( self CanPath( self.origin, targetpos ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

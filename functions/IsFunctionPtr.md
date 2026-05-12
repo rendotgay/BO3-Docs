@@ -7,6 +7,7 @@ Example:
 if ( IsFunctionPtr( myFuncPtr ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

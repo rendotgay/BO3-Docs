@@ -7,6 +7,7 @@ Example:
 my_trigger AllowTacticalInsertion( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

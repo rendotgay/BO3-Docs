@@ -7,6 +7,7 @@ Example:
 trigPlayer SetStepTriggerSound(self.script_label + suffix)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 plane setCompassIcon(iconName)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

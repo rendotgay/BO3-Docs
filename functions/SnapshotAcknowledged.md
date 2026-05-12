@@ -7,6 +7,7 @@ Example:
 acked = SnapshotAcknowledged( snapindices )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

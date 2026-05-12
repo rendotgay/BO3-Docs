@@ -7,6 +7,7 @@ Example:
 frac = Tan( degrees )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 showcaseWeapon = GetEquippedShowcaseWeaponForHero( localClientNum, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

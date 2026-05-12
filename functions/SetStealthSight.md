@@ -7,6 +7,7 @@ Example:
 SetStealthSight( "high_alert", 2, 1, 10, 200, 1000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

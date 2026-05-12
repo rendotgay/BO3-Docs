@@ -7,6 +7,7 @@ Example:
 ClearSpawnPointsBaseWeight( team_mask )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

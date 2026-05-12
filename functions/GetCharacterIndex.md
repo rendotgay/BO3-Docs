@@ -7,3 +7,4 @@ Example:
 index = self GetCharacterIndex()
 ```
 
+

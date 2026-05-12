@@ -7,6 +7,7 @@ Example:
 level.suicideguy SetFlashbangImmunity( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

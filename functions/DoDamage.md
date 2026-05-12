@@ -7,6 +7,7 @@ Example:
 player DoDamage(25, gasEffectArea.origin, player.lastPoisonedBy, grenade_obj, 0, "MOD_EXPLOSIVE", 0, GetWeapon("tabun_gas_mp"), -1, false)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

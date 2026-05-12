@@ -2,10 +2,7 @@
 
 Set the player name string for a HUD element
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

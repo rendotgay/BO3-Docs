@@ -7,6 +7,7 @@ Example:
 holding = self GetVRControllerGripButton( 0 ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

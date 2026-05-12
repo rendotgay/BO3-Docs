@@ -7,6 +7,7 @@ Example:
 player AddSensorGrenadeArea( sensor.origin, sensor.handle )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

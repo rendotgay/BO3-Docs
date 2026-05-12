@@ -7,6 +7,7 @@ Example:
 FreeUIModel( gameScoreModel )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

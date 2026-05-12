@@ -7,6 +7,7 @@ Example:
 self PickupWeaponEvent( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

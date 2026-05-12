@@ -2,10 +2,7 @@
 
 Make a localized string of the given string
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

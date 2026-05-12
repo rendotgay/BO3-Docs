@@ -2,10 +2,7 @@
 
 Remove a value from an array (may affect multiple indexes)
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

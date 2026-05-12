@@ -7,6 +7,7 @@ Example:
 self SetEntityTarget( vehicle_entity, 0.7, "tag_head" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

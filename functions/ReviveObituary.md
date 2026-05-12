@@ -7,6 +7,7 @@ Example:
 Obituary( self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

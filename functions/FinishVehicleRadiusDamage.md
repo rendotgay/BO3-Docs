@@ -7,6 +7,7 @@ Example:
 self FinishVehicleRadiusDamage( eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, fRadius, fConeRadius, fConeDir, psOffsetTime )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

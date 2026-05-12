@@ -7,6 +7,7 @@ Example:
 SetGroupSnapshot( level._sndActiveSnapshot )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

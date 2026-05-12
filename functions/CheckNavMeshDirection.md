@@ -7,6 +7,7 @@ Example:
 pos = CheckNavMeshDirection( (10,20,30), ( 1, 1, 0 ), 25 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

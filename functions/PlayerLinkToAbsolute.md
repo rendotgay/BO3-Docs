@@ -7,6 +7,7 @@ Example:
 player PlayerLinkToAbsolute( vehicle, "tag_player" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 if (0 == (copter HeliTurretSightTrace(heli_turret_point, player, lastHit))
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

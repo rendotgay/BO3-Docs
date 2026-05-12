@@ -7,6 +7,7 @@ Example:
 Map_Restart( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

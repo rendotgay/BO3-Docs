@@ -7,6 +7,7 @@ Example:
 lvt usevehicle( player, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

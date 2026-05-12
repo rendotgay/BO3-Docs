@@ -7,3 +7,4 @@ Example:
 pathMode = randAlly GetPathMode()
 ```
 
+

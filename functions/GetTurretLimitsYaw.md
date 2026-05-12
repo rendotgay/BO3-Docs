@@ -7,6 +7,7 @@ Example:
 limit = veh GetTurretLimits( 1 ); limitMin = -limit[0]; limitMax = limit[1]
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

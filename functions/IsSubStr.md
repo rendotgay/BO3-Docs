@@ -7,3 +7,4 @@ Example:
 has_str = IsSubStr( "my_string", "str" )
 ```
 
+

@@ -7,6 +7,7 @@ Example:
 throwvel = self CheckGrenadeThrow( armOffset, "min energy", 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

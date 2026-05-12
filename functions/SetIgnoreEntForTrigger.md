@@ -7,6 +7,7 @@ Example:
 self SetIgnoreEntForTrigger( camera_spike_ent )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

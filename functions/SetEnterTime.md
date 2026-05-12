@@ -7,6 +7,7 @@ Example:
 self setEnterTime( getTime() )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

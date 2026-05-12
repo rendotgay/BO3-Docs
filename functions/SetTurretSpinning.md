@@ -7,6 +7,7 @@ Example:
 roof_turret SetTurretSpinning( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

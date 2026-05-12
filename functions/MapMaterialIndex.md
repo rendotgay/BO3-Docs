@@ -7,6 +7,7 @@ Example:
 index = MapMaterial(1, "mymaterial")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

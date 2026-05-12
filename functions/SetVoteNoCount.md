@@ -2,10 +2,7 @@
 
 Sets the number of No votes
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

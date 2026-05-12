@@ -7,6 +7,7 @@ Example:
 cam_origin = GetVRCamPosByLocalClientNum( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

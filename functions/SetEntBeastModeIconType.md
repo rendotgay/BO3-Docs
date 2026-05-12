@@ -7,6 +7,7 @@ Example:
 object SetBeastModeIconMaterial( 2, object.origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

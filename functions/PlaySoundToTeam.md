@@ -7,6 +7,7 @@ Example:
 self PlaySoundToTeam( "frag_out", "axis", self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

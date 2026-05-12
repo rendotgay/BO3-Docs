@@ -7,6 +7,7 @@ Example:
 self PlayHitMarker( "evt_squad_activate", 3, "flakjacket" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

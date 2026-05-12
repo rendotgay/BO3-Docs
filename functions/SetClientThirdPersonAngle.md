@@ -7,6 +7,7 @@ Example:
 self SetClientThirdPersonAngle( 354 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

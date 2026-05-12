@@ -7,6 +7,7 @@ Example:
 point = self AddToInterestPool( 500, 10, 5, ai.origin, ai )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

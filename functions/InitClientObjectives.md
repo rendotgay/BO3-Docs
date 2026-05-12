@@ -7,6 +7,7 @@ Example:
 InitObjectives( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

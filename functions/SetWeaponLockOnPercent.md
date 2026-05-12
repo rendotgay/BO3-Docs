@@ -7,6 +7,7 @@ Example:
 self SetWeaponLockOnPercent( weapon, 0.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

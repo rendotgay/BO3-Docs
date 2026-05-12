@@ -2,10 +2,7 @@
 
 Returns the approximate/semi-accurate path distance between two points or undefined if no path can be found.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

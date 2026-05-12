@@ -7,6 +7,7 @@ Example:
 self IsWeaponOverheating()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

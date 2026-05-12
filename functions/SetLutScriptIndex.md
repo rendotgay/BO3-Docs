@@ -7,6 +7,7 @@ Example:
 SetLutScriptIndex( lcn, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

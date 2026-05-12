@@ -7,6 +7,7 @@ Example:
 self SetMaxAccelerationScale( 2.6 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

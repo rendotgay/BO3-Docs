@@ -7,6 +7,7 @@ Example:
 player AllowSprint(false)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

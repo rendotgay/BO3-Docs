@@ -7,6 +7,7 @@ Example:
 dir = self GetBestInfluencePos( index, low, high)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

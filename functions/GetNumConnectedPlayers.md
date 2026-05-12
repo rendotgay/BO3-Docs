@@ -7,6 +7,7 @@ Example:
 num_players_and_bots = GetNumConnectedPlayers( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

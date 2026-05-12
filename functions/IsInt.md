@@ -7,6 +7,7 @@ Example:
 if ( IsInt( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

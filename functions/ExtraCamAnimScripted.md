@@ -7,6 +7,7 @@ Example:
 ExtraCamAnimScripted( player, 0, "proto_melee_cam", gettime(), origin, angles )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

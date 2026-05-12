@@ -2,10 +2,7 @@
 
 insert a value into an array at a given index
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

@@ -7,6 +7,7 @@ Example:
 hitp = PlayerGrappleTrace(player.origin, player.origin + (0,0,-500))
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

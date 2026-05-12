@@ -7,6 +7,7 @@ Example:
 if( self CanSee( player ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

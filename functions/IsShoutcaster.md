@@ -7,6 +7,7 @@ Example:
 if ( IsSpectating( localClientNum, false ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

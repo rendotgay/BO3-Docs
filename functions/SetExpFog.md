@@ -7,6 +7,7 @@ Example:
 SetExpFog(.0001144, 131/255, 116/255, 71/255, 0)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

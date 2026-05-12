@@ -7,6 +7,7 @@ Example:
 ArtilleryIconLocation( self.origin, 1, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

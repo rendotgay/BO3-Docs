@@ -7,6 +7,7 @@ Example:
 player WeaponLockTargetTooClose( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

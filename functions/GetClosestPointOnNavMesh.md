@@ -7,6 +7,7 @@ Example:
 posOnNavMesh = GetClosestPointOnNavMesh( (10,20,30), 25, 15 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

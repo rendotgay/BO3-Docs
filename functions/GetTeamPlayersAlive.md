@@ -2,10 +2,7 @@
 
 Returns the number of players still alive on a given team
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

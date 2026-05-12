@@ -7,6 +7,7 @@ Example:
 player WeaponLockFinalize( enemyGuy )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

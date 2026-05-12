@@ -7,3 +7,4 @@ Example:
 rate = self GetEntityAnimRate()
 ```
 
+

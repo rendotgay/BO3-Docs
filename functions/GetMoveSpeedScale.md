@@ -7,3 +7,4 @@ Example:
 speed_modifier = self GetMoveSpeedScale()
 ```
 
+

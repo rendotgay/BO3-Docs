@@ -7,6 +7,7 @@ Example:
 heroBodyModelNames = GetHeroBodyModels( heroIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

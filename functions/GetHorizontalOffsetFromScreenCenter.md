@@ -7,6 +7,7 @@ Example:
 ent GetDistanceFromScreenCenter( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

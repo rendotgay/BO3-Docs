@@ -7,6 +7,7 @@ Example:
 objective_icon( crateObjID, "compass_supply_drop_black" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

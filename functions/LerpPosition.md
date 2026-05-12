@@ -7,6 +7,7 @@ Example:
 self LerpPosition( entry['origin'], entry['angles'] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

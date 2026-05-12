@@ -7,6 +7,7 @@ Example:
 roof_turret SetPlayerSpread( 0.2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

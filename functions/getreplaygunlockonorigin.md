@@ -7,6 +7,7 @@ Example:
 player GetLockOnOrigin( entity )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

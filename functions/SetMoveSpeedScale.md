@@ -7,6 +7,7 @@ Example:
 self SetMoveSpeedScale( HOLDING_CRATE_MOVEMENT_SPEED )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,3 +7,4 @@ Example:
 bits = GetBitsForAngle( angle, 3 )
 ```
 
+

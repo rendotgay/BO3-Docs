@@ -7,6 +7,7 @@ Example:
 origin = roof_turret GetTargetOrigin( ); origin = tank GetTargetOrigin( )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

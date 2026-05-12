@@ -7,6 +7,7 @@ Example:
 EndCamAnimScripted( player )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

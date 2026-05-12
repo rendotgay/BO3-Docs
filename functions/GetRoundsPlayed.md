@@ -7,6 +7,7 @@ Example:
 GetRoundsPlayed( game["roundsplayed"] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

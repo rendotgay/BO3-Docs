@@ -7,6 +7,7 @@ Example:
 GetUIModelForController( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

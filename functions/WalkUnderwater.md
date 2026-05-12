@@ -7,6 +7,7 @@ Example:
 depth = get_players()[0] WalkUnderwater( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

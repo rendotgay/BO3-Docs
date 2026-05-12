@@ -2,10 +2,7 @@
 
 Create a grenade explosion effect at the position
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

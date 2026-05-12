@@ -7,6 +7,7 @@ Example:
 turretBarrelAngles = tank GetSeatFiringAngles( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

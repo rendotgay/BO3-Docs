@@ -7,6 +7,7 @@ Example:
 fire_sound_ent playloopsound ("mpl_player_burn_loop")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

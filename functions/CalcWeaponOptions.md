@@ -7,6 +7,7 @@ Example:
 primaryWeaponOptions = self CalcWeaponOptions( class_num, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

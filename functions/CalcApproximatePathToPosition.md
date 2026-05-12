@@ -7,6 +7,7 @@ Example:
 self CalcApproximatePathToPosition( position )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

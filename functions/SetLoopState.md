@@ -7,6 +7,7 @@ Example:
 car SetLoopState( "peugeot_idle_low", 0.5, 1.0, 0.5, 0.2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

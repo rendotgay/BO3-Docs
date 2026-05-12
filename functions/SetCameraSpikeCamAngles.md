@@ -7,6 +7,7 @@ Example:
 SetCameraSpikeCamAngles( localClientNum, angles )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

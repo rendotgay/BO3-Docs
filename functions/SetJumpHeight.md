@@ -2,7 +2,11 @@
 
 Set the global jump height of all players.  Minimum value of 0, maximum value of 1023.
 
-**Returns:** `None`
+Example:
+```c++
+SetJumpHeight( 100 )
+```
+
 
 ### Parameters
 Parameter | Summary

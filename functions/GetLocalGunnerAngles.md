@@ -7,6 +7,7 @@ Example:
 localAngles = self GetLocalGunnerAngles( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

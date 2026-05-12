@@ -7,6 +7,7 @@ Example:
 clipCount = IsUnderwater( localclientnum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

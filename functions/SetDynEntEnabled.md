@@ -7,6 +7,7 @@ Example:
 SetDynEntEnabled( brick, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

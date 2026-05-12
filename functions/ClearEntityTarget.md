@@ -7,3 +7,4 @@ Example:
 self ClearEntityTarget( vehicle_entity )
 ```
 
+

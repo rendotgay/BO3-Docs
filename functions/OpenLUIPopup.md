@@ -7,6 +7,7 @@ Example:
 OpenLUIPopup( localClientNum, "SomePopup")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

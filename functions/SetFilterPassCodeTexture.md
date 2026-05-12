@@ -7,6 +7,7 @@ Example:
 SetFilterPassMaterial( self.localClientNum, 1, 12, 0, "myBundle")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

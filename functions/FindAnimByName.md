@@ -7,6 +7,7 @@ Example:
 animnamehash = FindAnimByName("generic_human", "chicken_dance")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

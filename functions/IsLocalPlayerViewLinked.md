@@ -7,6 +7,7 @@ Example:
 if ( script_mover IsLocalPlayerWeaponViewOnlyLinked( localClientIndex ) ) { ... }
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 handle = SetFXTeam(localClientNum, fxHandle, owner)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

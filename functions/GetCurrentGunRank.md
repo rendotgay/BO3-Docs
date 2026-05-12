@@ -7,6 +7,7 @@ Example:
 rank - GetCurrentGunRank(0)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

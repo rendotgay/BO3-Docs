@@ -7,6 +7,7 @@ Example:
 PrecacheLeaderboards( "LB_KILLS LB_WINS LB_TOTALXP LB_ACCURACY" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

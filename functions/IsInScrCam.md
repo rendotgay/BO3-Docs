@@ -7,6 +7,7 @@ Example:
 inScrCam = IsInScrCam( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

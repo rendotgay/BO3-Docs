@@ -7,6 +7,7 @@ Example:
 player setOffhandPrimaryClass( "claymore_mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

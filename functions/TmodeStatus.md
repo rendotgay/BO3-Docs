@@ -7,6 +7,7 @@ Example:
 status = TmodeStatus( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 VisionSetLastStandLerp( localClientNum, curr_info.visionset_to, curr_info.visionset_from, state.curr_lerp )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

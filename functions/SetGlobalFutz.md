@@ -7,6 +7,7 @@ Example:
 SetGlobalFutz( futz_name )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

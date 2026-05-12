@@ -7,6 +7,7 @@ Example:
 entity SetScale(2.0)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

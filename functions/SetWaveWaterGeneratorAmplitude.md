@@ -7,6 +7,7 @@ Example:
 SetWaveWaterGeneratorAmplitude( "exampleGenerator", 1.1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

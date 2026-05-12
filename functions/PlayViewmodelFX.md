@@ -2,10 +2,7 @@
 
 
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

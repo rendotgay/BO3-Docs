@@ -7,6 +7,7 @@ Example:
 self SetClientCGObjectiveText( util::getObjectiveScoreText( self.pers["team"] ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

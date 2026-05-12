@@ -7,6 +7,7 @@ Example:
 KillRadiantExploder( 0, "lights_on_exploder" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

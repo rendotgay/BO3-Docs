@@ -7,6 +7,7 @@ Example:
 player AllowCrouch( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

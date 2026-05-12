@@ -7,6 +7,7 @@ Example:
 isSwimming = IsSwimming( localclientnum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

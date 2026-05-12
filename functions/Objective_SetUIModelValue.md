@@ -7,6 +7,7 @@ Example:
 Objective_SetUIModelValue( 0, "killedCount", 4 ); or Objective_SetUIModelValue( 0, "killedCount", "Four" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

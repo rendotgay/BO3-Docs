@@ -7,6 +7,7 @@ Example:
 Byte4PackRgba( 1.0, 1.0, 1.0, 1.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

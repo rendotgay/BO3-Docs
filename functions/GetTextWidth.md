@@ -7,3 +7,4 @@ Example:
 width = elem GetTextWidth()
 ```
 
+

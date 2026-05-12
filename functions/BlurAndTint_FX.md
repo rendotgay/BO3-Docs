@@ -7,6 +7,7 @@ Example:
 entity BlurAndTint_FX(0, true, 1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

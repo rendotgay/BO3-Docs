@@ -7,3 +7,4 @@ Example:
 boostTime = player GetVehicleBoostTime()
 ```
 
+

@@ -7,6 +7,7 @@ Example:
 PlayClientNapalm( startPos, plane.yaw, "vietcong", "axis", plane.owner, "left", height )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

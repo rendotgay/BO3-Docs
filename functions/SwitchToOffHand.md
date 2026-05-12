@@ -7,6 +7,7 @@ Example:
 self SwitchToOffhand( primaryOffhand )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

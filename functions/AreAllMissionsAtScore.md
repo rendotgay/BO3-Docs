@@ -7,6 +7,7 @@ Example:
 is_score_achieved = self AreAllMissionsAtScore( 10000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

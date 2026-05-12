@@ -7,6 +7,7 @@ Example:
 player WeaponLockNoClearance( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

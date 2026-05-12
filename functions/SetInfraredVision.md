@@ -7,6 +7,7 @@ Example:
 player SetInfraredVision( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

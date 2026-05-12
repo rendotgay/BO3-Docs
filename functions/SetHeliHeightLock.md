@@ -7,6 +7,7 @@ Example:
 vehicle SetHeliHeightLock( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

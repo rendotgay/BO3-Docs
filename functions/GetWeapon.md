@@ -7,6 +7,7 @@ Example:
 GetWeapon( "ar_standard", "acog" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

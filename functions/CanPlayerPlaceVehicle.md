@@ -7,6 +7,7 @@ Example:
 placement = level.player CanPlayerPlaceVehicle( 25, 45, 50, 40, 80, 0.7 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

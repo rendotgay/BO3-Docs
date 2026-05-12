@@ -7,6 +7,7 @@ Example:
 center = GetBrushModelCenter( self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 Objective_State( obj_id, "active" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

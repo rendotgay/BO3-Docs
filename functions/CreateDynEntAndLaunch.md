@@ -7,6 +7,7 @@ Example:
 CreateDynEntAndLaunch( spawn_models[i], origin, angles, origin, velocity, anim._effect["animscript_gibtrail_fx"] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

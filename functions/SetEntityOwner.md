@@ -7,6 +7,7 @@ Example:
 self SetEntityOwner( vehicle_entity )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

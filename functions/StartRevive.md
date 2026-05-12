@@ -7,6 +7,7 @@ Example:
 playerInLastStand StartRevive( rescuer )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

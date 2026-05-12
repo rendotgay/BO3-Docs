@@ -7,6 +7,7 @@ Example:
 BeamKill(0, beamHandle)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

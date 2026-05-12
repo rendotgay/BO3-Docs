@@ -7,6 +7,7 @@ Example:
 self setBlockWeaponPickup( killstreakWeapon, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

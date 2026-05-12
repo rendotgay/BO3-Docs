@@ -7,6 +7,7 @@ Example:
 other.progressbar ScaleOverTime( level.planttime, level.barsize, 8 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

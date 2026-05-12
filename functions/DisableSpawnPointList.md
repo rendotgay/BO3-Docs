@@ -7,6 +7,7 @@ Example:
 DisableSpawnPointList()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

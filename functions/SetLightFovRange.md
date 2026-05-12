@@ -7,6 +7,7 @@ Example:
 self SetLightFovRange( 200, 50 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 ent = ArrayGetClosest( player.origin, a_enemies )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

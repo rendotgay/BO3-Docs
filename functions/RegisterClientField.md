@@ -7,6 +7,7 @@ Example:
 RegisterClientField("world", "my_field", 2, "int"); // registers a world int field with 2 bits of resolution, that can hold the values 0,1,2,3.
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 VideoPrime( "MyAwesomeMovie" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

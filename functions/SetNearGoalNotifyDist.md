@@ -7,6 +7,7 @@ Example:
 tank setNearGoalNotifyDist( 50 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

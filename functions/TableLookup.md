@@ -7,6 +7,7 @@ Example:
 TableLookup( "mp/statstable.csv", 0, "INDEX_KILLS", 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

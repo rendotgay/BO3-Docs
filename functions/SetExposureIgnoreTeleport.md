@@ -7,6 +7,7 @@ Example:
 SetExposureIgnoreTeleport( localClientNum, newVal )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

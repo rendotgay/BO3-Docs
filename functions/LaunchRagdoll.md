@@ -7,6 +7,7 @@ Example:
 self LaunchRagdoll( (0,0,100) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

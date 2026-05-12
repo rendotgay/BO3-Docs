@@ -7,6 +7,7 @@ Example:
 if ( IsCorpse( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

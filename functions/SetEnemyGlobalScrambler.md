@@ -7,6 +7,7 @@ Example:
 player SetEnemyGlobalScrambler( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 level.player kill()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

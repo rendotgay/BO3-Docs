@@ -7,6 +7,7 @@ Example:
 self SetAnimForceNew( %precombatrun1, 1, 0.1, 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 HideStaticModel( model )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

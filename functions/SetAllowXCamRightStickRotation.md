@@ -7,6 +7,7 @@ Example:
 SetAllowXCamRightStickRotation( 0, false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

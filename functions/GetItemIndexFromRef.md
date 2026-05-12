@@ -7,6 +7,7 @@ Example:
 itemIndex = GetItemIndexFromRef( &lt;itemRef&gt; )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

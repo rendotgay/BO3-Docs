@@ -7,6 +7,7 @@ Example:
 self BeginLocationMortarSelection( LOCATION_SELECTOR, 1500 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

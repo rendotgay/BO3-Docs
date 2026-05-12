@@ -7,6 +7,7 @@ Example:
 get_players()[0] CameraSetPosition( ( 1100, -23, 644 ) )get_players()[0] CameraSetPosition( my_entity )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

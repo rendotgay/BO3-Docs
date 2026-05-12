@@ -7,6 +7,7 @@ Example:
 if ( BoundsWouldTelefrag( vehicle GetAbsMins(), vehicle GetAbsmaxs() ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

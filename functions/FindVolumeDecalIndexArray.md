@@ -7,6 +7,7 @@ Example:
 vdIndexArray = FindVolumeDecalIndexArray( "foo" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

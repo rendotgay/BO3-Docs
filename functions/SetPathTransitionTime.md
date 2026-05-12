@@ -7,6 +7,7 @@ Example:
 boat SetPathTransitionTime( 1.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

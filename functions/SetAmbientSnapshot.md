@@ -7,6 +7,7 @@ Example:
 SetAmbientSnapshot( level._sndActiveSnapshot )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

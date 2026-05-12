@@ -7,6 +7,7 @@ Example:
 twig = getdynent("twig")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

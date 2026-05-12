@@ -7,6 +7,7 @@ Example:
 heroHelmetModelNames = GetHeroHelmetModelIndices( heroIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

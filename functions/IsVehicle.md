@@ -7,6 +7,7 @@ Example:
 if ( IsVehicle( gun_owner ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

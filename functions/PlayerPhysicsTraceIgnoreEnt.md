@@ -7,6 +7,7 @@ Example:
 hitp = PlayerPhysicsTraceIgnoreEnt(player.origin + (0,0,72), player.origin + (0,0,-500))
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

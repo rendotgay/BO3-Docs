@@ -7,6 +7,7 @@ Example:
 reacquirePos = entity ReacquireStep( step_size )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

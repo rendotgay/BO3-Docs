@@ -7,6 +7,7 @@ Example:
 power = GetHealthOverlayTime( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

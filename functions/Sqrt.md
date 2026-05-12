@@ -7,6 +7,7 @@ Example:
 c = sqrt( (a*a) + (b*b) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

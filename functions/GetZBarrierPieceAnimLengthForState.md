@@ -7,6 +7,7 @@ Example:
 wait(ent GetZBarrierPieceAnimLengthForState(0, "opening", 0.9))
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

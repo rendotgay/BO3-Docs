@@ -7,6 +7,7 @@ Example:
 self SetPlayerCollision( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

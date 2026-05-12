@@ -7,3 +7,4 @@ Example:
 vehicleSlotsFree = GetMaxVehicles() - level.vehicles_list.size
 ```
 
+

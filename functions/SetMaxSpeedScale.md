@@ -7,6 +7,7 @@ Example:
 self SetMaxSpeedScale( 2.6 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

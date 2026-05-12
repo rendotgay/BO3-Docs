@@ -7,6 +7,7 @@ Example:
 if ( !self MayMoveToPoint( endPoint ) )...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

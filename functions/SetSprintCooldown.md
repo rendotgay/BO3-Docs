@@ -7,6 +7,7 @@ Example:
 self SetSprintCooldown( 4 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

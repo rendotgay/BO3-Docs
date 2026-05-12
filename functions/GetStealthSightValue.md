@@ -7,6 +7,7 @@ Example:
 aiGuy GetStealthSightValue( forOtherGuy )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

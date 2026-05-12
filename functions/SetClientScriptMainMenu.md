@@ -7,6 +7,7 @@ Example:
 self SetClientScriptMainMenu( game["menu_class"] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 gunSmithPrimaryIndex = self GetLoadoutGunSmithVariantIndex( 0, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

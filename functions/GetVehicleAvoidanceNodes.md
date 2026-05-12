@@ -7,6 +7,7 @@ Example:
 nodes = plane GetVehicleAvoidanceNodes( radius )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

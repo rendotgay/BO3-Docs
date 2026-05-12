@@ -7,6 +7,7 @@ Example:
 player WeaponHasAttachmentAndUnlocked( weapon, "extbarrel", "damage, "fmj" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 numClients = GetTopScorerCount( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

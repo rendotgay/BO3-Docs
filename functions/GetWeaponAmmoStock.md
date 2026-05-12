@@ -7,6 +7,7 @@ Example:
 ammo = self GetWeaponAmmoStock( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

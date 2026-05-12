@@ -7,6 +7,7 @@ Example:
 frac = Cos( degrees )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

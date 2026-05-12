@@ -7,6 +7,7 @@ Example:
 if( IsDynEntValid( dyn_id) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

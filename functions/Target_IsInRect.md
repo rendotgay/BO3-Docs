@@ -7,6 +7,7 @@ Example:
 player Target_IsInRect( enemy_chopper, player, 65, 100, 100 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

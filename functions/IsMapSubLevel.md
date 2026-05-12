@@ -7,6 +7,7 @@ Example:
 level.isSubLevel = IsMapSubLevel( "cp_mi_cairo_ramses2" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

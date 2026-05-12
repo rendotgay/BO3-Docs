@@ -7,6 +7,7 @@ Example:
 level.player PlayerLinkTo( vehicle, "tag_player", 0.5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

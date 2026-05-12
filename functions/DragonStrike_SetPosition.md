@@ -7,6 +7,7 @@ Example:
 entity DragonStrike_SetPosition( vec3 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

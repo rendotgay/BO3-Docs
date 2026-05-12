@@ -7,3 +7,4 @@ Example:
 isFriend = AimingAtFriendly()
 ```
 
+

@@ -7,6 +7,7 @@ Example:
 self SetCurrentSpectatorClient( player )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

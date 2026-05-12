@@ -7,6 +7,7 @@ Example:
 entity SetUnderwaterVisionSet("visionName")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

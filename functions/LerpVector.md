@@ -7,6 +7,7 @@ Example:
 val = LerpVector( (0,0,0), (5,5,5), 0.5);	// would return (2.5, 2.5, 2.5)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

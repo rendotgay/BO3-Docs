@@ -7,6 +7,7 @@ Example:
 FXBlockSight( fxent, 64 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

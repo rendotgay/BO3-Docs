@@ -7,6 +7,7 @@ Example:
 player WeaponLockStart( enemyGuy )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

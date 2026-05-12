@@ -7,6 +7,7 @@ Example:
 self DetachShieldModel( "weapon_riot_shield", "tag_weapon_left" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

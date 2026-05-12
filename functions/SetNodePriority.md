@@ -2,10 +2,7 @@
 
 Enable or disable the priority for this node.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

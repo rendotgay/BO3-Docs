@@ -7,6 +7,7 @@ Example:
 old_state = self ShouldDoInitialWeaponRaise( "ak47", false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

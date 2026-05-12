@@ -7,6 +7,7 @@ Example:
 self SetWeaponAmmoFuel( weapon, weapondata["fuel"] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

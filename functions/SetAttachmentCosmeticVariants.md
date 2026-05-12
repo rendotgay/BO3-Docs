@@ -7,6 +7,7 @@ Example:
 SetAttachmentCosmeticVariants( "mp7_mp", "acog", 2, "grip", 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

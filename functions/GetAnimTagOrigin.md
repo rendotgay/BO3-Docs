@@ -7,6 +7,7 @@ Example:
 tagPosition = GetAnimTagOrigin( arrivalAnim, 0, "tag_sync" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

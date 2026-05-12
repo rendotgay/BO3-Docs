@@ -7,6 +7,7 @@ Example:
 if ( IsCameraSpikeToggled( 0 ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

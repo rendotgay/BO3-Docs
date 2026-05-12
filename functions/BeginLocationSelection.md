@@ -7,6 +7,7 @@ Example:
 self BeginLocationSelection( LOCATION_SELECTOR )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

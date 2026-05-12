@@ -7,6 +7,7 @@ Example:
 GadgetTargetResult(true)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

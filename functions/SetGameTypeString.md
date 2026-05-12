@@ -2,10 +2,7 @@
 
 Set the game type string for the game
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

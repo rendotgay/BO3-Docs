@@ -7,6 +7,7 @@ Example:
 player GiveDedicatedShadow( 8 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

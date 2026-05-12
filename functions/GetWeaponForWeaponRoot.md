@@ -7,6 +7,7 @@ Example:
 weapon_with_attachments = player GetWeaponForWeaponRoot( &lt;weapon&gt; )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

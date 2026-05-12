@@ -7,6 +7,7 @@ Example:
 player AllowMeleePowerLeft(false)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

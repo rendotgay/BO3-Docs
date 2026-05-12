@@ -7,6 +7,7 @@ Example:
 passed = BulletTracePassed( grenade.origin, self.origin + (0,0,TROPHY_TRACE_Z), false, self )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 cam_origin = GetCamPosByLocalClientNum( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 CloseLUIMenu( localClientNum, menuIndex )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

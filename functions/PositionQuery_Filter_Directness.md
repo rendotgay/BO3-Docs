@@ -7,6 +7,7 @@ Example:
 PositionQuery_Filter_Directness( queryResult, self.origin, self.enemy.origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 sprintf("{0} is the first string","first")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 SetWeaponCosts( weapon, weapon.cost, weapon.ammoCost, weapon.secretshopperCost )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 vehicle SetSeatOccupied( 2, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

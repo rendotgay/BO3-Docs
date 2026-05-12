@@ -7,6 +7,7 @@ Example:
 self DisableWeapons()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

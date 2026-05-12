@@ -7,6 +7,7 @@ Example:
 gesture = player GetPlayerSelectedGesture( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

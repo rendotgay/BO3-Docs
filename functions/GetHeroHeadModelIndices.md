@@ -7,3 +7,4 @@ Example:
 heroHelmetModelNames = GetHeroHelmetModels( heroIndex, "mp" )
 ```
 
+

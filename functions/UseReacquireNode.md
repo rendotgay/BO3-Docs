@@ -2,10 +2,7 @@
 
 Use the given reacquire node.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

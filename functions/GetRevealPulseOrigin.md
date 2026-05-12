@@ -7,6 +7,7 @@ Example:
 power = GetRevealPulseOrigin( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,10 +2,7 @@
 
 Returns the cross product of two vectors
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

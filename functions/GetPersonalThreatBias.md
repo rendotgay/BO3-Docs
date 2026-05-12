@@ -7,6 +7,7 @@ Example:
 value = self GetPersonalThreatBias( self.enemy )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

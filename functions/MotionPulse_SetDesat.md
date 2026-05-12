@@ -7,6 +7,7 @@ Example:
 entity motionpulse_setdesat( level )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

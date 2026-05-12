@@ -2,10 +2,7 @@
 
 Sets the objective to be invisible to the specified player.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

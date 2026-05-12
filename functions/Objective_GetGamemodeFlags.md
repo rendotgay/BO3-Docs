@@ -7,6 +7,7 @@ Example:
 flags = Objective_GetGamemodeFlags( myObjNumber )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 open_pieces = ent GetZBarrierPieceIndicesInState("open")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

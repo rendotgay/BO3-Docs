@@ -2,10 +2,7 @@
 
 Sets the trigger hint string for one specific player
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

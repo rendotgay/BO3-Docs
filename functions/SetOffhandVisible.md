@@ -7,6 +7,7 @@ Example:
 self SetOffhandVisible( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

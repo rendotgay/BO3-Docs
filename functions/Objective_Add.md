@@ -7,6 +7,7 @@ Example:
 Objective_Add( objective_number, "active", closest.bomb.origin, objective_text, self.objective )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

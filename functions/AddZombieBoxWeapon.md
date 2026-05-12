@@ -7,6 +7,7 @@ Example:
 AddZombieBoxWeapon( weapon, weapon.worldModel, weapon.isDualWield )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

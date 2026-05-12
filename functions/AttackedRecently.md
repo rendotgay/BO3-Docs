@@ -7,6 +7,7 @@ Example:
 self AttackedRecently(self.enemy)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

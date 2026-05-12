@@ -7,6 +7,7 @@ Example:
 wall_weapon_model UseWeaponHideTags()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,10 +2,7 @@
 
 Set the map name string
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

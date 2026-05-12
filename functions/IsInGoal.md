@@ -7,6 +7,7 @@ Example:
 if ( ai IsInGoal( point ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

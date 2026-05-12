@@ -7,6 +7,7 @@ Example:
 boolLoop = IsAnimLooping( climbAnim )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 GetGametypeSetting( "who is going to win" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

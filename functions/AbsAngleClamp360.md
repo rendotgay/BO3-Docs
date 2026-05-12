@@ -7,6 +7,7 @@ Example:
 new_angle = AbsAngleClamp360( boatAngles[2] )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

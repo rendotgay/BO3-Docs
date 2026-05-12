@@ -7,3 +7,4 @@ Example:
 spawnpoints[i] PlaceSpawnPoint()
 ```
 
+

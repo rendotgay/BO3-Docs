@@ -7,6 +7,7 @@ Example:
 randAlly DamageMode("next_shot_kills")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

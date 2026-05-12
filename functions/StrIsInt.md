@@ -7,6 +7,7 @@ Example:
 StrIsInt( "1" ); // true
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

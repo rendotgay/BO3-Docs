@@ -7,6 +7,7 @@ Example:
 if ( player GetWeaponPosFrac(0) &gt; 0.5 ) )...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

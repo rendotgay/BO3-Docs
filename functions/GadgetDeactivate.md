@@ -7,6 +7,7 @@ Example:
 self GadgetDeactivate( slot, weapon, GADGET_OFF_PENALTY_SHUT_OFF )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

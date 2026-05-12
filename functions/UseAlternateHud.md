@@ -2,10 +2,7 @@
 
 Use the alternate HUD in lui. Zombies only
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

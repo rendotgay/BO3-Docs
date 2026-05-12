@@ -7,6 +7,7 @@ Example:
 car StopAllLoopSounds( 0.5 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

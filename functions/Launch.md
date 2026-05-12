@@ -7,6 +7,7 @@ Example:
 self Launch( (x, y, z) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

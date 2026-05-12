@@ -7,6 +7,7 @@ Example:
 val = LerpFloat( 0, 10, 0.5);	// would return 5.0
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

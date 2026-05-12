@@ -7,6 +7,7 @@ Example:
 self SetVehMaxSpeed( 45 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

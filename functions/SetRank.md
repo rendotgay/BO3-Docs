@@ -7,6 +7,7 @@ Example:
 player SetRank( 1, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -2,8 +2,5 @@
 
 Returns true T7 Melee system is being used
 
-Example:
-```c++
 
-```
 

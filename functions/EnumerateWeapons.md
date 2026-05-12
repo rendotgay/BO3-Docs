@@ -7,6 +7,7 @@ Example:
 a_weapons = EnumerateWeapons( "weapon" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 nodes = GetVehicleNodeArray(self.target, "targetname")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

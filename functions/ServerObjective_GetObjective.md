@@ -7,6 +7,7 @@ Example:
 objective_num = ServerObjective_GetObjective( localClientNum, "dom_a" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

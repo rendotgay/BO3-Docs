@@ -2,10 +2,7 @@
 
 Sets if the player has the tactical hud open
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

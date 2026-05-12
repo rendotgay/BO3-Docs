@@ -2,10 +2,7 @@
 
 Clears the objective of all players using status.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

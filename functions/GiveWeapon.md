@@ -7,6 +7,7 @@ Example:
 e_player GiveWeapon( w_spike_launcher )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

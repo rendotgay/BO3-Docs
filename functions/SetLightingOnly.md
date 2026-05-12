@@ -7,6 +7,7 @@ Example:
 self SetLightingOnly( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

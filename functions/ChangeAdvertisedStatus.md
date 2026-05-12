@@ -7,6 +7,7 @@ Example:
 changeAdvertisedStatus( onOff )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

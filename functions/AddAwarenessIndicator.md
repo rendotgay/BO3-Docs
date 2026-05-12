@@ -7,6 +7,7 @@ Example:
 AddAwarenessIndicator(ai.origin, "hit_material_green" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

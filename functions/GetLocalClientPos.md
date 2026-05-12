@@ -7,6 +7,7 @@ Example:
 origin = GetLocalClientPos( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

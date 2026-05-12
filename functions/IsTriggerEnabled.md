@@ -7,3 +7,4 @@ Example:
 if( trig isTriggerEnabled() )
 ```
 
+

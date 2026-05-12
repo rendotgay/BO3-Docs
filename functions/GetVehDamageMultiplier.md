@@ -7,6 +7,7 @@ Example:
 vehicle GetVehDamageMultiplier( damgType )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

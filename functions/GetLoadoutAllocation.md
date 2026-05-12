@@ -7,6 +7,7 @@ Example:
 allocationSpent = self GetLoadoutAllocation( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

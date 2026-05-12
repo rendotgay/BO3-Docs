@@ -7,6 +7,7 @@ Example:
 wall_weapon_model UseBuildKitWeaponModel( player, magicbox.weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

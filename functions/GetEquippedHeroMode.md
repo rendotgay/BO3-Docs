@@ -7,6 +7,7 @@ Example:
 heroIndex = GetEquippedHeroMode( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

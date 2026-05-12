@@ -7,6 +7,7 @@ Example:
 entity oed_nightvision_settexturelevel( level )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

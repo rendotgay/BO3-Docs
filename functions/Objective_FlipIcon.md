@@ -7,6 +7,7 @@ Example:
 Objective_FlipIcon( self.friendlyObjID )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

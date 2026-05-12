@@ -7,6 +7,7 @@ Example:
 self GiveStartAmmo( primary )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

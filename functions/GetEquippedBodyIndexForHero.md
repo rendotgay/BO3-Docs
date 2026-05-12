@@ -7,6 +7,7 @@ Example:
 bodyIndex = GetEquippedBodyIndexForHero( localClientNum, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

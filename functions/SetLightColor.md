@@ -7,6 +7,7 @@ Example:
 self SetLightColor( (0.5, 0.75, 1.0) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

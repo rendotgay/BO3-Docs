@@ -7,6 +7,7 @@ Example:
 self GadgetPowerReset( slot )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

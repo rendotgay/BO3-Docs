@@ -7,6 +7,7 @@ Example:
 e_player SetClientUIVisibilityFlag( "hud_visible", 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

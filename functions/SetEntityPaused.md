@@ -7,6 +7,7 @@ Example:
 ent SetEntityPaused( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

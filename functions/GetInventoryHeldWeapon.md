@@ -7,3 +7,4 @@ Example:
 inventoryWeapon = player GetInventoryHeldWeapon()
 ```
 
+

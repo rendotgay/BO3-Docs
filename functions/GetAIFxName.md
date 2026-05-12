@@ -7,6 +7,7 @@ Example:
 fxName = self GetAIFxName( localClientNum, surfaceTable )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

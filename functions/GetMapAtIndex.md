@@ -7,6 +7,7 @@ Example:
 GetMapAtIndex( "cp_mi_sing_blackstation" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

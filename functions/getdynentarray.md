@@ -7,6 +7,7 @@ Example:
 twigs = getdynentarray("twig")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 SetSpawnPointsBaseWeight( team_mask, point, 30, 100 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

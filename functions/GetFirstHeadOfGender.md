@@ -7,6 +7,7 @@ Example:
 headIndex = GetFirstHeadOfGender( "male", "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

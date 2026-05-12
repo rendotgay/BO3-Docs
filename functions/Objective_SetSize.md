@@ -7,6 +7,7 @@ Example:
 Objective_SetSize( myObjNumber, myTrigger )Objective_SetSize( myObjNumber, 20, 30 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

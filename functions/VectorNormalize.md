@@ -7,6 +7,7 @@ Example:
 difference = VectorNormalize(end - start)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

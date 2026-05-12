@@ -7,6 +7,7 @@ Example:
 self VisionSetLerpRatio ( currentDistance / maxDistance )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

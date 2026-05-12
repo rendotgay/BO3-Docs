@@ -7,6 +7,7 @@ Example:
 CreateThreatBiasGroup( "flanking_team" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

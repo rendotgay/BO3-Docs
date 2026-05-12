@@ -7,6 +7,7 @@ Example:
 attractor = Missile_CreateAttractorOrigin( (100, 350, 10), 10000, 6000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

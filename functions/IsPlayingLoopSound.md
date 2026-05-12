@@ -7,6 +7,7 @@ Example:
 car IsPlayingLoopSound()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

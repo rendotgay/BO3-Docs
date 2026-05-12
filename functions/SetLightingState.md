@@ -7,6 +7,7 @@ Example:
 SetLightingState( 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

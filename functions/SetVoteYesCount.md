@@ -2,10 +2,7 @@
 
 Sets the number of Yes votes
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

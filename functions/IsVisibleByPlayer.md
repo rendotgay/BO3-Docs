@@ -7,3 +7,4 @@ Example:
 if( IsVisibleByPlayer(ent) )
 ```
 
+

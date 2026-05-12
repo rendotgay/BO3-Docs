@@ -7,6 +7,7 @@ Example:
 aim_angles = ent GetAimAngles( shootPos, "tag_aim", (0, 30, 0), (15, 10, 0), (60, 60, 0), (5, 5, 0), 11 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

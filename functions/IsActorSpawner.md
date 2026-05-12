@@ -7,6 +7,7 @@ Example:
 if ( IsActorSpawner( ent ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

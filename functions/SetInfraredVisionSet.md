@@ -7,6 +7,7 @@ Example:
 entity SetInfraredVisionSet("visionName")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

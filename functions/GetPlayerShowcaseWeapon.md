@@ -7,3 +7,4 @@ Example:
 showcaseWeapon = player GetPlayerShowcaseWeapon()
 ```
 
+

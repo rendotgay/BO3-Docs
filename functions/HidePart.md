@@ -7,6 +7,7 @@ Example:
 self HidePart( "tag_weapon", "weapon_saw" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

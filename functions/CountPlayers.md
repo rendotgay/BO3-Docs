@@ -7,6 +7,7 @@ Example:
 count = CountPlayers()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

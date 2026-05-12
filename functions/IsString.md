@@ -7,6 +7,7 @@ Example:
 if ( isstring ( gun_owner )) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

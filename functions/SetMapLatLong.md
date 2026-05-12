@@ -7,6 +7,7 @@ Example:
 SetMapLatLong( 1000, 500, -118.448689, 34.021566 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

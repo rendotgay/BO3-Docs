@@ -7,6 +7,7 @@ Example:
 cameraEnt SetExtraCam( 1, 640, 480 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

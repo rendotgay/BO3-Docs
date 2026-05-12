@@ -2,10 +2,7 @@
 
 Switch to the server volumetric fog
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

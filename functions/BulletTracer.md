@@ -7,6 +7,7 @@ Example:
 BulletTracer(self.origin, target.origin)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

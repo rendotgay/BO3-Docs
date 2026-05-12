@@ -7,6 +7,7 @@ Example:
 SetTeamReviveIcon( "allies", "waypoint_revive_cdc_zm" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

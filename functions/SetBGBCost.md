@@ -7,6 +7,7 @@ Example:
 SetBGBCost( 115935 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

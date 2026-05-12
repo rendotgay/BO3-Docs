@@ -7,6 +7,7 @@ Example:
 if ( aiGuy GetIgnoreEnt( player ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

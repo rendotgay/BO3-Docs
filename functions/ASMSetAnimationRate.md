@@ -7,6 +7,7 @@ Example:
 self ASMSetAnimationRate( 0.3 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

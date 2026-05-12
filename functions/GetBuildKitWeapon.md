@@ -7,6 +7,7 @@ Example:
 weapon = self GetBuildKitWeapon( ar_standard )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

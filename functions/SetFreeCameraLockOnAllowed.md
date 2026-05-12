@@ -2,10 +2,7 @@
 
 Sets whether the ai is allowed to be locked onto in the demo free camera
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

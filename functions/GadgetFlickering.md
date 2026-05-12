@@ -7,6 +7,7 @@ Example:
 self GadgetFlickering( slot, true, 200 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

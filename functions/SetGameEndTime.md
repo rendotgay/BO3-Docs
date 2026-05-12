@@ -7,6 +7,7 @@ Example:
 setGameEndTime( getTime() + int(timeLeft) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 GetCyberComAbilityName(  flag, type )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

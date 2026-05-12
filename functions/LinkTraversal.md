@@ -7,6 +7,7 @@ Example:
 LinkTraversal( beginNode )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

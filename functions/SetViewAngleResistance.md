@@ -7,6 +7,7 @@ Example:
 level.player SetViewAngleResistance( 40, 40, 20, 0, 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

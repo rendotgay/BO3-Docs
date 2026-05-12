@@ -7,6 +7,7 @@ Example:
 player FreezeControls( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

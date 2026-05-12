@@ -7,6 +7,7 @@ Example:
 player AllowSlide( false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

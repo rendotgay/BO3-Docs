@@ -7,6 +7,7 @@ Example:
 player LinkToMissile( rocket, true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

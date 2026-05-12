@@ -7,6 +7,7 @@ Example:
 if ( GameModeIsMode( level.GAMEMODE_WAGER_MATCH ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

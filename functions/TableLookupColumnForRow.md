@@ -7,6 +7,7 @@ Example:
 TableLookupColumnForRow( "gamedata/tables/mp/exampleStringTable.csv", 101, 7 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

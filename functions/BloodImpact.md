@@ -7,6 +7,7 @@ Example:
 guy BloodImpact ( "none" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

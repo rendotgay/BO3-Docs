@@ -7,6 +7,7 @@ Example:
 tank SetVehGoalPos( (0, 0, 0), 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

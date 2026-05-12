@@ -7,6 +7,7 @@ Example:
 player AllWeaponAttachmentsUnlocked( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

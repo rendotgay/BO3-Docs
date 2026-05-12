@@ -7,6 +7,7 @@ Example:
 huey PathVariableOffset( (0, 50, 0), 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

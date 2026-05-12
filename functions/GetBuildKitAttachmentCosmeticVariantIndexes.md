@@ -7,6 +7,7 @@ Example:
 acvi = self GetBuildKitAttachmentCosmeticVariantIndexes( ar_standard )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

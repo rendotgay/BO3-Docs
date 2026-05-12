@@ -7,6 +7,7 @@ Example:
 quadtank SetAssassinationEnabled( true )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

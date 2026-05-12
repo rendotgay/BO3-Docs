@@ -7,6 +7,7 @@ Example:
 GetTeamSpyplane( "allies" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

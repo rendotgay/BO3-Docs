@@ -7,6 +7,7 @@ Example:
 target = self GetTargetLockEntity(&lt;localclientnum&gt;)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 gameTypeEnum = GetGameTypeEnumFromName( "tdm", false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

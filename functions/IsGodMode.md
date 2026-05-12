@@ -7,6 +7,7 @@ Example:
 if ( IsGodMode( player ) ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 SwitchMap_Load( "cp_sh_cairo", "coop", 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

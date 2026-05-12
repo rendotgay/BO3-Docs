@@ -7,6 +7,7 @@ Example:
 if( e_player HasWeapon( w_spike_launcher, true ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

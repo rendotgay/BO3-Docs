@@ -7,6 +7,7 @@ Example:
 Ban( 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

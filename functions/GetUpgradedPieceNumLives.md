@@ -7,6 +7,7 @@ Example:
 piece.numLives = ent GetUpgradedPieceNumLives(1)
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

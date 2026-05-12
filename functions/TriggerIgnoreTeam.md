@@ -7,3 +7,4 @@ Example:
 trig TriggerIgnoreTeam()
 ```
 
+

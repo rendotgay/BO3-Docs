@@ -7,6 +7,7 @@ Example:
 SetThreatBias( "axis", "flanking_team", 120 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 bodyStyleIndex = GetCharacterBodyStyleIndex( true, "Technomancer" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

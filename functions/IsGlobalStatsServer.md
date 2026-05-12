@@ -7,3 +7,4 @@ Example:
 level.ranked |= IsGlobalStatsServer()
 ```
 
+

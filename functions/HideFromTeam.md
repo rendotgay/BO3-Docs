@@ -7,6 +7,7 @@ Example:
 self HideFromTeam( friend_team )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

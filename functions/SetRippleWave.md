@@ -7,6 +7,7 @@ Example:
 setripplewave( 0, 100.0, 100.0, 200.0, 1.0, 1.0, 0.0, 250.0, 1000.0, 1500.0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

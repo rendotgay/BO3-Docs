@@ -7,6 +7,7 @@ Example:
 if ( player IsInMoveMode( "ufo", "noclip" ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

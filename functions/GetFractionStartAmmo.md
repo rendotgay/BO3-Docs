@@ -7,6 +7,7 @@ Example:
 start = player GetFractionStartAmmo( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

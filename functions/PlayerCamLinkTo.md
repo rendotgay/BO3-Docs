@@ -7,6 +7,7 @@ Example:
 level.player2 CameraLinkTo( cameraUpstairs, "tag_player" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

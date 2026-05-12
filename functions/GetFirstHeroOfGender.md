@@ -7,6 +7,7 @@ Example:
 characterIndex = GetFirstHeroOfGender( "male", "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

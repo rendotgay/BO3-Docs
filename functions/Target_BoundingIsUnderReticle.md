@@ -7,6 +7,7 @@ Example:
 player Target_BoundingIsUnderReticle( player, enemy_chopper, 1000 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

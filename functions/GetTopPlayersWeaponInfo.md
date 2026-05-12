@@ -7,6 +7,7 @@ Example:
 weapon = GetTopPlayersWeaponInfo( localClientNum, 2 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

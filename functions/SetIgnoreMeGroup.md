@@ -7,6 +7,7 @@ Example:
 SetIgnoreMeGroup( "flanking_team", "axis" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

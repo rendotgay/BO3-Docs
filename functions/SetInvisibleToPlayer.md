@@ -7,6 +7,7 @@ Example:
 hackable._trigger SetInvisibleToPlayer( player, false )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

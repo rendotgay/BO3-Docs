@@ -7,6 +7,7 @@ Example:
 if( self lastKnownTime( player ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

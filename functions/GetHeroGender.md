@@ -7,6 +7,7 @@ Example:
 gender = GetHeroGender( heroIndex, "mp" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

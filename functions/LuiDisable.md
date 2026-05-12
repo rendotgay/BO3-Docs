@@ -7,6 +7,7 @@ Example:
 LuiDisable( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

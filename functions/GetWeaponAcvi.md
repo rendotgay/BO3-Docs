@@ -7,6 +7,7 @@ Example:
 primaryWeaponAcvi = self GetWeaponAcvi( weapon )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 entity DragonStrike_enable( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

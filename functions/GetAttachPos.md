@@ -7,6 +7,7 @@ Example:
 pos = self GetAttachPos( node )origin = pos[0]angles = pos[1]
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

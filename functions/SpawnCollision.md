@@ -3,7 +3,6 @@
 Spawns a script mover thats used only for collision
 
 
-
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

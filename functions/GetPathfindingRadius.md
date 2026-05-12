@@ -7,3 +7,4 @@ Example:
 radius = ent GetPathfindingRadius()
 ```
 
+

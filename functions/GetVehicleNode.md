@@ -7,6 +7,7 @@ Example:
 node = getvehiclenode(self.target, "targetname")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

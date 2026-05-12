@@ -7,6 +7,7 @@ Example:
 ent SetZBarrierColModel("p6_anim_zm_barricade_board_collision")
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

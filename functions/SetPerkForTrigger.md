@@ -7,6 +7,7 @@ Example:
 self SetPerkForTrigger( "specialty_fastinteract" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 yesno = RenderHealthOverlayHealth( localClientNum )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

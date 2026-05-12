@@ -7,6 +7,7 @@ Example:
 self PlayRumbleLoopOnEntity( "damage_heavy" )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

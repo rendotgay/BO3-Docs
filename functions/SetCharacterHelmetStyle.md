@@ -7,6 +7,7 @@ Example:
 self SetCharacterHelmetStyle( 0 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

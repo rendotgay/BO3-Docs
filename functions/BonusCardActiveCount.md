@@ -7,6 +7,7 @@ Example:
 cardCount = self BonusCardActiveCount( self.class_num )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

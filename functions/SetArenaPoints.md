@@ -7,6 +7,7 @@ Example:
 player SetArenaPoints( 19 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 randAlly OrientMode("face direction", player.origin-randAlly.origin )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

@@ -7,6 +7,7 @@ Example:
 SetPauseWorld( 1 )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

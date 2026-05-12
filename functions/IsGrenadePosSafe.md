@@ -7,6 +7,7 @@ Example:
 if ( self IsGrenadeThrowSafe( throwPos, 200 ) )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

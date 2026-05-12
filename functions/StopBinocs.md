@@ -7,6 +7,7 @@ Example:
 player StopBinocs()
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

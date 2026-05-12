@@ -7,6 +7,7 @@ Example:
 turretDamageFraction = entity damageConeTrace( turret.origin + (0,0,40), turret )
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

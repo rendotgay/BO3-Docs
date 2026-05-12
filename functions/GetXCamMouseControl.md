@@ -7,6 +7,7 @@ Example:
 xcammouse = GetXCamMouseControl( localclientnum ) ...
 ```
 
+
 ### Parameters
 Parameter | Summary
 | - | - |

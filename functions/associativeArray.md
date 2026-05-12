@@ -2,10 +2,7 @@
 
 creates an associativeArray
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

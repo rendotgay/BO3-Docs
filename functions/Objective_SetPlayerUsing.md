@@ -2,10 +2,7 @@
 
 Sets the objective to being used by the specified player.
 
-Example:
-```c++
 
-```
 
 ### Parameters
 Parameter | Summary

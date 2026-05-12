@@ -1,0 +1,9 @@
+# GetWeaponAttachments
+
+
+
+Example:
+```c++
+
+```
+

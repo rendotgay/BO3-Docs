@@ -1,0 +1,9 @@
+# GetWeaponsListPrimaries
+
+
+
+Example:
+```c++
+
+```
+

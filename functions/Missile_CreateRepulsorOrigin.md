@@ -1,0 +1,20 @@
+# Missile_CreateRepulsorOrigin
+
+Creates a missile Repulsor at the given location
+
+Example:
+```c++
+repulsor = Missile_CreateRepulsorOrigin( (100, 350, 10), 10000, 6000 )
+```
+
+### Parameters
+Parameter | Summary
+| - | - |
+*origin | The center of the Repulsor
+*strength | The strength of the Repulsor (maximum acceleration it can apply to a missile)
+*affectDist | The effective distance at which the missile can be affected.  The effect of the attractor falls off from <strength> to zero from the center to this distance away from the center.
+[affectAllProjectiles] | If set it will affect all projectiles inculding grenades and guided missiles.
+[alert range] | If set it send notify when missile breaches range(but will not repulse).
+
+<sub>* = mandatory</sub>
+

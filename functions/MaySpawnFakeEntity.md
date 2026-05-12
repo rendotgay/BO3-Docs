@@ -1,0 +1,9 @@
+# MaySpawnFakeEntity
+
+
+
+Example:
+```c++
+
+```
+

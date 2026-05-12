@@ -1,0 +1,9 @@
+# MaySpawnEntity
+
+
+
+Example:
+```c++
+
+```
+

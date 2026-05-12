@@ -7,6 +7,7 @@ Example:
 PlayFX( level._effect["bubbles"], offset, forward, up )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

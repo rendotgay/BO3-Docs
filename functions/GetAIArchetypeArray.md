@@ -7,6 +7,7 @@ Example:
 aiarray = GetAIArchetypeArray( "human" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -7,5 +7,6 @@ Example:
 mytargets = Target_GetArray()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

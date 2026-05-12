@@ -7,6 +7,7 @@ Example:
 entity = GetEntByNum( entnum )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

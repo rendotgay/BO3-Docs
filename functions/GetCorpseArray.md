@@ -7,5 +7,6 @@ Example:
 origins = GetCorpseArray()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

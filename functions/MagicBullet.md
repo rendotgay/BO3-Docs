@@ -7,6 +7,7 @@ Example:
 MagicBullet( GetWeapon("sniper_hyperion"), level.sniper_loc.origin, target GetTagOrigin( "tag_eye" ), level.sniper_boss)
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

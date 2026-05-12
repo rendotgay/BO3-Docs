@@ -7,5 +7,6 @@ Example:
 linked_ent = self GetLinkedEnt()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

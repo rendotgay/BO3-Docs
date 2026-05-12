@@ -7,6 +7,7 @@ Example:
 zbarrier ZBarrierGetPiece( 3 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

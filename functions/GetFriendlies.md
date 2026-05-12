@@ -7,6 +7,7 @@ Example:
 friends = self GetFriendlies()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -7,6 +7,7 @@ Example:
 GetNonPredictedLocalPlayer( 0 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

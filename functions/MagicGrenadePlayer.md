@@ -7,6 +7,7 @@ Example:
 MagicGrenadePlayer( "sticky_grenade_mp", self.origin, toss_velocity )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

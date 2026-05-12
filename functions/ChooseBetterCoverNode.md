@@ -7,5 +7,6 @@ Example:
 newNode = behaviorTreeEntity ChooseBetterCoverNode()
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 

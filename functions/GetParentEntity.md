@@ -7,5 +7,6 @@ Example:
 parent = self GetParentEntity( )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

@@ -7,6 +7,7 @@ Example:
 enemies = GetActorSpawnerTeamArray( "axis", "neutral" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

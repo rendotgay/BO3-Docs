@@ -7,6 +7,7 @@ Example:
 a_trace = BeamTrace( org1, org2 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -7,5 +7,6 @@ Example:
 focusEnt = player GetVehicleFocusEntity()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

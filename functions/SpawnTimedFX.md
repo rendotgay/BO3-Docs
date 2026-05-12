@@ -7,6 +7,7 @@ Example:
 ent = SpawnTimedFX( smokeGrenade, position, directionUp, duration )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

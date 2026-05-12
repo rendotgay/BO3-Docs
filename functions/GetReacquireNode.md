@@ -7,5 +7,6 @@ Example:
 guy GetReacquireNode()
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 

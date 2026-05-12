@@ -7,5 +7,6 @@ Example:
 volume = self GetFixedNodeSafeVolume()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

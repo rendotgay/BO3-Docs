@@ -7,6 +7,7 @@ Example:
 CloneAndRemoveEntity( ent )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

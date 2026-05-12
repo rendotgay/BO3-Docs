@@ -7,6 +7,7 @@ Example:
 spawners = GetEntArrayFromArray( array, "doorguy1", "targetname" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

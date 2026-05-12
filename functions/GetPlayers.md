@@ -7,6 +7,7 @@ Example:
 players = GetPlayers()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

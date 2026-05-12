@@ -7,6 +7,7 @@ Example:
 driver = vehicle GetSeatOccupant( 0 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

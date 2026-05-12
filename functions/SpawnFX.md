@@ -7,6 +7,7 @@ Example:
 fx = SpawnFx( level._effect[player.light_playFX], monkey.origin + (0,0,-12),(1,0,0),(0,0,1) )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

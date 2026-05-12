@@ -7,6 +7,7 @@ Example:
 a_trace = BulletTrace( org1, org2 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

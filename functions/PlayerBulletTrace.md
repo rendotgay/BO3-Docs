@@ -7,6 +7,7 @@ Example:
 trace = PlayerBulletTrace( magicBulletOrigin.origin, eyePos, undefined )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

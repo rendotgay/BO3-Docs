@@ -7,5 +7,6 @@ Example:
 target = self GetCurrentEventOriginator()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

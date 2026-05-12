@@ -7,5 +7,6 @@ Example:
 ground_ent = self GetGroundEnt()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

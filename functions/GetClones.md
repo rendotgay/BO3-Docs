@@ -7,6 +7,7 @@ Example:
 clones = GetClones( localClientNum )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

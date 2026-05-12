@@ -7,6 +7,7 @@ Example:
 ent GetOwner( localClientNum )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

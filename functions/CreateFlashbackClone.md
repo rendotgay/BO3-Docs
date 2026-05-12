@@ -7,5 +7,6 @@ Example:
 body = self CreateFlashbackClone()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

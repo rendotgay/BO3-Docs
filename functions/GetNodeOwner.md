@@ -7,6 +7,7 @@ Example:
 node_owner = GetNodeOwner( node ) )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

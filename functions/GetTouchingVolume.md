@@ -7,6 +7,7 @@ Example:
 entities = GetTouchingVolume( self.origin, mins, maxs )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

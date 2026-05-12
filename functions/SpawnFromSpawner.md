@@ -7,6 +7,7 @@ Example:
 spawned = spawnerent SpawnFromSpawner( "george", false )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

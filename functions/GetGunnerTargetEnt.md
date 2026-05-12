@@ -7,6 +7,7 @@ Example:
 target = huey GetGunnerTurretEnt( 0 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -7,6 +7,7 @@ Example:
 aiarray = GetActorTeamArray( "axis", "neutral" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

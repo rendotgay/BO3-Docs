@@ -7,6 +7,7 @@ Example:
 vehicle = GetPlayerVehicle( self )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

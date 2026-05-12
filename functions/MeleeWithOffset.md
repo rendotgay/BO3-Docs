@@ -7,6 +7,7 @@ Example:
 guy MeleeWithOffset( (0,0,32) )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

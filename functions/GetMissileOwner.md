@@ -7,5 +7,6 @@ Example:
 javelinOwner = GetMissileOwner( thisMissile )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

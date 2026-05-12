@@ -7,6 +7,7 @@ Example:
 nodes = GetVisibleNodes( cover.node )
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

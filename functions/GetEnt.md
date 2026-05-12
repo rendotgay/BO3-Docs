@@ -7,6 +7,7 @@ Example:
 spawner = GetEnt( "doorguy1", "targetname" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

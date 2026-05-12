@@ -7,5 +7,6 @@ Example:
 self FindBestCoverNode()
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 

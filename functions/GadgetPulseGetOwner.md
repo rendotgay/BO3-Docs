@@ -7,5 +7,6 @@ Example:
 entity GadgetPulseGetOwner(&lt;localclientnum&gt;)
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

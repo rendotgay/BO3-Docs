@@ -7,6 +7,7 @@ Example:
 origin = ServerObjective_GetObjectiveEntity( localClientNum, objective_num )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

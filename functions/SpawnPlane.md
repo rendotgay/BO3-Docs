@@ -7,6 +7,7 @@ Example:
 plane = spawnplane( owner, "script_model", origin )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

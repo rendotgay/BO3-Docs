@@ -7,6 +7,7 @@ Example:
 self UseBy( player )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

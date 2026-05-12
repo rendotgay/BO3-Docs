@@ -7,6 +7,7 @@ Example:
 GetNextTraversalNodeOnPath(1)
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

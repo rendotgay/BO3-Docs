@@ -7,6 +7,7 @@ Example:
 self.kc_topbar = NewClientHudElem(self)
 ```
 
+
 **Returns:** [`hudelem`](../types/hudelem.md)
 
 ### Parameters

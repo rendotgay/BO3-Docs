@@ -7,6 +7,7 @@ Example:
 streamHintEnt = createStreamerHint( level.player.origin, 0.333 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

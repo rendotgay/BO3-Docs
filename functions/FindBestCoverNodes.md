@@ -7,6 +7,7 @@ Example:
 nodes = self FindBestCoverNodes(radius,origin)
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

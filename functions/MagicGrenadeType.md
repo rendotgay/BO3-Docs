@@ -7,6 +7,7 @@ Example:
 ent MagicGrenadeType( "fraggrenade", self.origin, myVelocity )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

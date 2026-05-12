@@ -7,5 +7,6 @@ Example:
 cybercom_type = player GetPlayerCorpse()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

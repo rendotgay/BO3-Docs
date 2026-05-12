@@ -7,6 +7,7 @@ Example:
 body = self ClonePlayer(deathAnimDuration)
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

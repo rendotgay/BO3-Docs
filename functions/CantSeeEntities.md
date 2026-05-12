@@ -7,6 +7,7 @@ Example:
 if( isplayer( self.enemy ) && self.enemy CantSeeEntities( entArray, 67 ) )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

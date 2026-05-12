@@ -7,6 +7,7 @@ Example:
 self DropItem( current )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

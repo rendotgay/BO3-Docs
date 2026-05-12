@@ -7,5 +7,6 @@ Example:
 if(player GetMoverEnt())
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

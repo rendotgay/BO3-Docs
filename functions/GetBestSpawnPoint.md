@@ -7,6 +7,7 @@ Example:
 GetSortedSpawnPoints()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

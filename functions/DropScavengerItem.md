@@ -7,6 +7,7 @@ Example:
 self DropScavengerItem( "scavenger_item_mp" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

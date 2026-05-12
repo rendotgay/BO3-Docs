@@ -7,6 +7,7 @@ Example:
 level.progressbar_allies_neutralize = NewTeamHudElem( "axis" )
 ```
 
+
 **Returns:** [`hudelem`](../types/hudelem.md)
 
 ### Parameters

@@ -7,6 +7,7 @@ Example:
 bomb = player MagicMissile( "artillery_mp", (100,100,0), ( 0.1, 0.1, 0.1 ) )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

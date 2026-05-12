@@ -7,6 +7,7 @@ Example:
 DeployRiotShield( owner, shield )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

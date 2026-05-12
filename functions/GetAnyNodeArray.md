@@ -7,6 +7,7 @@ Example:
 node = GetCoverNodeArray( self.origin, 256 )
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

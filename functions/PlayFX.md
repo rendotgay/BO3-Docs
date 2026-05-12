@@ -7,6 +7,7 @@ Example:
 PlayFX( level._effect["nuke_fx"], nuke_pos.origin, forward, up )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -7,5 +7,6 @@ Example:
 origins = GetScriptMoverArray()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

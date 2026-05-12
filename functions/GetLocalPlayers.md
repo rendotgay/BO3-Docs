@@ -7,5 +7,6 @@ Example:
 players = GetLocalPlayers()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

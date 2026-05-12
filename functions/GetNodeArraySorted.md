@@ -7,6 +7,7 @@ Example:
 nodes = GetNodeArraySorted(self.target, "targetname", self.origin, 256 )
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

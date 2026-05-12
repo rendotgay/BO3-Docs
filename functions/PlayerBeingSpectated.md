@@ -7,6 +7,7 @@ Example:
 spectated = PlayerBeingSpectated( localClientNum )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

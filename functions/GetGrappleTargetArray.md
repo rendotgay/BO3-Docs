@@ -7,5 +7,6 @@ Example:
 enemies = GetGrappleTargetArray()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

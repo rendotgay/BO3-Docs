@@ -7,5 +7,6 @@ Example:
 zbarriers = GetZBarrierArray()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

@@ -7,5 +7,6 @@ Example:
 self GetVehicleOccupied()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

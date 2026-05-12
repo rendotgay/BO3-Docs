@@ -7,6 +7,7 @@ Example:
 self MagicGrenadeManual( self.origin, target.origin, 2.0 )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

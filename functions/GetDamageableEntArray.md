@@ -7,6 +7,7 @@ Example:
 entities = GetDamageableEntArray( maxDist, true )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

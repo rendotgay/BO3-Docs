@@ -7,5 +7,6 @@ Example:
 ridersarray = vehicle getvehoccupants()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

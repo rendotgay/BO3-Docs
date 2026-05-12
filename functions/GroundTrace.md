@@ -7,6 +7,7 @@ Example:
 trace = GroundTrace(magicBulletOrigin.origin, eyePos, true, undefined)
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

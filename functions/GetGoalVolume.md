@@ -7,5 +7,6 @@ Example:
 goalVolume = self GetGoalVolume()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

@@ -7,6 +7,7 @@ Example:
 node = SpawnPathNode( cover_left, origin, angles )
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

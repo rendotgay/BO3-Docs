@@ -7,6 +7,7 @@ Example:
 end_node = GetOtherNodeInNegotiationPair( begin_node )
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

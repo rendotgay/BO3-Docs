@@ -7,6 +7,7 @@ Example:
 Spawn( "trigger_radius", trigger_origin )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

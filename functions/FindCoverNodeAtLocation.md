@@ -7,6 +7,7 @@ Example:
 guy FindCoverNodeAtLocation(512,loc)
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

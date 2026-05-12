@@ -7,6 +7,7 @@ Example:
 PlayFxOnTag( level._effect["character_fire_death_torso"], self, "J_Spine1" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

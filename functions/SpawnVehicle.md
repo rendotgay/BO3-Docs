@@ -2,10 +2,7 @@
 
 Spawns a new vehicle and returns a reference to it
 
-Example:
-```c++
 
-```
 
 **Returns:** [`entity`](../types/entity.md)
 

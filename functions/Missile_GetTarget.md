@@ -7,5 +7,6 @@ Example:
 target = missile Missile_GetTarget()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

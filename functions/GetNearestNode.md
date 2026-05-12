@@ -7,6 +7,7 @@ Example:
 node = GetNearestNode( guy.origin )
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

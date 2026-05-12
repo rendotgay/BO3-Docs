@@ -7,5 +7,6 @@ Example:
 nodes = GetAllNodes()
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 

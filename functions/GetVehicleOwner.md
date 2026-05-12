@@ -7,5 +7,6 @@ Example:
 eFlak88user = eFlak88 GetVehicleOwner()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

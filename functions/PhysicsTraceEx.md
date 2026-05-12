@@ -7,6 +7,7 @@ Example:
 trace = PhysicsTraceEx( start, end, (-10,-10,0), (10,10,0) )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

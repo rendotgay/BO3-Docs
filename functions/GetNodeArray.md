@@ -7,6 +7,7 @@ Example:
 node = GetNodeArray( self.target, "targetname" )
 ```
 
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

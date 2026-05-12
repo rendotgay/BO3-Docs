@@ -7,6 +7,7 @@ Example:
 self.hud_rankscroreupdate = NewScoreHudElem(self)
 ```
 
+
 **Returns:** [`hudelem`](../types/hudelem.md)
 
 ### Parameters

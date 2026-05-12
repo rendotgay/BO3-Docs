@@ -7,6 +7,7 @@ Example:
 aiarray = GetAISpeciesArray( "axis", "all" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

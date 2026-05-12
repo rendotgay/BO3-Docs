@@ -7,6 +7,7 @@ Example:
 PlayLoopedFX( level._effect[self.v["trailfx"]], self.v["trailfxdelay"], self.v["origin"], 0, self.v["forward"], self.v["up"] )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -7,6 +7,7 @@ Example:
 heliGuard = spawnHelicopter( self, startPos, startAng, "heli_guard_mp" , "veh_t6_drone_overwatch_light" )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

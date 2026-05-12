@@ -7,6 +7,7 @@ Example:
 grenades = GetEntArray( 0, ET_MISSILE )
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

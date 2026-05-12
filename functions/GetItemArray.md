@@ -7,5 +7,6 @@ Example:
 origins = GetItemArray()
 ```
 
+
 **Returns:** [`entity`](../types/entity.md)
 

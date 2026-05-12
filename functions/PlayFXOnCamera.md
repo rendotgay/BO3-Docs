@@ -2,6 +2,11 @@
 
 Plays the fx at the given offset from the camera.
 
+Example:
+```c++
+PlayFX( level._effect["bubbles"], offset, forward, up )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

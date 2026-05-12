@@ -2,6 +2,11 @@
 
 clone the player's model for death animations.
 
+Example:
+```c++
+body = self ClonePlayer(deathAnimDuration)
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

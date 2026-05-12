@@ -2,6 +2,11 @@
 
 Returns an array of friendly players. The player called on is not included in the array.
 
+Example:
+```c++
+friends = self GetFriendlies()
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

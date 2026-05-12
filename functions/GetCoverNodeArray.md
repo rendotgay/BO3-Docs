@@ -2,6 +2,11 @@
 
 Gets an array of cover nodes within given radius
 
+Example:
+```c++
+node = GetCoverNodeArray( self.origin, 256 )
+```
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

@@ -2,6 +2,11 @@
 
 Plays the fx at the given location.
 
+Example:
+```c++
+PlayFX( level._effect["nuke_fx"], nuke_pos.origin, forward, up )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

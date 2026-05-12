@@ -2,6 +2,11 @@
 
 Returns the entities that can be damaged. Can optionally take an origin, radius, and a flag to check 3D.
 
+Example:
+```c++
+entities = GetDamageableEntArray( maxDist, true )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

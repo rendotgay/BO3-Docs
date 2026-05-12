@@ -2,6 +2,11 @@
 
 Gets an array of nodes that have the given name, key pair
 
+Example:
+```c++
+node = GetNodeArray( self.target, "targetname" )
+```
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

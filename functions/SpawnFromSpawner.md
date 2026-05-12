@@ -2,6 +2,11 @@
 
 Spawns an actor or vehicle from a spawner, if possible (the spawner won't spawn if the player is looking at the spawn point, or if spawning would cause a telefrag) Unsupplied optional fields will use flag values from the entity
 
+Example:
+```c++
+spawned = spawnerent SpawnFromSpawner( "george", false )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

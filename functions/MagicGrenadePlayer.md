@@ -2,6 +2,11 @@
 
 Creates a "Magic" grenade from a player.
 
+Example:
+```c++
+MagicGrenadePlayer( "sticky_grenade_mp", self.origin, toss_velocity )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

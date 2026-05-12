@@ -2,6 +2,11 @@
 
 Fire a 'magic grenade', from the source location towards the destination point.
 
+Example:
+```c++
+ent MagicGrenadeType( "fraggrenade", self.origin, myVelocity )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

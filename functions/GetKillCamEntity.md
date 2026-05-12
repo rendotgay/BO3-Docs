@@ -2,6 +2,11 @@
 
 returns the killcamentity.
 
+Example:
+```c++
+
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

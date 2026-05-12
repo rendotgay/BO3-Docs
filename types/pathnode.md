@@ -1,7 +1,7 @@
 # pathnode
 
-[Returned By](#returned-by)
-[Properties](#properties)
+- [Returned By](#returned-by)
+- [Properties](#properties)
 
 ### Returned By
 - [`ChooseBetterCoverNode()`](../functions/ChooseBetterCoverNode.md)

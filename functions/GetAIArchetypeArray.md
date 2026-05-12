@@ -2,6 +2,11 @@
 
 Returns an array of the AI for the given archetype and optionally given team
 
+Example:
+```c++
+aiarray = GetAIArchetypeArray( "human" )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

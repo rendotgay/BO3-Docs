@@ -2,6 +2,11 @@
 
 Create a new hud element for a particular team
 
+Example:
+```c++
+level.progressbar_allies_neutralize = NewTeamHudElem( "axis" )
+```
+
 **Returns:** [`hudelem`](../types/hudelem.md)
 
 ### Parameters

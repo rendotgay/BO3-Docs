@@ -2,6 +2,11 @@
 
 Returns an array of the human AI
 
+Example:
+```c++
+aiarray = GetActorTeamArray( "axis", "neutral" )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

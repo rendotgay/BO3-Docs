@@ -2,6 +2,11 @@
 
 Does damage to an vehicle - usually as part of the damage callback
 
+Example:
+```c++
+self FinishVehicleDamage( eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, vDir, sHitLoc, psOffsetTime, damageUnderneathVehicle, modelindex, partname, damageteammates )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

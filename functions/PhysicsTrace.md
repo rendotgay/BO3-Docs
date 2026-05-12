@@ -2,6 +2,11 @@
 
 Does a physics trace from start to end. Returns hit position
 
+Example:
+```c++
+trace = PhysicsTrace( start, end, ( 0, 0, 0 ), ( 0, 0, 0 ), self, PHYSICS_TRACE_MASK_VEHICLE_CLIP )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

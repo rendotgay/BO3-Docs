@@ -2,6 +2,11 @@
 
 Allows script to do a bullet point trace with CONTENTS_PLAYER, collides with player hitboxes. Returns hit position, hit entity, hit surface normal.
 
+Example:
+```c++
+trace = PlayerBulletTrace( magicBulletOrigin.origin, eyePos, undefined )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

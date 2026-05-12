@@ -2,6 +2,11 @@
 
 Returns undefined if the player is not in a vehicle
 
+Example:
+```c++
+vehicle = GetPlayerVehicle( self )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

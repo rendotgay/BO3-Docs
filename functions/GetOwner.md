@@ -2,6 +2,11 @@
 
 Get an entity's owner
 
+Example:
+```c++
+ent GetOwner( localClientNum )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

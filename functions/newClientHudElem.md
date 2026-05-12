@@ -2,6 +2,11 @@
 
 Create a new hud element for a particular client
 
+Example:
+```c++
+self.kc_topbar = NewClientHudElem(self)
+```
+
 **Returns:** [`hudelem`](../types/hudelem.md)
 
 ### Parameters

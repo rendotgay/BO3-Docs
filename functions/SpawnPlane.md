@@ -2,6 +2,11 @@
 
 Spawns a plane at the origin
 
+Example:
+```c++
+plane = spawnplane( owner, "script_model", origin )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

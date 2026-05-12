@@ -2,6 +2,11 @@
 
 Looks up entities by key and name
 
+Example:
+```c++
+spawner = GetEnt( "doorguy1", "targetname" )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

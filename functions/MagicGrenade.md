@@ -2,6 +2,11 @@
 
 Creates a "Magic" grenade from an actor.
 
+Example:
+```c++
+self MagicGrenade( self.origin, target.origin, 2.0 )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

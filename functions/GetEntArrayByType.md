@@ -2,6 +2,11 @@
 
 Gets an array of entities that have the given the type of the entity ( for example, ET_MISSILE )
 
+Example:
+```c++
+grenades = GetEntArray( 0, ET_MISSILE )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

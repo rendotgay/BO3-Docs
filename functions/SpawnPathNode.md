@@ -2,6 +2,11 @@
 
 Spawn a dynamically created path node or cover node
 
+Example:
+```c++
+node = SpawnPathNode( cover_left, origin, angles )
+```
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

@@ -2,6 +2,11 @@
 
 Makes this actor melee attack. Returns the entity hit, if any.
 
+Example:
+```c++
+guy MeleeWithOffset( (0,0,32) )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

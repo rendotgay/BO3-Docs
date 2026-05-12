@@ -2,6 +2,11 @@
 
 Returns the set of entities that a player cannot see within a given angle, given a set of entities
 
+Example:
+```c++
+if( isplayer( self.enemy ) && self.enemy CantSeeEntities( entArray, 67 ) )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

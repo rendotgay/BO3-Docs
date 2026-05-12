@@ -2,6 +2,11 @@
 
 Gets an entity from its entity number
 
+Example:
+```c++
+entity = GetEntByNum( entnum )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -2,6 +2,11 @@
 
 Returns an array of the human AI and vehicle AI
 
+Example:
+```c++
+aiarray = GetAITeamArray( "axis", "neutral" )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

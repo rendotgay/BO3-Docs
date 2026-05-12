@@ -2,6 +2,11 @@
 
 Fire the vehicle's weapon
 
+Example:
+```c++
+m_vehicle FireWeapon( 0, m_e_target, v_target_offset )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -2,6 +2,11 @@
 
 Spawns a script mover thats used only for collision
 
+Example:
+```c++
+
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

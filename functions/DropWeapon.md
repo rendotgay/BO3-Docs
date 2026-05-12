@@ -2,6 +2,11 @@
 
 Drop the actor's weapon
 
+Example:
+```c++
+self DropWeapon(self.weapon, self.anim_gunHand, throwVel)
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

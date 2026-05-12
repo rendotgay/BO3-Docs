@@ -2,6 +2,11 @@
 
 Returns an array of the currently connected players.  Used internally to the script call get_players().
 
+Example:
+```c++
+players = GetPlayers()
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

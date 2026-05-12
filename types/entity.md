@@ -1,7 +1,7 @@
 # entity
 
-[Returned By](#returned-by)
-[Properties](#properties)
+- [Returned By](#returned-by)
+- [Properties](#properties)
 
 ### Returned By
 - [`AddTestClient()`](../functions/AddTestClient.md)
@@ -119,7 +119,7 @@ actor_damage_func | string | &clone_damage_func
 additional_shot | bool
 ai | string | ai
 anchor | string | spawn("script_origin", lander.origin)
-angles | vector | (-90, anchortarget.angles[1] + 180, 0), (0, 0, 0), (0, direction[1], 0) + vectorscale((0, 1, 0), 90), = level._osc_rbs[i].cover_close && level._lid_close_sound == 0), ai gettagangles("TAG_ATTACH_HATCH_LE")...
+angles | mixed | (-90, anchortarget.angles[1] + 180, 0), (0, 0, 0), (0, direction[1], 0) + vectorscale((0, 1, 0), 90), = level._osc_rbs[i].cover_close && level._lid_close_sound == 0), ai gettagangles("TAG_ATTACH_HATCH_LE")...
 animname | string | "fury", "giant_robot_walker", "keeper"
 audio_type | string | "giant_robot"
 auto_revive | bool
@@ -215,7 +215,7 @@ max_fill | int
 maxhealth | string | m_poster.health
 minecart | string | self
 model | string | = "c_zom_dlc4_keeper_hooded_body")
-movedist | vector | stair.script_vector, vectorscale((0, 0, 1), 10)
+movedist | int
 movetime | int
 n_charge_level | string | = 3
 n_damage_per_sec | string | get_lightning_ball_damage_per_sec(self.chargeshotlevel)
@@ -231,11 +231,8 @@ no_powerups | bool
 occupied | bool
 offsetorigin | string | offsetorigin
 og_angles | string | lander.angles, north_pos.angles, south_pos.angles
-old_origin | string | var_7c68b1e.origin
-org_angles | string | var_eadb7e53.angles
-origin | vector | (0, 0, 0), (self.jump.linkent.origin[0], self.jump.linkent.origin[1], 0) + (0, 0, goal[2]), (var_528227ee + var_f72d376e) + vectorscale((0, 0, 1), 64), ai_pilot.origin, ai_zombie.origin...
+origin | mixed | (0, 0, 0), (self.jump.linkent.origin[0], self.jump.linkent.origin[1], 0) + (0, 0, goal[2]), (var_528227ee + var_f72d376e) + vectorscale((0, 0, 1), 64), ai_pilot.origin, ai_zombie.origin...
 original_angles | string | dynamite.angles, meteorite.angles
-original_location | string | var_6b2a60d.origin
 original_origin | string | dynamite.origin, level.pap_ramp.origin, meteorite.origin
 out | bool
 owner | string | entity, player, self
@@ -265,7 +262,7 @@ script_notify | string | s_spawn_pos.script_notify
 script_sound | string | "mus_perks_packa_jingle", "mus_perks_speed_jingle", "zmb_perks_bump_bottle"
 script_string | string | "speedcola_perk", = perk_script_string)
 script_trigger_spawnflags | string | asset.script_trigger_spawnflags
-script_vector | vector | parent_struct.script_vector, vectorscale((0, 0, 1), 72)
+script_vector | int
 sessionstate | string | "playing", = "intermission"), = "spectator" || player laststand::player_is_in_laststand()), = "spectator")
 simulacrum | string | clone
 size | mixed | = (n_total_tiles - a_original_positions.size)), = 0), = 1 && !level flag::get("solo_game")), = 1 && getdvarint("zm_private_rankedmatch", 0), = 1 && isdefined(players[0].intermission) && players[0].intermission == 1)...
@@ -300,7 +297,6 @@ triggerthink | string | &quadrotorcraftable
 turn_on_notify | string | s_spawn_pos.turn_on_notify
 turret_index | bool
 type | string | "struct"
-unitrigger | string | var_309c2973 function_ab1218c8(), var_85a409cc function_af32bcac()
 unitrigger_stub | string | spawnstruct()
 up_origin | string | plate.origin + plate.movedist, stair.down_origin + stair.movedist, stair.origin
 upgrade | string | staff_air_upgraded, staff_fire_upgraded, staff_lightning_upgraded, staff_water_upgraded
@@ -313,59 +309,9 @@ v_open_pos | int
 v_org | string | level.mdl_gate.origin
 v_pos | string | struct::get(level.mdl_gate.target).origin
 v_staff | mixed | (e_plinth.v_staff[0], e_plinth.v_staff[1], e_plinth.origin[2] + 110), e_plinth.origin
-v_start | string | e_plinth.origin, var_7fdcd3a8.origin
+v_start | string | e_plinth.origin
 v_start_origin | string | ai.origin
 value | float
-var_16e1fdfb | string | &function_b0658775, &function_bc1706ea
-var_16f934b6 | bool
-var_1cba9ac3 | bool
-var_20cd3c71 | string | i
-var_26dbb029 | string | mdl_target
-var_2a4af70 | string | getent("t_proptrap_a_spiders", "targetname"), getent("t_proptrap_b_spiders", "targetname")
-var_2b44423b | string | "green", "red", "yellow"
-var_2d5af28c | bool
-var_37ba64ca | bool
-var_380861c6 | int
-var_3a61625b | string | e_player, undefined
-var_3d838929 | string | var_3d838929
-var_401e166a | int
-var_41f52afd | string | mdl_anchor
-var_575a869f | string | var_575a869f
-var_5cd7e450 | string | level.var_55c48492.origin
-var_6306226 | string | util::spawn_model("tag_origin", var_620858e1, var_14dae7af)
-var_66b5ee1a | string | self.minecart.var_88249cb5
-var_7117876c | string | level.var_564761a3.var_ff07b157.origin, level.var_77316c1c.origin, level.var_e938db57.origin, level.var_fed21619[i].e_destructible.origin, var_9f68aa5.origin
-var_74d299dc | bool
-var_76d4be72 | string | "animation_plane_1_done", "animation_plane_2_done"
-var_7f70ccd5 | bool
-var_8002cc8a | string | entity.favoriteenemy
-var_94093c25 | bool
-var_9469fd43 | bool
-var_9c93e17 | string | level.var_1a9b1b91.origin, level.var_bbdc1f95.var_c093c394.origin
-var_a0e2dfff | bool
-var_a3338832 | bool
-var_aab7a6d1 | int
-var_b620e1b1 | string | e_origin
-var_b82c7478 | bool
-var_b8385ee5 | bool
-var_b8a7fb78 | string | trigger
-var_baeb5712 | bool
-var_d0939dba | string | var_d0939dba
-var_d5784b10 | string | self.trigger.origin
-var_d7778aba | string | level.var_55c48492.angles
-var_d7bb540a | bool
-var_d93f9cb8 | string | getent("t_propellertrap_a_death", "script_string"), getent("t_propellertrap_b_death", "script_string")
-var_deccd0c8 | bool
-var_df281e84 | int
-var_e084d7bd | bool
-var_e1f456ae | bool
-var_e80e0d58 | string | "fxexp_110", "fxexp_112"
-var_e882d83c | int
-var_ebcc585f | string | var_ebcc585f
-var_efa7240e | string | getent("mdl_propellertrap_a_propeller", "script_string"), getent("mdl_propellertrap_b_propeller", "script_string")
-var_f83345c7 | bool
-var_fb4f9b70 | bool
-var_fdb1feb7 | string | self.minecart.var_629f3738
 voiceprefix | string | "fury", "keeper"
 w_weapon | string | getweapon("staff_air"), getweapon("staff_air_upgraded"), getweapon("staff_fire"), getweapon("staff_fire_upgraded"), getweapon("staff_lightning")...
 weapname | string | "staff_air", "staff_air_upgraded", "staff_fire", "staff_fire_upgraded", "staff_lightning"...

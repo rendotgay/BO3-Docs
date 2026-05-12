@@ -2,6 +2,11 @@
 
 Create a new score hud element for a particular client
 
+Example:
+```c++
+self.hud_rankscroreupdate = NewScoreHudElem(self)
+```
+
 **Returns:** [`hudelem`](../types/hudelem.md)
 
 ### Parameters

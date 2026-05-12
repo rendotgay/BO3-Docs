@@ -1,7 +1,7 @@
 # hudelem
 
-[Returned By](#returned-by)
-[Properties](#properties)
+- [Returned By](#returned-by)
+- [Properties](#properties)
 
 ### Returned By
 - [`NewClientHudElem()`](../functions/NewClientHudElem.md)
@@ -20,7 +20,7 @@ alpha | float
 archived | bool
 bar | string | bar
 bgbar | string | bgbar
-color | vector | (0.5, 0.5, 1), (1, 1, 1), vectorscale((1, 0, 0), 0.2), vectorscale((1, 0, 0), 128), vectorscale((1, 1, 1), 0.5)...
+color | mixed | (0.5, 0.5, 1), (1, 1, 1), vectorscale((1, 0, 0), 0.2), vectorscale((1, 0, 0), 128), vectorscale((1, 1, 1), 0.5)...
 debug_hudelem | bool
 font | string | "default", "small"
 fontscale | float

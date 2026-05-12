@@ -2,6 +2,11 @@
 
 Makes this actor melee attack. Returns the entity hit, if any.
 
+Example:
+```c++
+guy Melee()
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

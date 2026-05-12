@@ -2,6 +2,11 @@
 
 Gets a node with the given name, key pair
 
+Example:
+```c++
+node = GetNode( self.target, "targetname" )
+```
+
 **Returns:** [`pathnode`](../types/pathnode.md)
 
 ### Parameters

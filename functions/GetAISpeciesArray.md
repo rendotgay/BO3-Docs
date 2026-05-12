@@ -2,6 +2,11 @@
 
 Returns an array of the AI
 
+Example:
+```c++
+aiarray = GetAISpeciesArray( "axis", "all" )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

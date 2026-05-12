@@ -2,6 +2,11 @@
 
 Spawns an actor from an actor spawner, if possible (the spawner won't spawn if the player is looking at the spawn point, or if spawning would cause a telefrag)
 
+Example:
+```c++
+spawned = SpawnActor( "spawner_bo3_soldier_ally_sniper_tool", origin, angles, "george", false )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

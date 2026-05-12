@@ -2,6 +2,11 @@
 
 Gets the target entity of this turret or vehicle weapon
 
+Example:
+```c++
+target = roof_turret GetTargetEntity( ); target = tank GetTargetEntity( )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

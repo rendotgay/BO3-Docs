@@ -2,6 +2,11 @@
 
 Returns a sorted array of spawnpoints in order from best to worst for the given team
 
+Example:
+```c++
+GetSortedSpawnPoints()
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

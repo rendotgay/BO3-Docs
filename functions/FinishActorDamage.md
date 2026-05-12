@@ -2,6 +2,11 @@
 
 Does damage to an actor - usually as part of the damage callback
 
+Example:
+```c++
+self FinishActorDamage( eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon, vPoint, vDir, sHitLoc, vDamageOrigin, psOffsetTime, iBoneIndex, iSurfaceType, vSurfaceNormal )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

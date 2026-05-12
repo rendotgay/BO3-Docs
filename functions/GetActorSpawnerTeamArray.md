@@ -2,6 +2,11 @@
 
 Returns an array of all of the spawners in a level
 
+Example:
+```c++
+enemies = GetActorSpawnerTeamArray( "axis", "neutral" )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

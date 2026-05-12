@@ -2,6 +2,11 @@
 
 Looks up entities by key and name and a return an array of the matched entities
 
+Example:
+```c++
+spawners = GetEntArray( "doorguy1", "targetname" )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -2,6 +2,11 @@
 
 Drop an item with the given item name
 
+Example:
+```c++
+self DropItem( current )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

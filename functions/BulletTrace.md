@@ -2,6 +2,11 @@
 
 Performs a bullet trace between two points and returns an array of information about the trace result.
 
+Example:
+```c++
+a_trace = BulletTrace( org1, org2 )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

@@ -2,6 +2,11 @@
 
 Get the entity occupying the given seat index.  Undefined if the seat is empty.
 
+Example:
+```c++
+driver = vehicle GetSeatOccupant( 0 )
+```
+
 **Returns:** [`entity`](../types/entity.md)
 
 ### Parameters

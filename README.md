@@ -7,6 +7,8 @@ A compilation of useful information for beginners to Black Ops III Radiant
 
 ### Information
 - [BO3 Syntax Highlighting](sublime_gsc.md)
+- [Functions](functions.md)
+- [Variable Types](types.md)
 - [Internal Weapon Names](weapon_names.md)
 
 ### Fixes
@@ -59,3 +61,8 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [DEVRAW](https://www.devraw.net/resources#comp-m3ytuuew)
 - [Skye's Weapon Ports](https://www.ugx-mods.com/forum/full-weapons/84/skyes-weapon-ports-to-bo3-master-hub/16874/)
 - [Corvid](https://youtu.be/izALMNZjgkA)
+
+## Planned Documentation
+- Ambient Sound
+- Custom Weapons
+- Lights

@@ -34,6 +34,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Reflection Probes](reflection_probes.md)
 - [Color Correction](cc.md)
 - [Bloom](bloom.md)
+- [Visions](vision.md)
 
 ### Weapons
 - [Starting Weapon](start_weapon.md)

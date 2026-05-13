@@ -21,7 +21,7 @@ Key | Value
 | - | - |
 Material Category | 2d
 Material Type | refract_reveal_blend
-Surface Type | <none>
+Surface Type | none
 
 2. Then add your image
 Key | Value
@@ -49,7 +49,7 @@ Key | Value
 | - | - |
 Material Category | 2d
 Material Type | warp_aberration_refract_screen
-Surface Type | <none>
+Surface Type | none
 
 2. Then add an aberration mask
 Key | Value

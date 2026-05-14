@@ -57,8 +57,8 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Chatter](chatter.md)
 
 ### UI
-- [Custom HUD](custom_hud.md)
-- [LUI Models](lui_models.md)
+- [Custom HUD](lui/custom_hud.md)
+- [LUI Models](lui/lui_models.md)
 
 ## Resources
 - [Program115](https://www.youtube.com/playlist?list=PL1rMfOFuHfbNymLALGLkZlqdbWHGiKD_K)

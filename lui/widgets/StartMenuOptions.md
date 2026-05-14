@@ -1,0 +1,39 @@
+# StartMenuOptions
+
+Widget | Source | Models
+| - | - | - |
+StartMenu_Options | ui.uieditor.widgets.StartMenu.StartMenu_Options | PlatformControllerImage.image
+StartMenu_Options_Button | ui.uieditor.widgets.StartMenu.StartMenu_Options_Button |
+StartMenu_Options_CheckBoxOption | ui.uieditor.widgets.StartMenu.StartMenu_Options_CheckBoxOption |
+StartMenu_Options_Controls_GenericControllerItem | ui.uieditor.widgets.StartMenu.StartMenu_Options_Controls_GenericControllerItem |
+StartMenu_Options_GamepadLayoutOption | ui.uieditor.widgets.StartMenu.StartMenu_Options_GamepadLayoutOption |
+StartMenu_Options_Graphics_ColorBlindMinimapPreview | ui.uieditor.widgets.StartMenu.StartMenu_Options_Graphics_ColorBlindMinimapPreview | PerController.profile.colorblindMode
+StartMenu_Options_KeyBinder | ui.uieditor.widgets.StartMenu.StartMenu_Options_KeyBinder |
+StartMenu_Options_Network_DescriptionPanels | ui.uieditor.widgets.StartMenu.StartMenu_Options_Network_DescriptionPanels |
+StartMenu_Options_Network_OverviewPanel | ui.uieditor.widgets.StartMenu.StartMenu_Options_Network_OverviewPanel | NetworkInfo.connectivityInfo, NetworkInfo.version
+StartMenu_Options_Network_PingListItem | ui.uieditor.widgets.StartMenu.StartMenu_Options_Network_PingListItem |
+StartMenu_Options_Network_StatusOverview | ui.uieditor.widgets.StartMenu.StartMenu_Options_Network_StatusOverview |
+StartMenu_Options_PC_CombatControls | ui.uieditor.widgets.StartMenu.StartMenu_Options_PC_CombatControls |
+StartMenu_Options_PC_GamepadControls | ui.uieditor.widgets.StartMenu.StartMenu_Options_PC_GamepadControls |
+StartMenu_Options_PC_Graphics_Advanced | ui.uieditor.widgets.PC.StartMenu.GraphicsOptions.StartMenu_Options_PC_Graphics_Advanced |
+StartMenu_Options_PC_Graphics_Game | ui.uieditor.widgets.PC.StartMenu.GraphicsOptions.StartMenu_Options_PC_Graphics_Game |
+StartMenu_Options_PC_Graphics_Video | ui.uieditor.widgets.PC.StartMenu.GraphicsOptions.StartMenu_Options_PC_Graphics_Video |
+StartMenu_Options_PC_InteractControls | ui.uieditor.widgets.StartMenu.StartMenu_Options_PC_InteractControls |
+StartMenu_Options_PC_KeyBinderTooltip | ui.uieditor.widgets.StartMenu.StartMenu_Options_PC_KeyBinderTooltip |
+StartMenu_Options_PC_LookControls | ui.uieditor.widgets.StartMenu.StartMenu_Options_PC_LookControls |
+StartMenu_Options_PC_MoveControls | ui.uieditor.widgets.StartMenu.StartMenu_Options_PC_MoveControls |
+StartMenu_Options_PC_Sound_Sound | startmenu_options_pc_sound_sound.lua |
+StartMenu_Options_PC_Voice_Text | ui.uieditor.widgets.PC.StartMenu.VoiceOptions.StartMenu_Options_PC_Voice_Text |
+StartMenu_Options_PC_Voice_Voice | ui.uieditor.widgets.PC.StartMenu.VoiceOptions.StartMenu_Options_PC_Voice_Voice |
+StartMenu_Options_PrivacySettingsPageCounter | ui.uieditor.widgets.StartMenu.StartMenu_Options_PrivacySettingsPageCounter | PrivacySettingManagementForm.currentPage, PrivacySettingManagementForm.lastPage
+StartMenu_Options_PrivacySettings_CheckBoxButton | ui.uieditor.widgets.StartMenu.StartMenu_Options_PrivacySettings_CheckBoxButton |
+StartMenu_Options_PrivacySettings_UpdatePopupInternal | ui.uieditor.widgets.StartMenu.StartMenu_Options_PrivacySettings_UpdatePopupInternal | PrivacySettingManagementForm.updateProgressState
+StartMenu_Options_SafeArea_Container | ui.uieditor.widgets.StartMenu.StartMenu_Options_SafeArea_Container |
+StartMenu_Options_SafeArea_Hints | ui.uieditor.widgets.StartMenu.StartMenu_Options_SafeArea_Hints | Controller.primary_button_image
+StartMenu_Options_Slider | ui.uieditor.widgets.StartMenu.StartMenu_Options_Slider |
+StartMenu_Options_SliderBar | ui.uieditor.widgets.StartMenu.Startmenu_Options_SliderBar |
+StartMenu_Options_SliderBar_Bar | ui.uieditor.widgets.StartMenu.StartMenu_Options_SliderBar_Bar |
+StartMenu_Options_Slider_Control_Item | ui.uieditor.widgets.StartMenu.StartMenu_Options_Slider_Control_Item |
+StartMenu_Options_Slider_Control_Item_Small | ui.uieditor.widgets.StartMenu.StartMenu_Options_Slider_Control_Item_Small |
+StartMenu_Options_Slider_Item_Arrow | ui.uieditor.widgets.StartMenu.StartMenu_Options_Slider_Item_Arrow |
+StartMenu_Options_Slider_Small | ui.uieditor.widgets.StartMenu.StartMenu_Options_Slider_Small |

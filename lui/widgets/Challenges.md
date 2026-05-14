@@ -1,0 +1,48 @@
+# Challenges
+
+Widget | Source | Models
+| - | - | - |
+ChallengesCompletedWidgetStalingrad | ui.uieditor.widgets.ZMInventoryStalingrad.ChallengesCompletedWidgetStalingrad | trialWidget.challenge1state, trialWidget.challenge2state, trialWidget.challenge3state
+ChallengesCompletedWidgetTomb | ui.uieditor.widgets.ZMInventoryTomb.ChallengesCompletedWidgetTomb | zmInventory.challenges.challenge_complete_1, zmInventory.challenges.challenge_complete_2, zmInventory.challenges.challenge_complete_3, zmInventory.challenges.challenge_complete_4
+ChallengesNotification | ui.uieditor.widgets.Notifications.NotificationQueueWidgets.ChallengesNotification |
+ChallengesTabWidget | ui.uieditor.widgets.AAR.ChallengesTab.ChallengesTabWidget |
+Challenges_CP_Summary | ui.uieditor.widgets.Challenges.Challenges_CP_Summary | ChallengesCPCategoryStats.career, ChallengesCPCategoryStats.cp, ChallengesCPCategoryStats.missions, ChallengesCPCategoryStats.tott, ChallengesCPNearCompletion.description, ChallengesCPNearCompletion.iconId, ChallengesCPNearCompletion.statFractionText, ChallengesCPNearCompletion.statPercent, ChallengesCPNearCompletion.title
+Challenges_CallingCardProfiler | ui.uieditor.widgets.Challenges.Challenges_CallingCardProfiler |
+Challenges_CallingCardProfiler_ArenaVet | ui.uieditor.widgets.Challenges.Challenges_CallingCardProfiler_ArenaVet |
+Challenges_CallingCardProfiler_DarkOps | ui.uieditor.widgets.Challenges.Challenges_CallingCardProfiler_DarkOps |
+Challenges_CallingCardProfiler_Master | ui.uieditor.widgets.Challenges.Challenges_CallingCardProfiler_Master |
+Challenges_CallingCardProfiler_NearCompletion | ui.uieditor.widgets.Challenges.Challenges_CallingCardProfiler_NearCompletion |
+Challenges_CallingCardWidget | ui.uieditor.widgets.Challenges.Challenges_CallingCardWidget |
+Challenges_Category_Button | ui.uieditor.widgets.Challenges.Challenges_Category_Button |
+Challenges_Category_Button_SM | ui.uieditor.widgets.Challenges.Challenges_Category_Button_SM |
+Challenges_Category_Title | ui.uieditor.widgets.Challenges.Challenges_Category_Title |
+Challenges_DarkOps_Button | ui.uieditor.widgets.Challenges.Challenges_DarkOps_Button |
+Challenges_FrameWidget_Arena | ui.uieditor.widgets.Challenges.Challenges_FrameWidget_Arena |
+Challenges_FrameWidget_NearCompletion | ui.uieditor.widgets.Challenges.Challenges_FrameWidget_NearCompletion |
+Challenges_FrameWidget_Operations | ui.uieditor.widgets.Challenges.Challenges_FrameWidget_Operations | ChallengesMPCategoryStats.bootcamp, ChallengesMPCategoryStats.career, ChallengesMPCategoryStats.gameheroics, ChallengesMPCategoryStats.gamevictories, ChallengesMPCategoryStats.humiliation, ChallengesMPCategoryStats.killer, ChallengesMPCategoryStats.operations
+Challenges_FrameWidget_Prestige | ui.uieditor.widgets.Challenges.Challenges_FrameWidget_Prestige | ChallengesMPCategoryStats.combatefficiency, ChallengesMPCategoryStats.combathandling, ChallengesMPCategoryStats.lethals, ChallengesMPCategoryStats.perks1, ChallengesMPCategoryStats.perks2, ChallengesMPCategoryStats.perks3, ChallengesMPCategoryStats.prestige, ChallengesMPCategoryStats.tacticals, ChallengesMPCategoryStats.wildcards
+Challenges_FrameWidget_Scorestreaks | ui.uieditor.widgets.Challenges.Challenges_FrameWidget_Scorestreaks | ChallengesMPCategoryStats.airassault, ChallengesMPCategoryStats.groundassault, ChallengesMPCategoryStats.returnfire, ChallengesMPCategoryStats.scorestreaks, ChallengesMPCategoryStats.support
+Challenges_FrameWidget_Specialists | ui.uieditor.widgets.Challenges.Challenges_FrameWidget_Specialists | ChallengesMPCategoryStats.abilities, ChallengesMPCategoryStats.killjoys, ChallengesMPCategoryStats.specialist, ChallengesMPCategoryStats.weapons
+Challenges_MP_Stickerbook | ui.uieditor.widgets.Challenges.Challenges_MP_Stickerbook |
+Challenges_MP_Stickerbook_ArenaBest | ui.uieditor.widgets.Challenges.Challenges_MP_Stickerbook_ArenaBest |
+Challenges_MP_Stickerbook_ArenaVet | ui.uieditor.widgets.Challenges.Challenges_MP_Stickerbook_ArenaVet |
+Challenges_MP_Stickerbook_DarkOps | ui.uieditor.widgets.Challenges.Challenges_MP_Stickerbook_DarkOps |
+Challenges_MP_Summary | ui.uieditor.widgets.Challenges.Challenges_MP_Summary | ChallengesMPCategoryStats.mp
+Challenges_MP_Summary_ProgressWidget | ui.uieditor.widgets.Challenges.Challenges_MP_Summary_ProgressWidget | ChallengesMPCategoryStats.operations, ChallengesMPCategoryStats.prestige, ChallengesMPCategoryStats.scorestreaks, ChallengesMPCategoryStats.specialist
+Challenges_MasterCallingCardWidget | ui.uieditor.widgets.Challenges.Challenges_MasterCallingCardWidget |
+Challenges_NearCompletionWidget | ui.uieditor.widgets.Challenges.Challenges_NearCompletionWidget |
+Challenges_NearCompletionWidget_Long | ui.uieditor.widgets.Challenges.Challenges_NearCompletionWidget_Long |
+Challenges_NearCompletion_CroppedImage | ui.uieditor.widgets.Challenges.Challenges_NearCompletion_CroppedImage |
+Challenges_OneHundredPercentWidget | ui.uieditor.widgets.Challenges.Challenges_OneHundredPercentWidget |
+Challenges_PercentCompleteWidget_LG | ui.uieditor.widgets.Challenges.Challenges_PercentCompleteWidget_LG |
+Challenges_PercentCompleteWidget_MD | ui.uieditor.widgets.Challenges.Challenges_PercentCompleteWidget_MD |
+Challenges_PercentCompleteWidget_SM | ui.uieditor.widgets.Challenges.Challenges_PercentCompleteWidget_SM |
+Challenges_Summary_NearCompletionButton | ui.uieditor.widgets.Challenges.Challenges_Summary_NearCompletionButton |
+Challenges_Summary_NearCompletion_SM | ui.uieditor.widgets.Challenges.Challenges_Summary_NearCompletion_SM |
+Challenges_TierIcon | ui.uieditor.widgets.Challenges.Challenges_TierIcon |
+Challenges_Title | ui.uieditor.widgets.Challenges.Challenges_Title |
+Challenges_XPIndicator | ui.uieditor.widgets.Challenges.Challenges_XPIndicator |
+Challenges_ZM_LobbyWidget | ui.uieditor.widgets.Challenges.Challenges_ZM_LobbyWidget | DailyChallengeWidget.Data.progressPercentage, DailyChallengeWidget.Data.title, lobbyRoot.lobbyNav, lobbyRoot.lobbyNetworkMode
+Challenges_ZM_Stickerbook_DarkOps | ui.uieditor.widgets.Challenges.Challenges_ZM_Stickerbook_DarkOps |
+Challenges_ZM_Summary | ui.uieditor.widgets.Challenges.Challenges_ZM_Summary | ChallengesZMCategoryStats.gumgobbler, ChallengesZMCategoryStats.survivalist, ChallengesZMCategoryStats.zm, ChallengesZMCategoryStats.zombiehunter, ChallengesZMNearCompletion.description, ChallengesZMNearCompletion.iconId, ChallengesZMNearCompletion.statFractionText, ChallengesZMNearCompletion.statPercent, ChallengesZMNearCompletion.title
+Challenges_background2 | ui.uieditor.widgets.Challenges.Challenges_background2 |

@@ -1,0 +1,14 @@
+# Special
+
+Widget | Source | Models
+| - | - | - |
+SpecialContracts_CallingCardContracts_CardWidget | ui.uieditor.widgets.SpecialContracts.SpecialContracts_CallingCardContracts_CardWidget |
+SpecialContracts_CallingCardContracts_MasterCardWidget | ui.uieditor.widgets.SpecialContracts.SpecialContracts_CallingCardContracts_MasterCardWidget |
+SpecialContracts_CallingCardContracts_Profiler | ui.uieditor.widgets.SpecialContracts.SpecialContracts_CallingCardContracts_Profiler |
+SpecialContracts_CallingCardContracts_Stickerbook | ui.uieditor.widgets.SpecialContracts.SpecialContracts_CallingCardContracts_Stickerbook | SpecialContractMasterCard.backgroundId
+SpecialContracts_Infopane | ui.uieditor.widgets.SpecialContracts.SpecialContracts_Infopane |
+SpecialContracts_RewardImage | ui.uieditor.widgets.SpecialContracts.SpecialContracts_RewardImage |
+SpecialContracts_SelectionButton | ui.uieditor.widgets.SpecialContracts.SpecialContracts_SelectionButton | AutoeventsBribeTimer.autoevent_timer_grandslam, AutoeventsBribeTimer.autoevent_timer_trifecta_promo
+SpecialContracts_StateIndicator | ui.uieditor.widgets.SpecialContracts.SpecialContracts_StateIndicator |
+SpecialContracts_Timer | ui.uieditor.widgets.SpecialContracts.SpecialContracts_Timer |
+SpecialControls | ui.uieditor.widgets.ZMInventory.SpecialControls |

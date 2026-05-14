@@ -1,0 +1,14 @@
+# ChooseCharacter
+
+Widget | Source | Models
+| - | - | - |
+ChooseCharacter_CardClickButton | ui.uieditor.widgets.PC.ChooseCharacter.ChooseCharacter_CardClickButton |
+ChooseCharacter_HelpBubble | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_HelpBubble |
+ChooseCharacter_HelpBubbleWidget | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_HelpBubbleWidget |
+ChooseCharacter_HelpBubble_Arrow | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_HelpBubble_Arrow |
+ChooseCharacter_HelpBubble_ButtonBackground | choosecharacter_helpbubble_buttonbackground.lua |
+ChooseCharacter_HelpBubble_ButtonContainer | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_HelpBubble_ButtonContainer |
+ChooseCharacter_HelpBubble_Button_LBRB | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_HelpBubble_Button_LBRB | Controller.left_shoulder_button_image, Controller.left_stick_move_image, Controller.right_shoulder_button_image
+ChooseCharacter_HelpBubble_Button_PC | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_HelpBubble_Button_PC |
+ChooseCharacter_HelpBubble_Container | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_HelpBubble_Container |
+ChooseCharacter_TabBar | ui.uieditor.widgets.CharacterCustomization.ChooseCharacter_TabBar | Controller.left_shoulder_button_image, Controller.right_shoulder_button_image

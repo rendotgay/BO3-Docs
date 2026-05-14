@@ -1,0 +1,24 @@
+# Choose
+
+Widget | Source | Models
+| - | - | - |
+ChooseClass_ClassSetTabInternal | ui.uieditor.widgets.CAC.MenuChooseClass.ChooseClass_ClassSetTabInternal |
+ChooseClass_ClassSetTabPip | ui.uieditor.widgets.CAC.MenuChooseClass.ChooseClass_ClassSetTabPip |
+ChooseClass_ClassSetTabPip_InGame | ui.uieditor.widgets.CAC.MenuChooseClass.ChooseClass_ClassSetTabPip_InGame |
+ChooseClass_ClassSetTabWidget | ui.uieditor.widgets.CAC.MenuChooseClass.ChooseClass_ClassSetTabWidget | Controller.left_shoulder_button_image, Controller.right_shoulder_button_image
+ChooseContractCharacterLoadoutCarouselItem | ui.uieditor.widgets.CharacterCustomization.ChooseContractCharacterLoadoutCarouselItem |
+ChooseContractCharacterLoadoutCarouselItem_InfoArea | ui.uieditor.widgets.CharacterCustomization.ChooseContractCharacterLoadoutCarouselItem_InfoArea | lobbyRoot.Pregame.Update
+ChooseContractCharacterLoadoutCarouselItem_Internal | ui.uieditor.widgets.CharacterCustomization.ChooseContractCharacterLoadoutCarouselItem_Internal |
+ChooseContracterCharacterLoadoutCarouselItem_ContractInfoArea | ui.uieditor.widgets.CharacterCustomization.ChooseContracterCharacterLoadoutCarouselItem_ContractInfoArea |
+ChooseShowcaseWeapon_ListButton | ui.uieditor.widgets.CharacterCustomization.ChooseShowcaseWeapon_ListButton |
+ChooseShowcaseWeapon_LockedVariantText | ui.uieditor.widgets.CharacterCustomization.ChooseShowcaseWeapon_LockedVariantText |
+ChooseShowcaseWeapon_SelectionInfoWidget | ui.uieditor.widgets.CharacterCustomization.ChooseShowcaseWeapon_SelectionInfoWidget |
+ChooseShowcaseWeapon_VariantButton | ui.uieditor.widgets.CharacterCustomization.ChooseShowcaseWeapon_VariantButton |
+ChooseTaunt_TauntOptionButton | ui.uieditor.widgets.CharacterCustomization.ChooseTaunt_TauntOptionButton |
+ChooseTaunts_CategoryListButton | ui.uieditor.widgets.CharacterCustomization.ChooseTaunts_CategoryListButton |
+ChooseTaunts_CategoryListButtonText | ui.uieditor.widgets.CharacterCustomization.ChooseTaunts_CategoryListButtonText |
+ChooseTaunts_GestureOptionInfo | ui.uieditor.widgets.CharacterCustomization.ChooseTaunts_GestureOptionInfo | Controller.alt2_button_image
+ChooseTaunts_GestureOptions | ui.uieditor.widgets.CharacterCustomization.ChooseTaunts_GestureOptions |
+ChooseTaunts_TauntCategoryList | ui.uieditor.widgets.CharacterCustomization.ChooseTaunts_TauntCategoryList |
+ChooseTaunts_TauntOptionInfo | ui.uieditor.widgets.CharacterCustomization.ChooseTaunts_TauntOptionInfo | Controller.alt2_button_image
+ChooseTaunts_TauntOptions | ui.uieditor.widgets.CharacterCustomization.ChooseTaunts_TauntOptions |

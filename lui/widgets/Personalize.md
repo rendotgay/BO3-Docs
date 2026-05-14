@@ -1,0 +1,20 @@
+# Personalize
+
+Widget | Source
+| - | - |
+PersonalizeButton | ui.uieditor.widgets.CAC.MenuChooseClass.ItemWidgets.PersonalizeButton |
+PersonalizeCharacterCarouselItem | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacterCarouselItem |
+PersonalizeCharacterCarouselItem_InfoAreaLabel | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacterCarouselItem_InfoAreaLabel |
+PersonalizeCharacterCarouselItem_InfoPanel | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacterCarouselItem_InfoPanel |
+PersonalizeCharacterCarouselItem_Internal | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacterCarouselItem_Internal |
+PersonalizeCharacter_CPProgressionMessage | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacter_CPProgressionMessage |
+PersonalizeCharacter_ColorOption | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacter_ColorOption |
+PersonalizeCharacter_ColorOptionList | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacter_ColorOptionList |
+PersonalizeCharacter_ColorsList | personalizecharacter_colorslist.lua |
+PersonalizeCharacter_ListButton | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacter_ListButton |
+PersonalizeCharacter_PersonalizeList | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacter_PersonalizeList |
+PersonalizeCharacter_SelectedItemField | ui.uieditor.widgets.CharacterCustomization.PersonalizeCharacter_SelectedItemField |
+PersonalizeElemsSideList | ui.uieditor.widgets.Heroes.PersonalizeElemsSideList |
+PersonalizeHero_InfoBlock | ui.uieditor.widgets.CharacterCustomization.PersonalizeHero_InfoBlock |
+PersonalizePrompt | ui.uieditor.widgets.CAC.MenuChooseClass.ItemWidgets.PersonalizePrompt |
+PersonalizeSpecTitle | ui.uieditor.widgets.Specialist.PersonalizeSpecTitle |

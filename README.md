@@ -56,6 +56,10 @@ A compilation of useful information for beginners to Black Ops III Radiant
 - [Sound Aliases](sound_alias.md)
 - [Chatter](chatter.md)
 
+### UI
+- [Custom HUD](custom_hud.md)
+- [LUI Models](lui_models.md)
+
 ## Resources
 - [Program115](https://www.youtube.com/playlist?list=PL1rMfOFuHfbNymLALGLkZlqdbWHGiKD_K)
 - [VerK0](https://www.youtube.com/playlist?list=PLYAF4YwatlpU47HOddWaEPJlQt3yjoNtY)

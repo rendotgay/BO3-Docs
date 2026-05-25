@@ -1,7 +1,7 @@
 # Color Correction
 Adjusting the visual appearance of colors on your map
 
-## Setting up a custom lut
+## Setting up a custom LUT
 1. In APE, copy `luts_t7_default` material and `img_luts_t7_zm_factory` into a new GDT with unique names
 2. Update the material with the new image name
 3. Open the directory of the existing image, <sub>`Call of Duty Black Ops III/texture_assets/t7_luts`</sub> create a copy of the file with a unique name, and open it
@@ -10,7 +10,7 @@ Adjusting the visual appearance of colors on your map
 5. Open your maps folder in `Call of Duty Black Ops III/usermaps`, open your `.zone` file in `zone_source` <sub>or open it from the Mod Tools Launcher by right clicking your map</sub>
 6. Replace `material,luts_t7_default` with your new material, keeping the `material,` prefix
 
-## Editing your custom lut
+## Editing your custom LUT
 1. Open your new texture in your photo editor of choice
 2. Edit however you'd like. If you don't know what to change, try:
 	- Contrast
@@ -18,3 +18,7 @@ Adjusting the visual appearance of colors on your map
 	- Saturation
 	- Color Curves
 <sub>If you don't see any changes after saving, try restarting Radiant</sub>
+
+## LUT Indexes
+LUT Indexes are vertical strips in the LUT, typically 32 pixels tall. They allow you to use multiple LUTs per map.
+To change your LUT index via CSC, you can use [SetLutScriptIndex](./functions/SetLutScriptIndex.md)

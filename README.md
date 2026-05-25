@@ -2,7 +2,7 @@
 
 A compilation of useful information for beginners to Black Ops III Radiant
 
-<sub>Disclaimer, I did not write the majority of the scripts used. This is merely a collection of them that are useful to users. It is quite difficult to track down the original creators over a decade later.</sub>
+<sub>Disclaimer, I did not write the majority of the scripts used. This is merely a collection of them that are useful to users. It is quite difficult to track down the original creators over a decade later. If you would like to request credit for any of the scripts in this documentation, please reach out to me at ren@ren.gay</sub>
 
 ## Table of Contents
 

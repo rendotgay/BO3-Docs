@@ -1,4 +1,4 @@
-# Color Correction
+# Look Up Table
 Adjusting the visual appearance of colors on your map
 
 ## Setting up a custom LUT

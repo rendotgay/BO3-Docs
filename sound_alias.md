@@ -101,7 +101,7 @@ As long as everything is filled out correctly the sounds listed in the CSV files
 
 **CenterSend (0)** – override the center value specified in the pan for this alias if the specifiedCenterSend is larger (dB SPL).
 
-**VolMin/VolMax (92 db SPL)** – specify the volume min and max of the sound in dB SPL and theengine will randomize between these levels.
+**VolMin/VolMax (92 db SPL)** – specify the volume min and max of the sound in dB SPL and the engine will randomize between these levels.
 
 **DistMin (0)/DistMaxDry (10000)/DistMaxWet (10000)** – for a 3D sound, the DistMin is thepoint in distance units where the sound will begin to “falloff” or attenuate. So the sound will beat max volume from the player until it reaches this distance. DistMaxDry is the point where itwill become silent. It will scale between full volume at DistMin to silent at DistmaxDry.DistMaxWet is provided to give similar behavior but for the “wet” or reverberated portion ofthe sound. This allows you to extend the distance in which you will hear the soundreverberating.
 
@@ -109,7 +109,7 @@ As long as everything is filled out correctly the sounds listed in the CSV files
 
 **WetMinCurve (allon)/WetMaxCurve (default)** – same as the above dry signal but for thereverberated portion of the sound.
 
-**LimitCount (8)** – the number of simultaneous sounds of this alias that will play back beforelimiting will occur.
+**LimitCount (8)** – the number of simultaneous sounds of this alias that will play back before limiting will occur.
 
 **LimitType (oldest)** – Once the engine hits the LimitCount for this particular alias a decision needs to be made depending on this type specified. 
 Value | Summary

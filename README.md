@@ -8,6 +8,7 @@ A compilation of useful information for beginners to Black Ops III Radiant
 
 ### Information
 - [BO3 Syntax Highlighting](sublime_gsc.md)
+- [Introduction to GSC](gsc.md)
 - [Functions](functions.md)
 - [Variable Types](types.md)
 - [Internal Weapon Names](weapon_names.md)

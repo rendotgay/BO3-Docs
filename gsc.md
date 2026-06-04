@@ -51,7 +51,7 @@ The game offers many built-in functions you can use to interact with the game. T
 Data types are different objects that are interacted with inside your code.
 
 Data Type | Example | Explanation
-- | - | -
+| - | - | - |
 Integer | 0, 69, 1337 | Any whole number
 Float | 3.14159, 0.001 | Any decimal/fractional number
 String | "Hello world!", "123" | Text
